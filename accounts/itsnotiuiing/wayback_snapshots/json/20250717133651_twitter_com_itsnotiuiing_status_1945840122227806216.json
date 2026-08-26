@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1945539556767322410",
+    "created_at": "2025-07-17T13:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945840122227806216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1783932231536545792",
+          "start": 0,
+          "username": "iuo186"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945840122227806216",
+    "in_reply_to_user_id": "1783932231536545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945734677815300434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuo186 我不愿你独自走过 风雨的时分💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1945539556767322410",
+        "created_at": "2025-07-17T13:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945840122227806216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1783932231536545792",
+              "start": 0,
+              "username": "iuo186"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945840122227806216",
+        "in_reply_to_user_id": "1783932231536545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945734677815300434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuo186 我不愿你独自走过 风雨的时分💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783932231536545792",
+        "conversation_id": "1945539556767322410",
+        "created_at": "2025-07-17T06:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945734677815300434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945734677815300434",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945539556767322410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我不愿让你一个人 一个人在人海浮沉～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 164,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 545
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:52:55.000Z",
+        "description": "慢热。非常的 聊天 记录文字发疯",
+        "id": "1783932231536545792",
+        "name": "雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815084049700134912/37c2TgO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 16,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 311
+        },
+        "username": "iuo186",
+        "verified": false
+      }
+    ]
+  }
+}

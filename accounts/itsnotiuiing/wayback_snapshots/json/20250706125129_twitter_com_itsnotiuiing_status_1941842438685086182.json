@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941842401376501760"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1941842438685086182",
+    "created_at": "2025-07-06T12:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T13:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941842438685086182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/injitEd9jx",
+          "end": 28,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1941842438685086182/photo/1",
+          "media_key": "3_1941842401376501760",
+          "start": 5,
+          "url": "https://t.co/injitEd9jx"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1941786997477257363",
+          "start": 29,
+          "url": "https://t.co/4qMD2bnPHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941842438685086182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941786997477257363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难吃😔 https://t.co/injitEd9jx https://t.co/4qMD2bnPHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941842401376501760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLPYC_WgAAZs3h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941842401376501760"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941842438685086182",
+        "created_at": "2025-07-06T12:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T13:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941842438685086182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/injitEd9jx",
+              "end": 28,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1941842438685086182/photo/1",
+              "media_key": "3_1941842401376501760",
+              "start": 5,
+              "url": "https://t.co/injitEd9jx"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1941786997477257363",
+              "start": 29,
+              "url": "https://t.co/4qMD2bnPHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941842438685086182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941786997477257363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难吃😔 https://t.co/injitEd9jx https://t.co/4qMD2bnPHy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941786997477257363",
+        "created_at": "2025-07-06T09:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941786997477257363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941786997477257363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上有点想去吃赵记传承的姜撞奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 205,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1000
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

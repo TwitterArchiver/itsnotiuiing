@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954473577799110657",
+        "3_1954473577790779392"
+      ],
+      "media_source_tweet_id": [
+        "1954473643989237819",
+        "1954473643989237819"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954503770349683124",
+    "created_at": "2025-08-10T11:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T12:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954503770349683124"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 64,
+          "tag": "ZEROBASEONE"
+        },
+        {
+          "end": 81,
+          "start": 77,
+          "tag": "ZB1"
+        },
+        {
+          "end": 89,
+          "start": 82,
+          "tag": "제로베이스원"
+        },
+        {
+          "end": 100,
+          "start": 91,
+          "tag": "HANYUJIN"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "한유진"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647165692515610624",
+          "start": 3,
+          "username": "ZB1_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZmxdkHjFA",
+          "end": 129,
+          "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+          "media_key": "3_1954473577799110657",
+          "start": 106,
+          "url": "https://t.co/MZmxdkHjFA"
+        },
+        {
+          "display_url": "pic.x.com/MZmxdkHjFA",
+          "end": 129,
+          "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+          "media_key": "3_1954473577790779392",
+          "start": 106,
+          "url": "https://t.co/MZmxdkHjFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954503770349683124",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1726
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954473643989237819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZB1_official: _𝗭𝗘𝗥𝗢𝗙𝗢𝗖𝗨𝗦\n\n귀여운 유진 곰🐻🏠\nMC 실력도 미모도 으쓱으쓱 잘한다🎶👏\n\n#ZEROBASEONE #ZB1 #제로베이스원 \n#HANYUJIN #한유진 https://t.co/MZmxdkHjFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1954473577799110657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-vXR-aUAEngOj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1705,
+        "media_key": "3_1954473577790779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-vXR8bMAAOhzb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954473577799110657",
+            "3_1954473577790779392"
+          ],
+          "media_source_tweet_id": [
+            "1954473643989237819",
+            "1954473643989237819"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954503770349683124",
+        "created_at": "2025-08-10T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954503770349683124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "ZEROBASEONE"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "ZB1"
+            },
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "제로베이스원"
+            },
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "HANYUJIN"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "한유진"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647165692515610624",
+              "start": 3,
+              "username": "ZB1_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZmxdkHjFA",
+              "end": 129,
+              "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+              "media_key": "3_1954473577799110657",
+              "start": 106,
+              "url": "https://t.co/MZmxdkHjFA"
+            },
+            {
+              "display_url": "pic.x.com/MZmxdkHjFA",
+              "end": 129,
+              "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+              "media_key": "3_1954473577790779392",
+              "start": 106,
+              "url": "https://t.co/MZmxdkHjFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954503770349683124",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1726
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954473643989237819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZB1_official: _𝗭𝗘𝗥𝗢𝗙𝗢𝗖𝗨𝗦\n\n귀여운 유진 곰🐻🏠\nMC 실력도 미모도 으쓱으쓱 잘한다🎶👏\n\n#ZEROBASEONE #ZB1 #제로베이스원 \n#HANYUJIN #한유진 https://t.co/MZmxdkHjFA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954473577799110657",
+            "3_1954473577790779392"
+          ]
+        },
+        "author_id": "1647165692515610624",
+        "conversation_id": "1954473643989237819",
+        "created_at": "2025-08-10T09:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T10:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954473643989237819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 46,
+              "tag": "ZEROBASEONE"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "ZB1"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "제로베이스원"
+            },
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "HANYUJIN"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "한유진"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZmxdkHjFA",
+              "end": 111,
+              "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+              "media_key": "3_1954473577799110657",
+              "start": 88,
+              "url": "https://t.co/MZmxdkHjFA"
+            },
+            {
+              "display_url": "pic.x.com/MZmxdkHjFA",
+              "end": 111,
+              "expanded_url": "https://x.com/ZB1_official/status/1954473643989237819/photo/1",
+              "media_key": "3_1954473577790779392",
+              "start": 88,
+              "url": "https://t.co/MZmxdkHjFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954473643989237819",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 98600,
+          "like_count": 7737,
+          "quote_count": 160,
+          "reply_count": 341,
+          "retweet_count": 1726
+        },
+        "reply_settings": "everyone",
+        "text": "_𝗭𝗘𝗥𝗢𝗙𝗢𝗖𝗨𝗦\n\n귀여운 유진 곰🐻🏠\nMC 실력도 미모도 으쓱으쓱 잘한다🎶👏\n\n#ZEROBASEONE #ZB1 #제로베이스원 \n#HANYUJIN #한유진 https://t.co/MZmxdkHjFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 297,
+          "like_count": 1356,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 668
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:11:24.000Z",
+        "description": "THE 1ST FULL ALBUM ❝𝙉𝙀𝙑𝙀𝙍 𝙎𝘼𝙔 𝙉𝙀𝙑𝙀𝙍❞ ✶ 2025.09.01 Release",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zb1.lnk.to/NEVERSAYNEVER",
+                "end": 23,
+                "expanded_url": "http://zb1.lnk.to/NEVERSAYNEVER",
+                "start": 0,
+                "url": "https://t.co/TzrlSqsQe5"
+              }
+            ]
+          }
+        },
+        "id": "1647165692515610624",
+        "name": "ZEROBASEONE",
+        "pinned_tweet_id": "1953108803739893892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952384473116672000/3qKXnFb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154479,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 3909,
+          "media_count": 3089,
+          "tweet_count": 8085
+        },
+        "url": "https://t.co/TzrlSqsQe5",
+        "username": "ZB1_official",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941595915271196730",
+    "created_at": "2025-07-06T09:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941786515719471529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795544925984980992",
+          "start": 0,
+          "username": "VictoriaBa34336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941786515719471529",
+    "in_reply_to_user_id": "1795544925984980992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941595915271196730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VictoriaBa34336 举手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941595915271196730",
+        "created_at": "2025-07-06T09:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941786515719471529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795544925984980992",
+              "start": 0,
+              "username": "VictoriaBa34336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941786515719471529",
+        "in_reply_to_user_id": "1795544925984980992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941595915271196730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VictoriaBa34336 举手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795544925984980992",
+        "conversation_id": "1941595915271196730",
+        "created_at": "2025-07-05T20:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T21:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941595915271196730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941595915271196730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1054,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有小宝宝跟我互关互赞哦🥺🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 202,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1061
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T19:57:31.000Z",
+        "description": "喜欢现在的生活 有趣 有盼 努力 上进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qwqw85885",
+                "end": 23,
+                "expanded_url": "https://t.me/qwqw85885",
+                "start": 0,
+                "url": "https://t.co/dZoKfWmdyv"
+              }
+            ]
+          }
+        },
+        "id": "1795544925984980992",
+        "location": "33.4kg",
+        "name": "小牌气",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941596398866026498/ZS0jAurU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/dZoKfWmdyv",
+        "username": "VictoriaBa34336",
+        "verified": false
+      }
+    ]
+  }
+}

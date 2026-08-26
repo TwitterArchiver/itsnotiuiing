@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956101547194290448",
+    "created_at": "2025-08-14T21:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T22:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956101547194290448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ibeen_0203/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ibeen_0203/status/1955904591629087070",
+          "start": 20,
+          "url": "https://t.co/zFyTUi3qBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956101547194290448",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955904591629087070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "이 사람 누구야, 보이그룹 멤버야? https://t.co/zFyTUi3qBy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955904584054136835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTE2zsa4AM5xFX.jpg",
+        "width": 1164
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955904584058290176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTE2ztaQAAAKQy.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956101547194290448",
+        "created_at": "2025-08-14T21:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T22:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956101547194290448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ibeen_0203/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ibeen_0203/status/1955904591629087070",
+              "start": 20,
+              "url": "https://t.co/zFyTUi3qBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956101547194290448",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955904591629087070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이 사람 누구야, 보이그룹 멤버야? https://t.co/zFyTUi3qBy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955904584054136835",
+            "3_1955904584058290176"
+          ]
+        },
+        "author_id": "1666816811835478017",
+        "conversation_id": "1955904591629087070",
+        "created_at": "2025-08-14T08:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955904591629087070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6QdZZStvS",
+              "end": 23,
+              "expanded_url": "https://x.com/ibeen_0203/status/1955904591629087070/photo/1",
+              "media_key": "3_1955904584054136835",
+              "start": 0,
+              "url": "https://t.co/x6QdZZStvS"
+            },
+            {
+              "display_url": "pic.x.com/x6QdZZStvS",
+              "end": 23,
+              "expanded_url": "https://x.com/ibeen_0203/status/1955904591629087070/photo/1",
+              "media_key": "3_1955904584058290176",
+              "start": 0,
+              "url": "https://t.co/x6QdZZStvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955904591629087070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1509,
+          "impression_count": 403989,
+          "like_count": 20412,
+          "quote_count": 397,
+          "reply_count": 2,
+          "retweet_count": 5543
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x6QdZZStvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 297,
+          "like_count": 1615,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 730
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T14:38:09.000Z",
+        "description": "머 바보야😟",
+        "id": "1666816811835478017",
+        "name": "ㅇㅇ",
+        "pinned_tweet_id": "1871588498291163335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814306756195164160/TDYGZ-XP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 638,
+          "like_count": 21545,
+          "listed_count": 17,
+          "media_count": 1092,
+          "tweet_count": 4376
+        },
+        "username": "ibeen_0203",
+        "verified": false
+      }
+    ]
+  }
+}

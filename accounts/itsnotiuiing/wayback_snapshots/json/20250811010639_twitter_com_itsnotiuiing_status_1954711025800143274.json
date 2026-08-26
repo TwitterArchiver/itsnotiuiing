@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954555079446724808",
+    "created_at": "2025-08-11T01:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T02:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954711025800143274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928759429178208256",
+          "start": 0,
+          "username": "ttinggggg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954711025800143274",
+    "in_reply_to_user_id": "1928759429178208256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954665688817361068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttinggggg0 要把后面的画了删掉🌚🌚重复了🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-11T01:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954711025800143274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928759429178208256",
+              "start": 0,
+              "username": "ttinggggg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954711025800143274",
+        "in_reply_to_user_id": "1928759429178208256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954665688817361068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttinggggg0 要把后面的画了删掉🌚🌚重复了🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928759429178208256",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-10T22:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T23:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954665688817361068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954665688817361068",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954566500440015003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 病句在哪？？？我反复看了三遍都没找出来哪里有病句（从小试卷出找病句从没得分过）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 281,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 691
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:24:26.000Z",
+        "description": "嘀嗒嘀嗒嘀嗒嗒滴嗒我的废话集",
+        "id": "1928759429178208256",
+        "name": "左边一个口右边一个舍叫啥",
+        "pinned_tweet_id": "1939564979931275531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951672195186388992/R67bPij3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 49,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 375
+        },
+        "username": "ttinggggg0",
+        "verified": false
+      }
+    ]
+  }
+}

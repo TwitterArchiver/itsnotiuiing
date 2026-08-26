@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2070285233661104537",
+    "created_at": "2026-06-25T23:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070285233661104537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070285233661104537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚整个晚上都没睡着。明明凌晨就关手机休息了，翻来覆去完全没有困意，躺着躺着一睁眼发现天亮了。。。我真是要对佐匹克隆免疫了。今早心率直接到了100，感觉胸口都很不舒服。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2070285233661104537",
+        "created_at": "2026-06-25T23:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070285233661104537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070285233661104537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚整个晚上都没睡着。明明凌晨就关手机休息了，翻来覆去完全没有困意，躺着躺着一睁眼发现天亮了。。。我真是要对佐匹克隆免疫了。今早心率直接到了100，感觉胸口都很不舒服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 234,
+          "like_count": 2852,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

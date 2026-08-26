@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955192878130663676",
+    "created_at": "2025-08-12T11:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955227047405711369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1953759373379125248",
+          "start": 0,
+          "username": "zwwxycy"
+        },
+        {
+          "end": 24,
+          "id": "1656608807034982400",
+          "start": 9,
+          "username": "Kittywishacake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955227047405711369",
+    "in_reply_to_user_id": "1953759373379125248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955214608844918886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwwxycy @Kittywishacake 还是个古风小生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955192878130663676",
+        "created_at": "2025-08-12T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955227047405711369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1953759373379125248",
+              "start": 0,
+              "username": "zwwxycy"
+            },
+            {
+              "end": 24,
+              "id": "1656608807034982400",
+              "start": 9,
+              "username": "Kittywishacake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955227047405711369",
+        "in_reply_to_user_id": "1953759373379125248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955214608844918886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwwxycy @Kittywishacake 还是个古风小生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953759373379125248",
+        "conversation_id": "1955192878130663676",
+        "created_at": "2025-08-12T10:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955214608844918886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            },
+            {
+              "end": 29,
+              "id": "1656608807034982400",
+              "start": 14,
+              "username": "Kittywishacake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955214608844918886",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955207330704027903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing @Kittywishacake 此秘籍乃机密也 姑娘需静心等候 虔诚祷告 便可膨胀数十元 快哉快哉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 290,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 752
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T10:05:15.000Z",
+        "description": "你好 祝你每天神券都膨胀无门槛30元 双性人    不用回关我",
+        "id": "1953759373379125248",
+        "name": "想要神券膨胀无门槛50元教程私我",
+        "pinned_tweet_id": "1954778307280687151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954778200242061312/VqD3qS7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 45,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 292
+        },
+        "username": "zwwxycy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T10:35:11.000Z",
+        "description": "讨厌我就拉黑好吗好的 装货滚 我的评论和点赞被ban了。🚬不是装高冷。部分双取是因为之前被冻结了msk直接给我双了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Kittylove.com",
+                "end": 23,
+                "expanded_url": "http://www.Kittylove.com",
+                "start": 0,
+                "url": "https://t.co/6OuMxjez1G"
+              }
+            ]
+          }
+        },
+        "id": "1656608807034982400",
+        "location": "Kitty♡love",
+        "name": "貓很壞（评论点赞都被ban",
+        "pinned_tweet_id": "1953306422860779863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936118749846728704/BRpP8gXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 198,
+          "like_count": 9329,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 4931
+        },
+        "url": "https://t.co/6OuMxjez1G",
+        "username": "Kittywishacake",
+        "verified": false
+      }
+    ]
+  }
+}

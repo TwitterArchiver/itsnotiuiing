@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954716567952076980",
+    "created_at": "2025-08-11T01:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T02:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954717749273575528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748638915966435328",
+          "start": 0,
+          "username": "yh066300114506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954717749273575528",
+    "in_reply_to_user_id": "1748638915966435328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954717156920418652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yh066300114506 都没点。梦想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954716567952076980",
+        "created_at": "2025-08-11T01:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954717749273575528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748638915966435328",
+              "start": 0,
+              "username": "yh066300114506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954717749273575528",
+        "in_reply_to_user_id": "1748638915966435328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954717156920418652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yh066300114506 都没点。梦想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748638915966435328",
+        "conversation_id": "1954716567952076980",
+        "created_at": "2025-08-11T01:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954717156920418652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954717156920418652",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954716567952076980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 所以你把刚才说的那些都点了中杯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 282,
+          "like_count": 1393,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 705
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:29:48.000Z",
+        "description": "广东 184 83kg ENFP小狗 工科研0 爱运动 \n喜欢看柯南",
+        "id": "1748638915966435328",
+        "location": "光年之外",
+        "name": "shu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753963446666993664/3rtSSXkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "yh066300114506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952398552778543274",
+    "created_at": "2025-08-05T13:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T14:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952723143644287379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1791496252208955392",
+          "start": 0,
+          "username": "Fanx692Fanxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952723143644287379",
+    "in_reply_to_user_id": "1791496252208955392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952398552778543274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanx692Fanxing 声音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952398552778543274",
+        "created_at": "2025-08-05T13:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T14:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952723143644287379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1791496252208955392",
+              "start": 0,
+              "username": "Fanx692Fanxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952723143644287379",
+        "in_reply_to_user_id": "1791496252208955392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952398552778543274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanx692Fanxing 声音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791496252208955392",
+        "conversation_id": "1952398552778543274",
+        "created_at": "2025-08-04T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952398552778543274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952398552778543274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 322685,
+          "like_count": 98,
+          "quote_count": 3,
+          "reply_count": 76,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘掉一个人到底先忘掉长相还是声音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 255,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 568
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T15:49:35.000Z",
+        "description": "永远爱小猫 当朋友圈发 没事发点文案分享生活 喜欢记得fo我",
+        "id": "1791496252208955392",
+        "location": "你的怀里",
+        "name": "繁星小猫",
+        "pinned_tweet_id": "1951348201627459593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945465580493873154/QGztXuy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 146,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 258
+        },
+        "username": "Fanx692Fanxing",
+        "verified": false
+      }
+    ]
+  }
+}

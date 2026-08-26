@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1966838886954659925",
+    "created_at": "2025-09-13T12:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T13:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966842986047959104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966842986047959104",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966838886954659925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 蹲😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966838874849841152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0udiTHakAAH7TP.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1966838886954659925",
+        "created_at": "2025-09-13T12:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966842986047959104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966842986047959104",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966838886954659925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 蹲😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966838874849841152"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "1966838886954659925",
+        "created_at": "2025-09-13T12:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966838886954659925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKjfrrUmez",
+              "end": 133,
+              "expanded_url": "https://x.com/trpaomo/status/1966838886954659925/photo/1",
+              "media_key": "3_1966838874849841152",
+              "start": 110,
+              "url": "https://t.co/iKjfrrUmez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966838886954659925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "500fo啦🥳抽5个宝宝请喝奶茶！规则就是在这条下面评论留言，然后按留言顺序让ai选5个幸运数字，抽中的必须是关注我的、没有锁推的，主页不是全那种转发色图和视频的‼️截止到周一中午12点！\n宝宝们快来！👏🏼👏🏼👏🏼👏🏼 https://t.co/iKjfrrUmez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 301,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 就是来分享生活碎碎念的 不约不私不聊 女宝宝们和互关除外",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "1966838886954659925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 94,
+          "like_count": 4548,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 1635
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

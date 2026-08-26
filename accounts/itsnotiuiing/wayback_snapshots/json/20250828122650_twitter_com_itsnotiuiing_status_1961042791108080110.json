@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1960280699845697726",
+    "created_at": "2025-08-28T12:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961042791108080110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660170005089255424",
+          "start": 0,
+          "username": "puppyoo_ioio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961042791108080110",
+    "in_reply_to_user_id": "1660170005089255424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961042706370904150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppyoo_ioio 么么哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1960280699845697726",
+        "created_at": "2025-08-28T12:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961042791108080110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660170005089255424",
+              "start": 0,
+              "username": "puppyoo_ioio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961042791108080110",
+        "in_reply_to_user_id": "1660170005089255424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961042706370904150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppyoo_ioio 么么哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660170005089255424",
+        "conversation_id": "1960280699845697726",
+        "created_at": "2025-08-28T12:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961042706370904150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961042706370904150",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960280699845697726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 如此美萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 287,
+          "like_count": 1422,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T06:26:09.000Z",
+        "description": "🤧对不已啊 我是个成分复杂的小人/可以叫我小葵！/不加联系方式/不yp 不定制 无🚪 不聊骚 /防诈小号@yeiisau_le",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "yeiisau_le"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooooicgyu_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ooooicgyu_",
+                "start": 0,
+                "url": "https://t.co/1NbGpgQIgI"
+              }
+            ]
+          }
+        },
+        "id": "1660170005089255424",
+        "location": "来一根薯条吗         提问箱👉",
+        "name": "ooooicgyu_",
+        "pinned_tweet_id": "1956040358519046555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954238680237068288/ZgRFeKd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 113,
+          "like_count": 6333,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/1NbGpgQIgI",
+        "username": "puppyoo_ioio",
+        "verified": false
+      }
+    ]
+  }
+}

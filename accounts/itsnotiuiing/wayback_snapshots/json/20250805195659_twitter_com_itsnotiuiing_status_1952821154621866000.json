@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952707774753976320"
+      ],
+      "media_source_tweet_id": [
+        "1952707777224417470"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952821154621866000",
+    "created_at": "2025-08-05T19:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T20:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952821154621866000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1777940825185640448",
+          "start": 3,
+          "username": "zhanghaofaces"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3nJiBMjeQ7",
+          "end": 42,
+          "expanded_url": "https://x.com/zhanghaofaces/status/1952707777224417470/photo/1",
+          "media_key": "3_1952707774753976320",
+          "start": 19,
+          "url": "https://t.co/3nJiBMjeQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952821154621866000",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952707777224417470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhanghaofaces: https://t.co/3nJiBMjeQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_1952707774753976320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxlpYBBasAArY15.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952707774753976320"
+          ],
+          "media_source_tweet_id": [
+            "1952707777224417470"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952821154621866000",
+        "created_at": "2025-08-05T19:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T20:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952821154621866000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1777940825185640448",
+              "start": 3,
+              "username": "zhanghaofaces"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nJiBMjeQ7",
+              "end": 42,
+              "expanded_url": "https://x.com/zhanghaofaces/status/1952707777224417470/photo/1",
+              "media_key": "3_1952707774753976320",
+              "start": 19,
+              "url": "https://t.co/3nJiBMjeQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952821154621866000",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952707777224417470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhanghaofaces: https://t.co/3nJiBMjeQ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952707774753976320"
+          ]
+        },
+        "author_id": "1777940825185640448",
+        "conversation_id": "1952707777224417470",
+        "created_at": "2025-08-05T12:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952707777224417470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nJiBMjeQ7",
+              "end": 23,
+              "expanded_url": "https://x.com/zhanghaofaces/status/1952707777224417470/photo/1",
+              "media_key": "3_1952707774753976320",
+              "start": 0,
+              "url": "https://t.co/3nJiBMjeQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952707777224417470",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 16321,
+          "like_count": 1179,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3nJiBMjeQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 258,
+          "like_count": 1167,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 584
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T06:05:08.000Z",
+        "description": "#장하오 #章昊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "장하오"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "章昊"
+              }
+            ]
+          }
+        },
+        "id": "1777940825185640448",
+        "name": "장하오 얼굴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934413256552292352/GiVFaR6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 0,
+          "like_count": 1762,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 220
+        },
+        "username": "zhanghaofaces",
+        "verified": false
+      }
+    ]
+  }
+}
