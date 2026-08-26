@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954525713194738047",
+    "created_at": "2025-08-11T05:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T06:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954776152624738501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938475214016548867",
+          "start": 0,
+          "username": "Mlsw_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954776152624738501",
+    "in_reply_to_user_id": "1938475214016548867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954525713194738047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mlsw_official 如听仙乐耳暂明"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93821,
+        "height": 1036,
+        "media_key": "13_1954525300320317441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954525300320317441/img/XJAcezn6yXbDaktB.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954525300320317441/vid/avc1/320x460/6oMazAQ7-calZXXP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954525300320317441/vid/avc1/480x690/HsQC65SYEQ3QHfPU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954525300320317441/vid/avc1/720x1036/IOkMlztqS6h64bx8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954525300320317441/pl/_eWH-7iVcJfaY-8j.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954525713194738047",
+        "created_at": "2025-08-11T05:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954776152624738501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938475214016548867",
+              "start": 0,
+              "username": "Mlsw_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954776152624738501",
+        "in_reply_to_user_id": "1938475214016548867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954525713194738047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mlsw_official 如听仙乐耳暂明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954525300320317441"
+          ]
+        },
+        "author_id": "1938475214016548867",
+        "conversation_id": "1954525713194738047",
+        "created_at": "2025-08-10T12:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954525713194738047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "七里香",
+              "probability": 0.8976,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0GqC5pvur",
+              "end": 27,
+              "expanded_url": "https://x.com/Mlsw_official/status/1954525713194738047/video/1",
+              "media_key": "13_1954525300320317441",
+              "start": 4,
+              "url": "https://t.co/y0GqC5pvur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954525713194738047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七里香 https://t.co/y0GqC5pvur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 283,
+          "like_count": 1414,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 723
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T05:51:33.000Z",
+        "description": "淡淡的人生",
+        "id": "1938475214016548867",
+        "location": "命苦之人",
+        "name": "天然水",
+        "pinned_tweet_id": "1954525713194738047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951822079030149120/UmS3kpvK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 545,
+          "like_count": 9493,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 781
+        },
+        "username": "Mlsw_official",
+        "verified": false
+      }
+    ]
+  }
+}

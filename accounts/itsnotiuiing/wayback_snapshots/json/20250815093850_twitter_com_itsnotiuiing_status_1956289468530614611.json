@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956289453464678400"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1956289468530614611",
+    "created_at": "2025-08-15T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956289468530614611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cV5kRpBwK2",
+          "end": 43,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1956289468530614611/photo/1",
+          "media_key": "3_1956289453464678400",
+          "start": 20,
+          "url": "https://t.co/cV5kRpBwK2"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1954715825614864530",
+          "start": 44,
+          "url": "https://t.co/tce59JAggn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956289468530614611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954715825614864530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好喝啊啊 超级喜欢芒果😘 点门永存🙌 https://t.co/cV5kRpBwK2 https://t.co/tce59JAggn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956289453464678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYi5J-a8AAigMb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956289453464678400"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956289468530614611",
+        "created_at": "2025-08-15T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956289468530614611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV5kRpBwK2",
+              "end": 43,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1956289468530614611/photo/1",
+              "media_key": "3_1956289453464678400",
+              "start": 20,
+              "url": "https://t.co/cV5kRpBwK2"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1954715825614864530",
+              "start": 44,
+              "url": "https://t.co/tce59JAggn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956289468530614611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954715825614864530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好喝啊啊 超级喜欢芒果😘 点门永存🙌 https://t.co/cV5kRpBwK2 https://t.co/tce59JAggn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954715825614864530",
+        "created_at": "2025-08-11T01:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954715825614864530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954715825614864530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想喝一点点的奶绿装芒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1636,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 745
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

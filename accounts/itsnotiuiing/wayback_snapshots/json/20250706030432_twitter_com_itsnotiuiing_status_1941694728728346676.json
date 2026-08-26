@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-06T03:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T04:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941694728728346676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902978487662809090",
+          "start": 0,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941694728728346676",
+    "in_reply_to_user_id": "1902978487662809090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941606633353982459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justin405332629 超级好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T03:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941694728728346676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902978487662809090",
+              "start": 0,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941694728728346676",
+        "in_reply_to_user_id": "1902978487662809090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941606633353982459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justin405332629 超级好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T21:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T22:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941606633353982459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941606633353982459",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 哇塞哇塞，看着就流口水了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 197,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1045
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜长发男｜短发男｜不是男喘｜1i｜双子座♊｜可以叫我小玉｜链接是提问箱｜喜欢回关，因为想把这里当成朋友圈刷，会先看看内容｜随机分享生活和猫猫🐱🐱🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdMk4e"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": "森寒冬港",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1940964312774001022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937490111333310464/yj-PIzK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 336,
+          "like_count": 14265,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 3212
+        },
+        "url": "https://t.co/AEMLOdMk4e",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

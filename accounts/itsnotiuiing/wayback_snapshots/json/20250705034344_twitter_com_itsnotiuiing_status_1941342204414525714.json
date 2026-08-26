@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941122281901871107",
+    "created_at": "2025-07-05T03:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T04:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941342204414525714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1565786606937595904",
+          "start": 0,
+          "username": "ba_sl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941342204414525714",
+    "in_reply_to_user_id": "1565786606937595904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941285062097633718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ba_sl0 也可能是门店操作不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941122281901871107",
+        "created_at": "2025-07-05T03:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941342204414525714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1565786606937595904",
+              "start": 0,
+              "username": "ba_sl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941342204414525714",
+        "in_reply_to_user_id": "1565786606937595904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941285062097633718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ba_sl0 也可能是门店操作不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565786606937595904",
+        "conversation_id": "1941122281901871107",
+        "created_at": "2025-07-04T23:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T00:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941285062097633718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941285062097633718",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941122281901871107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 赵记，他家的开心果双皮奶上的开心碎软的不脆避雷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 192,
+          "like_count": 1036,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 977
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T19:40:42.000Z",
+        "description": "來至記憶的明信片 2026怎麼還不來",
+        "id": "1565786606937595904",
+        "name": "釒氺淼💌（学习版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936406478119735296/xGxL8A-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 49,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2175
+        },
+        "username": "ba_sl0",
+        "verified": false
+      }
+    ]
+  }
+}

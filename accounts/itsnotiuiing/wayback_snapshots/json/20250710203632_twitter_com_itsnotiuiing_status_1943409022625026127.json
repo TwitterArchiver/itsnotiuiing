@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1943401714096222362",
+    "created_at": "2025-07-10T20:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T21:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943409022625026127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803674898314960896",
+          "start": 0,
+          "username": "ll132345796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943409022625026127",
+    "in_reply_to_user_id": "1803674898314960896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943402071312732470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll132345796 可能还是不够好🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1943401714096222362",
+        "created_at": "2025-07-10T20:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943409022625026127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803674898314960896",
+              "start": 0,
+              "username": "ll132345796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943409022625026127",
+        "in_reply_to_user_id": "1803674898314960896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943402071312732470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll132345796 可能还是不够好🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803674898314960896",
+        "conversation_id": "1943401714096222362",
+        "created_at": "2025-07-10T20:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943402071312732470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943402071312732470",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943401714096222362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 你也很好，早点休息哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 206,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 794
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:23:14.000Z",
+        "description": "只是一个普通男生的日常碎碎念💦\n欢迎礼貌私信哦🌸\n               祝大家天天开心✨\n04/小狗日记/180/ENFP/异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xgll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xgll",
+                "start": 0,
+                "url": "https://t.co/QqhxoIkvie"
+              }
+            ]
+          }
+        },
+        "id": "1803674898314960896",
+        "name": "小狗凉凉",
+        "pinned_tweet_id": "1916749730681426383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803678040616214530/IqZImltA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 379,
+          "like_count": 22554,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/QqhxoIkvie",
+        "username": "ll132345796",
+        "verified": false
+      }
+    ]
+  }
+}

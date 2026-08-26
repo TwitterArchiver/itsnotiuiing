@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2077102020104990839",
+    "created_at": "2026-07-14T18:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077102020104990839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《幸福太短》，别名《电视剧《奇妙的时光之旅》片尾曲》，由 黄丽玲 演唱，收录于《A-Lin原声带》专辑中，《幸福太短》下载，《幸福太短》在线试听，更多幸福太短相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/ba1I5ud4",
+          "end": 23,
+          "expanded_url": "https://163cn.tv/ba1I5ud4",
+          "start": 0,
+          "status": 200,
+          "title": "幸福太短（电视剧《奇妙的时光之旅》片尾曲） - 黄丽玲 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=1363921095&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/r0Y5uX1Zif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077102020104990839",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/r0Y5uX1Zif"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2077102020104990839",
+        "created_at": "2026-07-14T18:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077102020104990839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《幸福太短》，别名《电视剧《奇妙的时光之旅》片尾曲》，由 黄丽玲 演唱，收录于《A-Lin原声带》专辑中，《幸福太短》下载，《幸福太短》在线试听，更多幸福太短相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ba1I5ud4",
+              "end": 23,
+              "expanded_url": "https://163cn.tv/ba1I5ud4",
+              "start": 0,
+              "status": 200,
+              "title": "幸福太短（电视剧《奇妙的时光之旅》片尾曲） - 黄丽玲 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=1363921095&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/r0Y5uX1Zif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077102020104990839",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r0Y5uX1Zif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 233,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

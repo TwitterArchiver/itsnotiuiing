@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955349502216507813",
+    "created_at": "2025-08-13T04:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955485461138510257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590872504943276032",
+          "start": 0,
+          "username": "seven0119__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955485461138510257",
+    "in_reply_to_user_id": "1590872504943276032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955466266543788073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seven0119__ 这可太神秘了💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955349502216507813",
+        "created_at": "2025-08-13T04:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955485461138510257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590872504943276032",
+              "start": 0,
+              "username": "seven0119__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955485461138510257",
+        "in_reply_to_user_id": "1590872504943276032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955466266543788073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seven0119__ 这可太神秘了💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590872504943276032",
+        "conversation_id": "1955349502216507813",
+        "created_at": "2025-08-13T03:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955466266543788073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955466266543788073",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955349502216507813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 181-70-17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1539,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 783
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T01:02:17.000Z",
+        "description": "性别男 @seven1207_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "seven1207_"
+              }
+            ]
+          }
+        },
+        "id": "1590872504943276032",
+        "name": "七七",
+        "pinned_tweet_id": "1787325147902603515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928285446012030978/zMpKsU2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 1305,
+          "like_count": 87584,
+          "listed_count": 9,
+          "media_count": 862,
+          "tweet_count": 45147
+        },
+        "username": "seven0119__",
+        "verified": false
+      }
+    ]
+  }
+}

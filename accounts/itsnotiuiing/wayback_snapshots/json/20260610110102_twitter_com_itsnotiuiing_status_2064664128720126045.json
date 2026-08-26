@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2064401705295560998",
+    "created_at": "2026-06-10T11:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064664128720126045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974479531290591232",
+          "start": 0,
+          "username": "justaywithz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064664128720126045",
+    "in_reply_to_user_id": "1974479531290591232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064401705295560998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justaywithz 唉我最近也在吃曲唑酮和劳拉西泮(´-ωก`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2064401705295560998",
+        "created_at": "2026-06-10T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064664128720126045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974479531290591232",
+              "start": 0,
+              "username": "justaywithz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064664128720126045",
+        "in_reply_to_user_id": "1974479531290591232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064401705295560998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justaywithz 唉我最近也在吃曲唑酮和劳拉西泮(´-ωก`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974479531290591232",
+        "conversation_id": "2064401705295560998",
+        "created_at": "2026-06-09T17:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064401705295560998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064401705295560998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前要吃一颗佐匹克隆 一颗妥泰 一颗阿立哌唑 一颗舍曲林 一颗鲁拉西酮 一颗苯海索 就这样吃了四年呀…每次吃都会想吐 吃了四年也没有习惯 哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "觉今是而昨非",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 254,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 67
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T14:19:46.000Z",
+        "description": "les｜05 brat p0 当朋友圈小号发",
+        "id": "1974479531290591232",
+        "name": "困",
+        "pinned_tweet_id": "2063344356954898590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974480316426489856/H2YHuDBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 158,
+          "like_count": 3497,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1902
+        },
+        "username": "justaywithz",
+        "verified": false
+      }
+    ]
+  }
+}

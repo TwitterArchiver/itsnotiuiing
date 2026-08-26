@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2075245622198943982",
+    "created_at": "2026-07-09T15:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075245622198943982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《很爱很爱你》，别名《电视剧《真情》片尾曲》，由 刘若英 演唱，收录于《很爱很爱你》专辑中，《很爱很爱你》下载，《很爱很爱你》在线试听，更多很爱很爱你相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/baG84F3O",
+          "end": 33,
+          "expanded_url": "https://163cn.tv/baG84F3O",
+          "images": [
+            {
+              "height": 1440,
+              "url": "https://pbs.twimg.com/news_img/2075245460672110592/msu1mM4E?format=jpg&name=orig",
+              "width": 1440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075245460672110592/msu1mM4E?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 10,
+          "status": 200,
+          "title": "很爱很爱你（电视剧《真情》片尾曲） - 刘若英 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=254589&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/TxEB5yk5Yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075245622198943982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再怎么爱你也没有用了https://t.co/TxEB5yk5Yu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2075245622198943982",
+        "created_at": "2026-07-09T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075245622198943982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《很爱很爱你》，别名《电视剧《真情》片尾曲》，由 刘若英 演唱，收录于《很爱很爱你》专辑中，《很爱很爱你》下载，《很爱很爱你》在线试听，更多很爱很爱你相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/baG84F3O",
+              "end": 33,
+              "expanded_url": "https://163cn.tv/baG84F3O",
+              "images": [
+                {
+                  "height": 1440,
+                  "url": "https://pbs.twimg.com/news_img/2075245460672110592/msu1mM4E?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075245460672110592/msu1mM4E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "很爱很爱你（电视剧《真情》片尾曲） - 刘若英 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=254589&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/TxEB5yk5Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075245622198943982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再怎么爱你也没有用了https://t.co/TxEB5yk5Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 231,
+          "like_count": 2925,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T02:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950013546084946412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1293721513397350406",
+          "start": 0,
+          "username": "Someudone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950013546084946412",
+    "in_reply_to_user_id": "1293721513397350406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950011716210684377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Someudone 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T02:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950013546084946412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1293721513397350406",
+              "start": 0,
+              "username": "Someudone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950013546084946412",
+        "in_reply_to_user_id": "1293721513397350406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950011716210684377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Someudone 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293721513397350406",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T01:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T02:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950011716210684377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950011716210684377",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 还行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 216,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 582
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T01:30:34.000Z",
+        "description": "有事请烧纸",
+        "id": "1293721513397350406",
+        "location": "地狱",
+        "name": "你不知道的某某某",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405343678340780032/GwtNU6rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 448,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1483
+        },
+        "username": "Someudone",
+        "verified": false
+      }
+    ]
+  }
+}

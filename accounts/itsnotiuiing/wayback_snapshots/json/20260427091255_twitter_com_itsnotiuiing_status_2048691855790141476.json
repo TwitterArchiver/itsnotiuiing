@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2048691855790141476",
+    "created_at": "2026-04-27T09:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048691855790141476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds03/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hgds03/status/2048427571814228207",
+          "start": 6,
+          "url": "https://t.co/aBgJ032YJs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048691855790141476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048427571814228207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈哭了 https://t.co/aBgJ032YJs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2048691855790141476",
+        "created_at": "2026-04-27T09:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048691855790141476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds03/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hgds03/status/2048427571814228207",
+              "start": 6,
+              "url": "https://t.co/aBgJ032YJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691855790141476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048427571814228207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈哭了 https://t.co/aBgJ032YJs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2048427571814228207",
+        "created_at": "2026-04-26T15:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048427571814228207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048427571814228207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 17685,
+          "like_count": 577,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "人和人真是奇怪 明明那么多个夜晚聊到凌晨 彼此坦然心迹 但是在某一天就普通的一天 突然变成已读不回的消息 没有下文的聊天记录 不再分享的生活 平淡如水的情绪 人与人之间的羁绊本就薄如蝉翼 感情就是不联系就没有的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 254,
+          "like_count": 2550,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 38
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2034824422222377028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 214,
+          "like_count": 1354,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 179
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

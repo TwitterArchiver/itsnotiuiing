@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954177136132243918",
+    "created_at": "2025-08-09T13:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T14:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954178582533787943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676622271350460416",
+          "start": 0,
+          "username": "yooiiss77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954178582533787943",
+    "in_reply_to_user_id": "1676622271350460416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954177136132243918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yooiiss77 所以要减少聊天频率👊👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954177136132243918",
+        "created_at": "2025-08-09T13:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954178582533787943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676622271350460416",
+              "start": 0,
+              "username": "yooiiss77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954178582533787943",
+        "in_reply_to_user_id": "1676622271350460416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954177136132243918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yooiiss77 所以要减少聊天频率👊👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676622271350460416",
+        "conversation_id": "1954177136132243918",
+        "created_at": "2025-08-09T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954177136132243918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954177136132243918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点受不了了 因为我特别容易喜欢上天天和我聊天的人 所以我一直避免和男的天天聊天 但是特别难避免啊我说🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 292,
+          "like_count": 1326,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 676
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:01:23.000Z",
+        "description": "巨蟹｜infj｜喜欢互动 但止步于推",
+        "id": "1676622271350460416",
+        "location": "屁话好多的一个女的。",
+        "name": "yooiiss",
+        "pinned_tweet_id": "1952006781921890493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676622535713226752/lqrCH3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 40,
+          "like_count": 4320,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 551
+        },
+        "username": "yooiiss77",
+        "verified": false
+      }
+    ]
+  }
+}

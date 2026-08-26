@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953089737214115966",
+    "created_at": "2025-08-07T02:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953278108326568156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "784026656705044480",
+          "start": 0,
+          "username": "Soi_Teoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953278108326568156",
+    "in_reply_to_user_id": "784026656705044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953106878281679008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Soi_Teoh 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-07T02:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953278108326568156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "784026656705044480",
+              "start": 0,
+              "username": "Soi_Teoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953278108326568156",
+        "in_reply_to_user_id": "784026656705044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953106878281679008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Soi_Teoh 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "784026656705044480",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-06T14:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953106878281679008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953106878281679008",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953089737214115966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 那每天多想几次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 267,
+          "like_count": 1197,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 579
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-06T13:44:56.000Z",
+        "description": "/点赞狂魔/基努李维斯yyds/lucky always with me/葱、姜、蒜齐全乃是人生最富有时刻/万人如海一身藏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soiteoh.cc",
+                "end": 23,
+                "expanded_url": "https://soiteoh.cc/",
+                "start": 0,
+                "url": "https://t.co/zwsLOWFV80"
+              }
+            ]
+          }
+        },
+        "id": "784026656705044480",
+        "location": "Shandong",
+        "name": "祖传5ahgor（打工人下线）",
+        "pinned_tweet_id": "1874247396957536707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866446345424572416/qfUTPeMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 445,
+          "like_count": 22507,
+          "listed_count": 2,
+          "media_count": 1821,
+          "tweet_count": 22013
+        },
+        "url": "https://t.co/zwsLOWFV80",
+        "username": "Soi_Teoh",
+        "verified": false
+      }
+    ]
+  }
+}

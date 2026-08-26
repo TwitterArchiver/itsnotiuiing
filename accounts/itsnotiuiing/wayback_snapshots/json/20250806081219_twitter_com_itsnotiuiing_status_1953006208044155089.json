@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952992737311244707",
+    "created_at": "2025-08-06T08:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T09:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953006208044155089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661066054418980864",
+          "start": 0,
+          "username": "zzZtomori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953006208044155089",
+    "in_reply_to_user_id": "1661066054418980864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952992737311244707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzZtomori 别在衣服上也太合适了吧 可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_1952992725533708288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpsiVZb0AAMrJC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952992737311244707",
+        "created_at": "2025-08-06T08:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953006208044155089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661066054418980864",
+              "start": 0,
+              "username": "zzZtomori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953006208044155089",
+        "in_reply_to_user_id": "1661066054418980864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952992737311244707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzZtomori 别在衣服上也太合适了吧 可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952992725533708288"
+          ]
+        },
+        "author_id": "1661066054418980864",
+        "conversation_id": "1952992737311244707",
+        "created_at": "2025-08-06T07:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952992737311244707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Px1Ya7BEge",
+              "end": 29,
+              "expanded_url": "https://x.com/zzZtomori/status/1952992737311244707/photo/1",
+              "media_key": "3_1952992725533708288",
+              "start": 6,
+              "url": "https://t.co/Px1Ya7BEge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952992737311244707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃佩戴 https://t.co/Px1Ya7BEge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 261,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 613
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T17:46:38.000Z",
+        "description": "",
+        "id": "1661066054418980864",
+        "name": "一只吉士堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952628266512052224/YchMM7IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 77,
+          "like_count": 1884,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 685
+        },
+        "username": "zzZtomori",
+        "verified": false
+      }
+    ]
+  }
+}

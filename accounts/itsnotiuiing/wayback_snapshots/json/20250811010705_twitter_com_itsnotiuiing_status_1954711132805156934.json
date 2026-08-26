@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954161287736516626",
+    "created_at": "2025-08-11T01:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T02:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954711132805156934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683298463893671936",
+          "start": 0,
+          "username": "ShuangJi0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954711132805156934",
+    "in_reply_to_user_id": "1683298463893671936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954635158939718074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuangJi0528 是的！！好吃捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954161287736516626",
+        "created_at": "2025-08-11T01:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954711132805156934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683298463893671936",
+              "start": 0,
+              "username": "ShuangJi0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954711132805156934",
+        "in_reply_to_user_id": "1683298463893671936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954635158939718074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuangJi0528 是的！！好吃捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683298463893671936",
+        "conversation_id": "1954161287736516626",
+        "created_at": "2025-08-10T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954635158939718074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954635158939718074",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954161287736516626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 看上去非常美味🥺😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 281,
+          "like_count": 1391,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 692
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T02:10:11.000Z",
+        "description": "幸福就是规律过一天一天 ✨| 生活记录簿✍🏻🧩 | 谢谢泥萌和我互动🫶🏻🥺 | 欢迎你们来匿名和我丸呀👉🏻：https://t.co/Zmbn8k079i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangji",
+                "end": 77,
+                "expanded_url": "https://ngl.link/shuangji",
+                "start": 54,
+                "url": "https://t.co/Zmbn8k079i"
+              }
+            ]
+          }
+        },
+        "id": "1683298463893671936",
+        "name": "双吉我们喜欢你",
+        "pinned_tweet_id": "1938942220578758822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949579144267735040/DVsT0A2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 219,
+          "like_count": 4351,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2421
+        },
+        "username": "ShuangJi0528",
+        "verified": false
+      }
+    ]
+  }
+}

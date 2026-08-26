@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065715427645538304"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2065715433601470775",
+    "created_at": "2026-06-13T08:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065715433601470775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95c4VBHd03",
+          "end": 64,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2065715433601470775/photo/1",
+          "media_key": "3_2065715427645538304",
+          "start": 41,
+          "url": "https://t.co/95c4VBHd03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065715433601470775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小组作业就是对有责任心的人最大的惩罚。组员不干活导致我的 PPT 报告还没改完。 https://t.co/95c4VBHd03"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2065715427645538304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrlPJ_bQAAAf32.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065715427645538304"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2065715433601470775",
+        "created_at": "2026-06-13T08:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065715433601470775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95c4VBHd03",
+              "end": 64,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2065715433601470775/photo/1",
+              "media_key": "3_2065715427645538304",
+              "start": 41,
+              "url": "https://t.co/95c4VBHd03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065715433601470775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小组作业就是对有责任心的人最大的惩罚。组员不干活导致我的 PPT 报告还没改完。 https://t.co/95c4VBHd03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "觉今是而昨非",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 259,
+          "like_count": 2884,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 60
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

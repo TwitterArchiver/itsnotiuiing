@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1946591446145876210",
+    "created_at": "2025-07-19T15:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T16:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946595353975026077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934362004967546880",
+          "start": 0,
+          "username": "Yoki636438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946595353975026077",
+    "in_reply_to_user_id": "1934362004967546880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946592651928629527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki636438 我爱你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1946591446145876210",
+        "created_at": "2025-07-19T15:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946595353975026077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934362004967546880",
+              "start": 0,
+              "username": "Yoki636438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946595353975026077",
+        "in_reply_to_user_id": "1934362004967546880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946592651928629527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki636438 我爱你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934362004967546880",
+        "conversation_id": "1946591446145876210",
+        "created_at": "2025-07-19T15:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946592651928629527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946592651928629527",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946591446145876210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好漂亮好漂亮好漂亮好漂亮好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 164,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 556
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T21:27:10.000Z",
+        "description": "bi 不约炮不聊骚不看鸡滚",
+        "id": "1934362004967546880",
+        "name": "Y oki",
+        "pinned_tweet_id": "1941816817015755264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934362580522524672/I09s-gMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 47,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 947
+        },
+        "username": "Yoki636438",
+        "verified": false
+      }
+    ]
+  }
+}

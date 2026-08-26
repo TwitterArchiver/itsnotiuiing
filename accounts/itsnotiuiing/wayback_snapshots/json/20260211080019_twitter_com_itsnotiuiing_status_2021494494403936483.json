@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2021399808993525982",
+    "created_at": "2026-02-11T08:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021494494403936483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882615086826872832",
+          "start": 0,
+          "username": "7_black_tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021494494403936483",
+    "in_reply_to_user_id": "1882615086826872832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021399808993525982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_black_tea 好好听🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28020,
+        "height": 812,
+        "media_key": "13_2021399730769850368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021399730769850368/img/4P7_Ug0bvEQFygVj.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021399730769850368/vid/avc1/320x360/KIv-uZX02L1ojP0a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021399730769850368/vid/avc1/480x540/Ep8EITFfS4llCHYM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021399730769850368/vid/avc1/720x812/RUyOX4B-aWSIhGhU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021399730769850368/pl/4mrnORpWft5NAU7p.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2021399808993525982",
+        "created_at": "2026-02-11T08:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021494494403936483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882615086826872832",
+              "start": 0,
+              "username": "7_black_tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021494494403936483",
+        "in_reply_to_user_id": "1882615086826872832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021399808993525982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_black_tea 好好听🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021399730769850368"
+          ]
+        },
+        "author_id": "1882615086826872832",
+        "conversation_id": "2021399808993525982",
+        "created_at": "2026-02-11T01:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021399808993525982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMD1YPgW8p",
+              "end": 40,
+              "expanded_url": "https://x.com/7_black_tea/status/2021399808993525982/video/1",
+              "media_key": "13_2021399730769850368",
+              "start": 17,
+              "url": "https://t.co/TMD1YPgW8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021399808993525982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离开我的依赖\n最近单曲循环的歌曲 https://t.co/TMD1YPgW8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "不善于社交",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 254,
+          "like_count": 2474,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 35
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T02:23:16.000Z",
+        "description": "日常分享号",
+        "id": "1882615086826872832",
+        "location": "未知",
+        "name": "红茶",
+        "pinned_tweet_id": "1943306203762954414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965578999213719552/I5tbnySZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 98,
+          "like_count": 61339,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1079
+        },
+        "username": "7_black_tea",
+        "verified": false
+      }
+    ]
+  }
+}

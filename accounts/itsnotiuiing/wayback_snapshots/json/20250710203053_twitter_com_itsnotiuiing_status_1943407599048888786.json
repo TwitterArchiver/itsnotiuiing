@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1943378557700575240",
+    "created_at": "2025-07-10T20:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T21:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943407599048888786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868700270181728256",
+          "start": 0,
+          "username": "cola_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943407599048888786",
+    "in_reply_to_user_id": "1868700270181728256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943378557700575240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cola_9527 还不睡觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943378547562975232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvhEfhebEAA2_TC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1943378557700575240",
+        "created_at": "2025-07-10T20:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943407599048888786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868700270181728256",
+              "start": 0,
+              "username": "cola_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943407599048888786",
+        "in_reply_to_user_id": "1868700270181728256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943378557700575240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cola_9527 还不睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943378547562975232"
+          ]
+        },
+        "author_id": "1868700270181728256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943378557700575240",
+        "created_at": "2025-07-10T18:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T19:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943378557700575240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIupE61qYm",
+              "end": 46,
+              "expanded_url": "https://x.com/cola_9527/status/1943378557700575240/photo/1",
+              "media_key": "3_1943378547562975232",
+              "start": 23,
+              "url": "https://t.co/fIupE61qYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943378557700575240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大晚上饿了，就算有点困也起来煮点吃的😐\n罪过 https://t.co/fIupE61qYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 206,
+          "like_count": 1046,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 840
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:50:52.000Z",
+        "description": "INFP/INTP ，恋爱脑 顶级i人",
+        "id": "1868700270181728256",
+        "name": "Reborn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941802184900825088/XMGMqp7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 16,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 221
+        },
+        "username": "cola_9527",
+        "verified": false
+      }
+    ]
+  }
+}

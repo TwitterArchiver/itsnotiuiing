@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1924695121997791258",
+    "created_at": "2025-07-23T12:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T13:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948000924305391762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "784026656705044480",
+          "start": 0,
+          "username": "Soi_Teoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948000924305391762",
+    "in_reply_to_user_id": "784026656705044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947973136605143443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Soi_Teoh 感谢🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1924695121997791258",
+        "created_at": "2025-07-23T12:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T13:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948000924305391762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "784026656705044480",
+              "start": 0,
+              "username": "Soi_Teoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948000924305391762",
+        "in_reply_to_user_id": "784026656705044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947973136605143443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Soi_Teoh 感谢🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "784026656705044480",
+        "conversation_id": "1924695121997791258",
+        "created_at": "2025-07-23T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947973136605143443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947973136605143443",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924695121997791258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 不得不为up点个赞👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 170,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 557
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-06T13:44:56.000Z",
+        "description": "/点赞狂魔/基努李维斯yyds/lucky always with me/葱、姜、蒜齐全乃是人生最富有时刻/万人如海一身藏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soiteoh.cc",
+                "end": 23,
+                "expanded_url": "https://soiteoh.cc/",
+                "start": 0,
+                "url": "https://t.co/zwsLOWFV80"
+              }
+            ]
+          }
+        },
+        "id": "784026656705044480",
+        "location": "Shandong",
+        "name": "祖传5ahgor（打工人下线）",
+        "pinned_tweet_id": "1874247396957536707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866446345424572416/qfUTPeMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 443,
+          "like_count": 22151,
+          "listed_count": 0,
+          "media_count": 1784,
+          "tweet_count": 21709
+        },
+        "url": "https://t.co/zwsLOWFV80",
+        "username": "Soi_Teoh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944381398124535952",
+    "created_at": "2025-07-13T13:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944385021717991665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446003819117092872",
+          "start": 0,
+          "username": "HhLoCC1B1eaS3BX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944385021717991665",
+    "in_reply_to_user_id": "1446003819117092872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944384570356289829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhLoCC1B1eaS3BX ！🤲🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944381398124535952",
+        "created_at": "2025-07-13T13:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944385021717991665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446003819117092872",
+              "start": 0,
+              "username": "HhLoCC1B1eaS3BX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944385021717991665",
+        "in_reply_to_user_id": "1446003819117092872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944384570356289829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhLoCC1B1eaS3BX ！🤲🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446003819117092872",
+        "conversation_id": "1944381398124535952",
+        "created_at": "2025-07-13T13:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944384570356289829"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "美美萌萌",
+              "probability": 0.3429,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944384570356289829",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944381398124535952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 美美萌萌的！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 207,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 672
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:47:28.000Z",
+        "description": "Enfj/1i switch/只回复正常人/当朋友圈发/不约不线下/🚪88纯绿/欢迎女孩子来互关",
+        "id": "1446003819117092872",
+        "name": "一只青",
+        "pinned_tweet_id": "1939185827936109051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942552952004050944/led83kkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 102,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 423
+        },
+        "username": "HhLoCC1B1eaS3BX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944090085193900488",
+    "created_at": "2025-07-13T03:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T04:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944240852311978131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868700270181728256",
+          "start": 0,
+          "username": "cola_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944240852311978131",
+    "in_reply_to_user_id": "1868700270181728256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944106056038424998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cola_9527 赵记传承也就浅浅充了300进去吧😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944090085193900488",
+        "created_at": "2025-07-13T03:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944240852311978131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868700270181728256",
+              "start": 0,
+              "username": "cola_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944240852311978131",
+        "in_reply_to_user_id": "1868700270181728256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944106056038424998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cola_9527 赵记传承也就浅浅充了300进去吧😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868700270181728256",
+        "conversation_id": "1944090085193900488",
+        "created_at": "2025-07-12T18:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T19:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944106056038424998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944106056038424998",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944090085193900488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 不是赵记花的？🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 205,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 671
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:50:52.000Z",
+        "description": "INFP/INTP ，恋爱脑 顶级i人",
+        "id": "1868700270181728256",
+        "name": "Reborn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941802184900825088/XMGMqp7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 229
+        },
+        "username": "cola_9527",
+        "verified": false
+      }
+    ]
+  }
+}

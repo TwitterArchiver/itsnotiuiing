@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-28T16:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T17:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949862471797260664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491438786248470532",
+          "start": 0,
+          "username": "tttttang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949862471797260664",
+    "in_reply_to_user_id": "1491438786248470532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949860995800985965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttang_ 泥也好美😍😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T16:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T17:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949862471797260664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491438786248470532",
+              "start": 0,
+              "username": "tttttang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949862471797260664",
+        "in_reply_to_user_id": "1491438786248470532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949860995800985965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttang_ 泥也好美😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491438786248470532",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T15:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949860995800985965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949860995800985965",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 美鼠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 193,
+          "like_count": 1029,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 566
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:48:23.000Z",
+        "description": "上网冲浪",
+        "id": "1491438786248470532",
+        "name": "我就这样莫名其妙",
+        "pinned_tweet_id": "1947280638467277024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886010234197737472/_Ru2IjQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 187,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1060
+        },
+        "username": "tttttang_",
+        "verified": false
+      }
+    ]
+  }
+}

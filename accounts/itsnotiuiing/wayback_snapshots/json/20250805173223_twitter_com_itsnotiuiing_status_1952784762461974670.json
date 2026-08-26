@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952784753469603840"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952650702766952696",
+    "created_at": "2025-08-05T17:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952784762461974670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804571128184127488",
+          "start": 0,
+          "username": "laozizuilihai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HeQHkOp8CK",
+          "end": 64,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1952784762461974670/photo/1",
+          "media_key": "3_1952784753469603840",
+          "start": 41,
+          "url": "https://t.co/HeQHkOp8CK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952784762461974670",
+    "in_reply_to_user_id": "1804571128184127488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952761635073880393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozizuilihai 我也是！！最后选择买校霸了！因为刷到了这个帖子🌚🌚 https://t.co/HeQHkOp8CK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952784753469603840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmvYxFawAAegt-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952784753469603840"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952650702766952696",
+        "created_at": "2025-08-05T17:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952784762461974670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804571128184127488",
+              "start": 0,
+              "username": "laozizuilihai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeQHkOp8CK",
+              "end": 64,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1952784762461974670/photo/1",
+              "media_key": "3_1952784753469603840",
+              "start": 41,
+              "url": "https://t.co/HeQHkOp8CK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952784762461974670",
+        "in_reply_to_user_id": "1804571128184127488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952761635073880393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozizuilihai 我也是！！最后选择买校霸了！因为刷到了这个帖子🌚🌚 https://t.co/HeQHkOp8CK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804571128184127488",
+        "conversation_id": "1952650702766952696",
+        "created_at": "2025-08-05T16:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952761635073880393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952761635073880393",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952650702766952696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 啊啊啊选择困难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 255,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 571
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T17:44:37.000Z",
+        "description": "https://t.co/ZObDN28xTM 熟人认出我麻烦您装作不认识🫶 ENTJ-A 不习惯互动，随意取关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niaonizuili",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niaonizuili",
+                "start": 0,
+                "url": "https://t.co/ZObDN28xTM"
+              }
+            ]
+          }
+        },
+        "id": "1804571128184127488",
+        "name": "鳥你嘴裡",
+        "pinned_tweet_id": "1939252353258963060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942970378168504320/Dl7AJMf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 615
+        },
+        "username": "laozizuilihai",
+        "verified": false
+      }
+    ]
+  }
+}

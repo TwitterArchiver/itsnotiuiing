@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940796633970888761",
+    "created_at": "2025-07-04T02:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T03:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940960994135801995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889505201305907200",
+          "start": 0,
+          "username": "sbx1731582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940960994135801995",
+    "in_reply_to_user_id": "1889505201305907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940808066985087433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sbx1731582 不知道 舍友的电脑💻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-04T02:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T03:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940960994135801995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889505201305907200",
+              "start": 0,
+              "username": "sbx1731582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940960994135801995",
+        "in_reply_to_user_id": "1889505201305907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940808066985087433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sbx1731582 不知道 舍友的电脑💻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889505201305907200",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-03T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940808066985087433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940808066985087433",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940796633970888761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这是谁？（推开）后面电脑显示的什么东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 187,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 945
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T02:42:54.000Z",
+        "description": "男生/我的乏味人生，正在无聊中.../性格波粒二象性/内容很杂，会有游戏、日常、美食、爱好、感想、风景等/没有饭吃会很委屈/你喜欢的东西我都喜欢/想要过上美好生活",
+        "id": "1889505201305907200",
+        "name": "想吃软敷敷的饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914859118357094402/Nt0JOvHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 1621,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1163
+        },
+        "username": "sbx1731582",
+        "verified": false
+      }
+    ]
+  }
+}

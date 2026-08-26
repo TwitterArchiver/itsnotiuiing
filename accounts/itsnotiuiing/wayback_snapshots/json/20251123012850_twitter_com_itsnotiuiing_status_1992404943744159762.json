@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1992261869848146336",
+    "created_at": "2025-11-23T01:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992404943744159762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1578737410732498945",
+          "start": 0,
+          "username": "pinganaini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992404943744159762",
+    "in_reply_to_user_id": "1578737410732498945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992294214915457245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinganaini 太可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1992294212612833281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YNB97awAEiJHD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1992261869848146336",
+        "created_at": "2025-11-23T01:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992404943744159762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1578737410732498945",
+              "start": 0,
+              "username": "pinganaini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992404943744159762",
+        "in_reply_to_user_id": "1578737410732498945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992294214915457245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinganaini 太可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992294212612833281"
+          ]
+        },
+        "author_id": "1578737410732498945",
+        "conversation_id": "1992261869848146336",
+        "created_at": "2025-11-22T18:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992294214915457245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQzuarf2lF",
+              "end": 47,
+              "expanded_url": "https://x.com/pinganaini/status/1992294214915457245/photo/1",
+              "media_key": "3_1992294212612833281",
+              "start": 24,
+              "url": "https://t.co/VQzuarf2lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992294214915457245",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992261869848146336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 咪和你说生日快乐！ https://t.co/VQzuarf2lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "…",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 310,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 14
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T13:22:04.000Z",
+        "description": "比奇堡居民/拥有17只爵士好咪的喵喵教教主还有两只修狗两只鹦鹉一条小蛇/咪和人共用一个号 咪会发自拍的/凤梨堡 堡家军\nsw/互关+v",
+        "id": "1578737410732498945",
+        "location": "比奇堡海滩菠萝屋",
+        "name": "塔斯汀板烧凤梨堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927719419821899776/N4fdz6gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2911,
+          "like_count": 1405,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 503
+        },
+        "username": "pinganaini",
+        "verified": false
+      }
+    ]
+  }
+}

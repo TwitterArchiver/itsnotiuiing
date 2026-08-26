@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974055241147617280"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1974055340850434163",
+    "created_at": "2025-10-03T10:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T11:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974055340850434163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCIRoWSIQ4",
+          "end": 61,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1974055340850434163/video/1",
+          "media_key": "13_1974055241147617280",
+          "start": 38,
+          "url": "https://t.co/aCIRoWSIQ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974055340850434163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉 我们到底是不是那种可以和你讲好无聊让你陪陪我这种话的关系（´-ω-`） https://t.co/aCIRoWSIQ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9666,
+        "height": 1280,
+        "media_key": "13_1974055241147617280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974055241147617280/img/N2oHosedNuezWg9u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974055241147617280/vid/avc1/320x568/1vz-0icx2pS6G1IE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974055241147617280/vid/avc1/480x852/7XUR7SHrO3gT4QUf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974055241147617280/vid/avc1/720x1280/HQu5xB9XKYIXzLOe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974055241147617280/pl/RUKe3AbzPICXIXnV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974055241147617280"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1974055340850434163",
+        "created_at": "2025-10-03T10:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974055340850434163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCIRoWSIQ4",
+              "end": 61,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1974055340850434163/video/1",
+              "media_key": "13_1974055241147617280",
+              "start": 38,
+              "url": "https://t.co/aCIRoWSIQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974055340850434163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我们到底是不是那种可以和你讲好无聊让你陪陪我这种话的关系（´-ω-`） https://t.co/aCIRoWSIQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 326,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954555079446724808",
+    "created_at": "2025-08-10T16:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954583924623155590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1863508919932338176",
+          "start": 0,
+          "username": "bw864565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954583924623155590",
+    "in_reply_to_user_id": "1863508919932338176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954577791795577068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bw864565 🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-10T16:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954583924623155590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1863508919932338176",
+              "start": 0,
+              "username": "bw864565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954583924623155590",
+        "in_reply_to_user_id": "1863508919932338176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954577791795577068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bw864565 🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863508919932338176",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-10T16:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954577791795577068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954577791795577068",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954555079446724808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 298,
+          "like_count": 1381,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 687
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T09:02:31.000Z",
+        "description": "男的。每天在搞黄色和搞paper之间摇摆。",
+        "id": "1863508919932338176",
+        "location": " ",
+        "name": "Baobao Wang",
+        "pinned_tweet_id": "1864638997051461809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863510639185891328/de6vKIRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 608,
+          "like_count": 10811,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 3197
+        },
+        "username": "bw864565",
+        "verified": false
+      }
+    ]
+  }
+}

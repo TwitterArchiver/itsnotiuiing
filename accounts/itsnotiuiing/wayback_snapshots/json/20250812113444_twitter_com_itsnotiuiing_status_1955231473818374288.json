@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955231462791450625"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1955231473818374288",
+    "created_at": "2025-08-12T11:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955231473818374288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMN3nYXSQo",
+          "end": 41,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1955231473818374288/photo/1",
+          "media_key": "3_1955231462791450625",
+          "start": 18,
+          "url": "https://t.co/xMN3nYXSQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955231473818374288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮我一下就差最后几个求你们了谢谢。 https://t.co/xMN3nYXSQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1955231462791450625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJgp_laEAEf9_S.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955231462791450625"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955231473818374288",
+        "created_at": "2025-08-12T11:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955231473818374288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMN3nYXSQo",
+              "end": 41,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1955231473818374288/photo/1",
+              "media_key": "3_1955231462791450625",
+              "start": 18,
+              "url": "https://t.co/xMN3nYXSQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955231473818374288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮我一下就差最后几个求你们了谢谢。 https://t.co/xMN3nYXSQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 291,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 752
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

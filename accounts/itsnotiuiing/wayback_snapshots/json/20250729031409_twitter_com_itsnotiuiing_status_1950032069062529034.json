@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T03:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T04:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950032069062529034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1235815318854832129",
+          "start": 0,
+          "username": "numQamKRbkRFCtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950032069062529034",
+    "in_reply_to_user_id": "1235815318854832129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950029396514849203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@numQamKRbkRFCtI 兄弟不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T03:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950032069062529034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1235815318854832129",
+              "start": 0,
+              "username": "numQamKRbkRFCtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950032069062529034",
+        "in_reply_to_user_id": "1235815318854832129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950029396514849203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@numQamKRbkRFCtI 兄弟不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235815318854832129",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T03:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950029396514849203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950029396514849203",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 兄弟轉身 有急事！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 210,
+          "like_count": 1046,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 584
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T06:33:01.000Z",
+        "description": "本人豐富 無法簡介",
+        "id": "1235815318854832129",
+        "location": "台中",
+        "name": "Davi",
+        "pinned_tweet_id": "1926657522905063707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932824494135259142/JHReBeIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 50,
+          "like_count": 309,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "username": "numQamKRbkRFCtI",
+        "verified": false
+      }
+    ]
+  }
+}

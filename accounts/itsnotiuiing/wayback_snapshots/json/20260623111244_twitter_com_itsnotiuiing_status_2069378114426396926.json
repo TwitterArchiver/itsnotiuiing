@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2069340814128607704",
+    "created_at": "2026-06-23T11:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069378114426396926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801472924974780417",
+          "start": 0,
+          "username": "Creamydea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069378114426396926",
+    "in_reply_to_user_id": "1801472924974780417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069361699849933167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Creamydea 好呀呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2069340814128607704",
+        "created_at": "2026-06-23T11:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069378114426396926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801472924974780417",
+              "start": 0,
+              "username": "Creamydea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069378114426396926",
+        "in_reply_to_user_id": "1801472924974780417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069361699849933167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Creamydea 好呀呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801472924974780417",
+        "conversation_id": "2069340814128607704",
+        "created_at": "2026-06-23T10:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069361699849933167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069361699849933167",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069340814128607704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 开换！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 233,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T04:33:23.000Z",
+        "description": "希望你天天开心.",
+        "id": "1801472924974780417",
+        "name": "iv77",
+        "pinned_tweet_id": "1855992195720892738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032484441202073600/NmuQuONR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 854,
+          "like_count": 7739,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "Creamydea",
+        "verified": false
+      }
+    ]
+  }
+}

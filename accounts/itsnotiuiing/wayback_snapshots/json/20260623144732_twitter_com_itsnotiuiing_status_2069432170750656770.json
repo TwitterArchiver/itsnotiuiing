@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2069051357202632724",
+    "created_at": "2026-06-23T14:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069432170750656770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        },
+        {
+          "end": 27,
+          "id": "1360591672241922050",
+          "start": 11,
+          "username": "ShiRaToRiiiiii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069432170750656770",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069295615742459912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 @ShiRaToRiiiiii_ 我靠我懂😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2069051357202632724",
+        "created_at": "2026-06-23T14:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069432170750656770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            },
+            {
+              "end": 27,
+              "id": "1360591672241922050",
+              "start": 11,
+              "username": "ShiRaToRiiiiii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069432170750656770",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069295615742459912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 @ShiRaToRiiiiii_ 我靠我懂😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785303923538161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2069051357202632724",
+        "created_at": "2026-06-23T05:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069295615742459912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1360591672241922050",
+              "start": 0,
+              "username": "ShiRaToRiiiiii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069295615742459912",
+        "in_reply_to_user_id": "1360591672241922050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069259410866839857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiRaToRiiiiii_ 蒽…我们地理科学就这样…这个比赛主要是我拖太久了…本来月初就要开始的，被我拖到月中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 233,
+          "like_count": 2847,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "这是什么？我吃一下谢谢😋\n小星星@xiaoxingxing90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "xiaoxingxing90"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 411,
+          "like_count": 36153,
+          "listed_count": 1,
+          "media_count": 1209,
+          "tweet_count": 6099
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T14:08:37.000Z",
+        "description": "b话多慎关/看黄男的关注我短十厘米",
+        "id": "1360591672241922050",
+        "name": "_Shiratori（野人）",
+        "pinned_tweet_id": "2013964700380229763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064252288995307520/2_aLs7h8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 112,
+          "like_count": 11295,
+          "listed_count": 0,
+          "media_count": 2968,
+          "tweet_count": 16284
+        },
+        "url": "",
+        "username": "ShiRaToRiiiiii_",
+        "verified": false
+      }
+    ]
+  }
+}

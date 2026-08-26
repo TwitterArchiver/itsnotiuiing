@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956063911293411691",
+    "created_at": "2025-08-15T05:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T06:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956223981385846917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874540345339658240",
+          "start": 0,
+          "username": "ao3todr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956223981385846917",
+    "in_reply_to_user_id": "1874540345339658240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956217843055517841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ao3todr 是的 所以及时止损啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-15T05:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956223981385846917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874540345339658240",
+              "start": 0,
+              "username": "ao3todr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956223981385846917",
+        "in_reply_to_user_id": "1874540345339658240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956217843055517841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ao3todr 是的 所以及时止损啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874540345339658240",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-15T04:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956217843055517841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956217843055517841",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956063911293411691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 需要付费才能维持的关系终究是短暂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1624,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 739
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T19:37:11.000Z",
+        "description": "我没有边界感",
+        "id": "1874540345339658240",
+        "name": "GAVR AWAY",
+        "pinned_tweet_id": "1889737006454042860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939998743920508928/sY9l_AdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 211,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 160
+        },
+        "username": "ao3todr",
+        "verified": false
+      }
+    ]
+  }
+}

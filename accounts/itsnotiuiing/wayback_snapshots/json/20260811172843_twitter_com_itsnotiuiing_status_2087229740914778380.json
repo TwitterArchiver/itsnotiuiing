@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2087229740914778380",
+    "created_at": "2026-08-11T17:28:43.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087229740914778380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062460470997721088",
+          "start": 3,
+          "username": "qinshuobk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087229740914778380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087075101418324455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinshuobk: 发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2087229740914778380",
+        "created_at": "2026-08-11T17:28:43.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087229740914778380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062460470997721088",
+              "start": 3,
+              "username": "qinshuobk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087229740914778380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087075101418324455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinshuobk: 发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062460470997721088",
+        "conversation_id": "2087075101418324455",
+        "created_at": "2026-08-11T07:14:14.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087075101418324455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087075101418324455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 21049,
+          "like_count": 364,
+          "quote_count": 5,
+          "reply_count": 162,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087229740914778380",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 232,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T09:05:37.000Z",
+        "description": "来此记录一些所思所想\n疯狂输出一些碎碎念",
+        "id": "2062460470997721088",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2087193387430805862",
+        "name": "秦硕",
+        "pinned_tweet_id": "2083612240733929842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062460470997721088/1785346794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461931143991297/ht-wjmtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8761,
+          "following_count": 16,
+          "like_count": 913,
+          "listed_count": 12,
+          "media_count": 121,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "qinshuobk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941025973774024838",
+    "created_at": "2025-07-04T06:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T07:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941025973774024838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunalikesgelat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yunalikesgelato/status/1940991613981110777",
+          "start": 3,
+          "url": "https://t.co/JTuE0sYR1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941025973774024838",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940991613981110777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✌️ https://t.co/JTuE0sYR1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1940991607416799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_JlUgXwAAZjuM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1940991607441969152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_JlUmX0AAMq55.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941025973774024838",
+        "created_at": "2025-07-04T06:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T07:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941025973774024838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunalikesgelat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yunalikesgelato/status/1940991613981110777",
+              "start": 3,
+              "url": "https://t.co/JTuE0sYR1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941025973774024838",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940991613981110777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✌️ https://t.co/JTuE0sYR1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940991607416799232",
+            "3_1940991607441969152"
+          ]
+        },
+        "author_id": "1721575306010746880",
+        "conversation_id": "1940991613981110777",
+        "created_at": "2025-07-04T04:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940991613981110777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ve6tI9o7kV",
+              "end": 34,
+              "expanded_url": "https://x.com/yunalikesgelato/status/1940991613981110777/photo/1",
+              "media_key": "3_1940991607416799232",
+              "start": 11,
+              "url": "https://t.co/Ve6tI9o7kV"
+            },
+            {
+              "display_url": "pic.x.com/Ve6tI9o7kV",
+              "end": 34,
+              "expanded_url": "https://x.com/yunalikesgelato/status/1940991613981110777/photo/1",
+              "media_key": "3_1940991607441969152",
+              "start": 11,
+              "url": "https://t.co/Ve6tI9o7kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940991613981110777",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3520,
+          "like_count": 169,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "following",
+        "text": "완전ㅇㅏ기잖아♡♡♡ https://t.co/Ve6tI9o7kV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 188,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 956
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T17:08:42.000Z",
+        "description": "",
+        "id": "1721575306010746880",
+        "location": "물복단 뽀사단 물복이들 복숭아단 뽀모임",
+        "name": "🗯️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785904627109736448/4AwuOvfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 92,
+          "like_count": 5932,
+          "listed_count": 35,
+          "media_count": 4010,
+          "tweet_count": 11185
+        },
+        "username": "yunalikesgelato",
+        "verified": true
+      }
+    ]
+  }
+}

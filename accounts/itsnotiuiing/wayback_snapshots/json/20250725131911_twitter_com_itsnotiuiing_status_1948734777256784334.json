@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1948732290617803140",
+    "created_at": "2025-07-25T13:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948734777256784334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930780836766638080",
+          "start": 0,
+          "username": "neverm0re_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948734777256784334",
+    "in_reply_to_user_id": "1930780836766638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948734635149852680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neverm0re_x 廉价劳动力😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1948732290617803140",
+        "created_at": "2025-07-25T13:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948734777256784334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930780836766638080",
+              "start": 0,
+              "username": "neverm0re_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948734777256784334",
+        "in_reply_to_user_id": "1930780836766638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948734635149852680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neverm0re_x 廉价劳动力😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930780836766638080",
+        "conversation_id": "1948732290617803140",
+        "created_at": "2025-07-25T13:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948734635149852680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948734635149852680",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948734472448340448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我嘞个豆🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 171,
+          "like_count": 1011,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 538
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T00:24:43.000Z",
+        "description": "允许一切发生｜不营字造句 不与梦做交易",
+        "id": "1930780836766638080",
+        "name": "奈文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936444260783423488/k2a_tV2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 75
+        },
+        "username": "neverm0re_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1942501578721878186",
+    "created_at": "2025-07-08T08:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T09:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942507327330082874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797870860415672320",
+          "start": 0,
+          "username": "Yulya1109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942507327330082874",
+    "in_reply_to_user_id": "1797870860415672320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942506925066969436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yulya1109 好的宝贝！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1942501578721878186",
+        "created_at": "2025-07-08T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942507327330082874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797870860415672320",
+              "start": 0,
+              "username": "Yulya1109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942507327330082874",
+        "in_reply_to_user_id": "1797870860415672320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942506925066969436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yulya1109 好的宝贝！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797870860415672320",
+        "conversation_id": "1942501578721878186",
+        "created_at": "2025-07-08T08:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942506925066969436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942506925066969436",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942506548103680081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 超级好吃 我不爱吃太甜的这个刚好！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 206,
+          "like_count": 1061,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1040
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T06:00:00.000Z",
+        "description": "",
+        "id": "1797870860415672320",
+        "name": "oo",
+        "pinned_tweet_id": "1917262053800304655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925861831144263680/165Ka7y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 66,
+          "like_count": 153,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 332
+        },
+        "username": "Yulya1109",
+        "verified": false
+      }
+    ]
+  }
+}

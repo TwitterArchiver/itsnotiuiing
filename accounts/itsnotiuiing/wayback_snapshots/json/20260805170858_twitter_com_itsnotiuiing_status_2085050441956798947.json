@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2085050441956798947",
+    "created_at": "2026-08-05T17:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085050441956798947"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085050441956798947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人说，世界上的水是一个循环。那眼泪到底是融进澹澹溪水翻过群山，还是润进大地滋养着大树稳稳扎根？我想，都是的。如果你爱哭，这世界上的山和海都是你的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2085050441956798947",
+        "created_at": "2026-08-05T17:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085050441956798947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085050441956798947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人说，世界上的水是一个循环。那眼泪到底是融进澹澹溪水翻过群山，还是润进大地滋养着大树稳稳扎根？我想，都是的。如果你爱哭，这世界上的山和海都是你的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 231,
+          "like_count": 2956,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

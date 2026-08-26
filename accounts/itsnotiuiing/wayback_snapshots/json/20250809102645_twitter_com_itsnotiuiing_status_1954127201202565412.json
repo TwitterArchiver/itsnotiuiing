@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954043205684793440",
+    "created_at": "2025-08-09T10:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T11:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954127201202565412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1320963547354951680",
+          "start": 0,
+          "username": "m1_tesoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954127201202565412",
+    "in_reply_to_user_id": "1320963547354951680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954083426061222364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1_tesoro 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T10:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954127201202565412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1320963547354951680",
+              "start": 0,
+              "username": "m1_tesoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954127201202565412",
+        "in_reply_to_user_id": "1320963547354951680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954083426061222364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1_tesoro 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320963547354951680",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T07:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T08:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954083426061222364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954083426061222364",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954043205684793440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我也好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 291,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 650
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T05:40:40.000Z",
+        "description": "",
+        "id": "1320963547354951680",
+        "location": "浙江",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953853269371236354/-3jL6G-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 285,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 190
+        },
+        "username": "m1_tesoro",
+        "verified": true
+      }
+    ]
+  }
+}

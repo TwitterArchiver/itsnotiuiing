@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955531894097055906",
+    "created_at": "2025-08-13T09:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955557957225357349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791709647520387073",
+          "start": 0,
+          "username": "imc1482886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955557957225357349",
+    "in_reply_to_user_id": "1791709647520387073",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955543385215041998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imc1482886 😱😱😱😱😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T09:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955557957225357349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791709647520387073",
+              "start": 0,
+              "username": "imc1482886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955557957225357349",
+        "in_reply_to_user_id": "1791709647520387073",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955543385215041998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imc1482886 😱😱😱😱😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791709647520387073",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T08:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955543385215041998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955543385215041998",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955531894097055906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 😈希望你不要睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 793
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:57:31.000Z",
+        "description": "缺爱批  线上是个话痨  喜欢欣赏和夸夸，像个有情的夸夸机器人，可以多回我评论多和我互动聊天吗🥺🥺//男生男生男生！♂！别搞错了",
+        "id": "1791709647520387073",
+        "name": "imc",
+        "pinned_tweet_id": "1919424185119449416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865460252520660992/R8DxKdqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 902
+        },
+        "username": "imc1482886",
+        "verified": false
+      }
+    ]
+  }
+}

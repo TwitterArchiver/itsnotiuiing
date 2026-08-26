@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967066908307693568"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1967066916834734162",
+    "created_at": "2025-09-14T03:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T04:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967066916834734162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XiTmIjxcxI",
+          "end": 28,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1967066916834734162/photo/1",
+          "media_key": "3_1967066908307693568",
+          "start": 5,
+          "url": "https://t.co/XiTmIjxcxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967066916834734162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奶龙大军 https://t.co/XiTmIjxcxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1967066908307693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0xs7l8bIAAc7zi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967066908307693568"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1967066916834734162",
+        "created_at": "2025-09-14T03:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967066916834734162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiTmIjxcxI",
+              "end": 28,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1967066916834734162/photo/1",
+              "media_key": "3_1967066908307693568",
+              "start": 5,
+              "url": "https://t.co/XiTmIjxcxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967066916834734162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奶龙大军 https://t.co/XiTmIjxcxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 303,
+          "like_count": 1611,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

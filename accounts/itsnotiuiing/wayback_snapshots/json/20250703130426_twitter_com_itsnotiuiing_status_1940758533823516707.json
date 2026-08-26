@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940719848369291536",
+    "created_at": "2025-07-03T13:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T14:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940758533823516707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659237510046679055",
+          "start": 0,
+          "username": "zhangsanfe75293"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940758533823516707",
+    "in_reply_to_user_id": "1659237510046679055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940743020502192189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangsanfe75293 我不瓦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940719848369291536",
+        "created_at": "2025-07-03T13:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940758533823516707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659237510046679055",
+              "start": 0,
+              "username": "zhangsanfe75293"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940758533823516707",
+        "in_reply_to_user_id": "1659237510046679055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940743020502192189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangsanfe75293 我不瓦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659237510046679055",
+        "conversation_id": "1940719848369291536",
+        "created_at": "2025-07-03T12:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940743020502192189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940743020502192189",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940719848369291536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 你怎么也瓦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 186,
+          "like_count": 1008,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 931
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T16:40:32.000Z",
+        "description": "好好热爱生活的普通人，匿名问答 https://t.co/jkqTWLr5nA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanxian2",
+                "end": 39,
+                "expanded_url": "https://ngl.link/sanxian2",
+                "start": 16,
+                "url": "https://t.co/jkqTWLr5nA"
+              }
+            ]
+          }
+        },
+        "id": "1659237510046679055",
+        "name": "别骗小笨，你问小笨是谁？小笨是我",
+        "pinned_tweet_id": "1935612035259305987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937815481060319233/DazdXKJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 60,
+          "like_count": 4123,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1783
+        },
+        "username": "zhangsanfe75293",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1959051592537448652",
+    "created_at": "2025-08-23T01:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T02:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959070544156037219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790253070502502400",
+          "start": 0,
+          "username": "FireFly_my_wife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959070544156037219",
+    "in_reply_to_user_id": "1790253070502502400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959051592537448652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FireFly_my_wife 喜欢吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1959051592537448652",
+        "created_at": "2025-08-23T01:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T02:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959070544156037219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790253070502502400",
+              "start": 0,
+              "username": "FireFly_my_wife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959070544156037219",
+        "in_reply_to_user_id": "1790253070502502400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959051592537448652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FireFly_my_wife 喜欢吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790253070502502400",
+        "conversation_id": "1959051592537448652",
+        "created_at": "2025-08-23T00:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T01:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959051592537448652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959051592537448652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倒装句害人！🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 318,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 232
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T05:29:36.000Z",
+        "description": "幺幺哒",
+        "id": "1790253070502502400",
+        "name": "aiinia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912141825621544960/OQsV6INS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 89,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "username": "FireFly_my_wife",
+        "verified": false
+      }
+    ]
+  }
+}

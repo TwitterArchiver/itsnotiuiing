@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-06T07:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T08:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952994150120603947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748638915966435328",
+          "start": 0,
+          "username": "yh066300114506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952994150120603947",
+    "in_reply_to_user_id": "1748638915966435328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952971846976155709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yh066300114506 这次的杯子巨小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-06T07:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952994150120603947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748638915966435328",
+              "start": 0,
+              "username": "yh066300114506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952994150120603947",
+        "in_reply_to_user_id": "1748638915966435328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952971846976155709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yh066300114506 这次的杯子巨小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748638915966435328",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-06T05:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952971846976155709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952971846976155709",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952941576919105751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 绷不住了，买的乌萨奇的杯子，发现这么小，一口水都装不下的那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 261,
+          "like_count": 1192,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 606
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:29:48.000Z",
+        "description": "184 83kg ENFP小狗 工科研0 爱运动",
+        "id": "1748638915966435328",
+        "location": "光年之外",
+        "name": "shu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753963446666993664/3rtSSXkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 25,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "yh066300114506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957374864089547006",
+    "created_at": "2025-08-19T05:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957676361050628482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1943782878065963009",
+          "start": 0,
+          "username": "veujoOnBOL31654"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957676361050628482",
+    "in_reply_to_user_id": "1943782878065963009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957667960413368626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veujoOnBOL31654 我喝过哟！！他们家的也好喝🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-19T05:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957676361050628482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1943782878065963009",
+              "start": 0,
+              "username": "veujoOnBOL31654"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957676361050628482",
+        "in_reply_to_user_id": "1943782878065963009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957667960413368626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veujoOnBOL31654 我喝过哟！！他们家的也好喝🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943782878065963009",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-19T04:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957667960413368626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957667960413368626",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957374864089547006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 蜜瓜想和你推荐益禾堂的薄荷奶绿，拜托了，每个人都去喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 318,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 683
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T21:22:40.000Z",
+        "description": "我女宝宝们随时可以找我聊天，我上推了就会回，男的别来。\n宝宝们可以叫我巧克力/蜜瓜就好",
+        "id": "1943782878065963009",
+        "name": "喜欢薄荷巧克力但是",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957069911542628352/UYFOSYEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 70,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 868
+        },
+        "username": "veujoOnBOL31654",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2070375226136023317",
+    "created_at": "2026-06-26T05:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070375273804288349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070375273804288349",
+    "in_reply_to_user_id": "1905985028057911296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070375226136023317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要如何让缘份就是缘份。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2070375226136023317",
+        "created_at": "2026-06-26T05:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070375273804288349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070375273804288349",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070375226136023317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要如何让缘份就是缘份。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2070375226136023317",
+        "created_at": "2026-06-26T05:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070375226136023317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《如何》，别名《Through Our Lives》，由 张悬 演唱，收录于《神的游戏》专辑中，《如何》下载，《如何》在线试听，更多如何相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9LT00gR",
+              "end": 54,
+              "expanded_url": "https://163cn.tv/9LT00gR",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2070375231613808640/LwBsK7v_?format=jpg&name=orig",
+                  "width": 1393
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070375231613808640/LwBsK7v_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "如何（Through Our Lives） - 张悬 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=326699&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.35&dlt=0846",
+              "url": "https://t.co/JDO6Io4c7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070375226136023317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享张悬的单曲《如何 (Through Our Lives)》https://t.co/JDO6Io4c7R (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 233,
+          "like_count": 2854,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

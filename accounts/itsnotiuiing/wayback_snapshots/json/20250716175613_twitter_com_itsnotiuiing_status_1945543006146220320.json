@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1945539556767322410",
+    "created_at": "2025-07-16T17:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T18:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945543006146220320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603626926043967488",
+          "start": 0,
+          "username": "Calton027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945543006146220320",
+    "in_reply_to_user_id": "1603626926043967488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945542863426617387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Calton027 深夜emo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1945539556767322410",
+        "created_at": "2025-07-16T17:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945543006146220320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603626926043967488",
+              "start": 0,
+              "username": "Calton027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945543006146220320",
+        "in_reply_to_user_id": "1603626926043967488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945542863426617387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Calton027 深夜emo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603626926043967488",
+        "conversation_id": "1945539556767322410",
+        "created_at": "2025-07-16T17:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945542863426617387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945542863426617387",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945539556767322410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 怎么emo上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 164,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 540
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T05:43:53.000Z",
+        "description": "",
+        "id": "1603626926043967488",
+        "location": "United States",
+        "name": "-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944521063158648832/0CYkTSHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 160,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 122
+        },
+        "username": "Calton027",
+        "verified": false
+      }
+    ]
+  }
+}

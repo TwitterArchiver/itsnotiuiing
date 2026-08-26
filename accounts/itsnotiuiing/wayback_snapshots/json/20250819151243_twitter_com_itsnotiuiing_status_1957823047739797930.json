@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957465020473970924",
+    "created_at": "2025-08-19T15:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T16:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957823047739797930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647165692515610624",
+          "start": 0,
+          "username": "ZB1_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957823047739797930",
+    "in_reply_to_user_id": "1647165692515610624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957465020473970924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZB1_official look forward to"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1957400977553915904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoV0X4agAA2sZ0.jpg",
+        "width": 2700
+      },
+      {
+        "height": 2700,
+        "media_key": "3_1957400977579167744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoV0X-b0AA17EG.jpg",
+        "width": 2161
+      },
+      {
+        "height": 2161,
+        "media_key": "3_1957400977637875712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoV0YMboAAAS5Y.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957465020473970924",
+        "created_at": "2025-08-19T15:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957823047739797930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647165692515610624",
+              "start": 0,
+              "username": "ZB1_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957823047739797930",
+        "in_reply_to_user_id": "1647165692515610624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957465020473970924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZB1_official look forward to"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957400977553915904",
+            "3_1957400977579167744",
+            "3_1957400977637875712"
+          ]
+        },
+        "author_id": "1647165692515610624",
+        "conversation_id": "1957465020473970924",
+        "created_at": "2025-08-18T15:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957465020473970924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "ZEROBASEONE",
+              "probability": 0.5336,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "ZEROBASEONE",
+              "probability": 0.5051,
+              "start": 139,
+              "type": "Organization"
+            },
+            {
+              "end": 154,
+              "normalized_text": "ZB1",
+              "probability": 0.6088,
+              "start": 152,
+              "type": "Organization"
+            },
+            {
+              "end": 179,
+              "normalized_text": "NEVER_SAY_NEVER",
+              "probability": 0.6039,
+              "start": 165,
+              "type": "Organization"
+            },
+            {
+              "end": 207,
+              "normalized_text": "ZEROBASEONE_ICONIK",
+              "probability": 0.424,
+              "start": 190,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 138,
+              "tag": "ZEROBASEONE"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "ZB1"
+            },
+            {
+              "end": 163,
+              "start": 156,
+              "tag": "제로베이스원"
+            },
+            {
+              "end": 180,
+              "start": 164,
+              "tag": "NEVER_SAY_NEVER"
+            },
+            {
+              "end": 188,
+              "start": 181,
+              "tag": "ICONIK"
+            },
+            {
+              "end": 208,
+              "start": 189,
+              "tag": "ZEROBASEONE_ICONIK"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by ZEROBASEONE.",
+              "display_url": "zb1.lnk.to/NEVERSAYNEVER",
+              "end": 112,
+              "expanded_url": "http://zb1.lnk.to/NEVERSAYNEVER",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1955678778010865664/J1rmz5aP?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955678778010865664/J1rmz5aP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "NEVER SAY NEVER",
+              "unwound_url": "https://zb1.lnk.to/NEVERSAYNEVER",
+              "url": "https://t.co/Jo1YC6YwvL"
+            },
+            {
+              "display_url": "pic.x.com/ahrBidrOaU",
+              "end": 232,
+              "expanded_url": "https://x.com/ZB1_official/status/1957465020473970924/photo/1",
+              "media_key": "3_1957400977553915904",
+              "start": 209,
+              "url": "https://t.co/ahrBidrOaU"
+            },
+            {
+              "display_url": "pic.x.com/ahrBidrOaU",
+              "end": 232,
+              "expanded_url": "https://x.com/ZB1_official/status/1957465020473970924/photo/1",
+              "media_key": "3_1957400977579167744",
+              "start": 209,
+              "url": "https://t.co/ahrBidrOaU"
+            },
+            {
+              "display_url": "pic.x.com/ahrBidrOaU",
+              "end": 232,
+              "expanded_url": "https://x.com/ZB1_official/status/1957465020473970924/photo/1",
+              "media_key": "3_1957400977637875712",
+              "start": 209,
+              "url": "https://t.co/ahrBidrOaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957465020473970924",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 614,
+          "impression_count": 365840,
+          "like_count": 17676,
+          "quote_count": 1743,
+          "reply_count": 125,
+          "retweet_count": 7242
+        },
+        "reply_settings": "everyone",
+        "text": "ZEROBASEONE THE 1ST FULL ALBUM \n❝𝙉𝙀𝙑𝙀𝙍 𝙎𝘼𝙔 𝙉𝙀𝙑𝙀𝙍❞ \n\nConcept Photo ICON ver. \n\n💿 Pre-Save\nhttps://t.co/Jo1YC6YwvL\n\n2025.09.01 18:00 (KST)\n\n#ZEROBASEONE #ZB1 #제로베이스원\n#NEVER_SAY_NEVER\n#ICONIK #ZEROBASEONE_ICONIK https://t.co/ahrBidrOaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 321,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 688
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:11:24.000Z",
+        "description": "TITLE '𝐈𝐂𝐎𝐍𝐈𝐊' 2025.09.01 Release ✶ THE 1ST FULL ALBUM ❝𝙉𝙀𝙑𝙀𝙍 𝙎𝘼𝙔 𝙉𝙀𝙑𝙀𝙍❞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zb1.lnk.to/NEVERSAYNEVER",
+                "end": 23,
+                "expanded_url": "http://zb1.lnk.to/NEVERSAYNEVER",
+                "start": 0,
+                "url": "https://t.co/TzrlSqsQe5"
+              }
+            ]
+          }
+        },
+        "id": "1647165692515610624",
+        "name": "ZEROBASEONE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952384473116672000/3qKXnFb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157441,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 3895,
+          "media_count": 3143,
+          "tweet_count": 8170
+        },
+        "url": "https://t.co/TzrlSqsQe5",
+        "username": "ZB1_official",
+        "verified": true
+      }
+    ]
+  }
+}

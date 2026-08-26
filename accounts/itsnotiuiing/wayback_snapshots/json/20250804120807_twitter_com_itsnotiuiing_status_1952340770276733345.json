@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952340770276733345",
+    "created_at": "2025-08-04T12:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952340770276733345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zb1_official/s…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/zb1_official/status/1943628921335144813",
+          "start": 138,
+          "url": "https://t.co/UwS3XkhYTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952340770276733345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943628921335144813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "15岁看到维辰欧巴，压岁钱给他了；20岁看到维辰欧巴，生活费给他了；25岁看到维辰欧巴，工资给他了；30岁看到维辰欧巴，彩礼钱给他了；35岁看到维辰欧巴，老公的卡给他了；45岁看到维辰欧巴，儿子的钱给他了；50岁看到维辰欧巴，退休金给他了；60岁看到维辰欧巴，养老金给他了。 https://t.co/UwS3XkhYTu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943628910643859456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkoMkobUAAqEHp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943628910756773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkoMlDWQAA8620.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952340770276733345",
+        "created_at": "2025-08-04T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952340770276733345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zb1_official/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/zb1_official/status/1943628921335144813",
+              "start": 138,
+              "url": "https://t.co/UwS3XkhYTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952340770276733345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943628921335144813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "15岁看到维辰欧巴，压岁钱给他了；20岁看到维辰欧巴，生活费给他了；25岁看到维辰欧巴，工资给他了；30岁看到维辰欧巴，彩礼钱给他了；35岁看到维辰欧巴，老公的卡给他了；45岁看到维辰欧巴，儿子的钱给他了；50岁看到维辰欧巴，退休金给他了；60岁看到维辰欧巴，养老金给他了。 https://t.co/UwS3XkhYTu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943628910643859456",
+            "3_1943628910756773888"
+          ]
+        },
+        "author_id": "1647165692515610624",
+        "conversation_id": "1943628921335144813",
+        "created_at": "2025-07-11T11:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943628921335144813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 55,
+              "tag": "ZEROBASEONE"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "ZB1"
+            },
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "제로베이스원"
+            },
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "HANYUJIN"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "한유진"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PCkbScruF",
+              "end": 119,
+              "expanded_url": "https://x.com/ZB1_official/status/1943628921335144813/photo/1",
+              "media_key": "3_1943628910643859456",
+              "start": 96,
+              "url": "https://t.co/8PCkbScruF"
+            },
+            {
+              "display_url": "pic.x.com/8PCkbScruF",
+              "end": 119,
+              "expanded_url": "https://x.com/ZB1_official/status/1943628921335144813/photo/1",
+              "media_key": "3_1943628910756773888",
+              "start": 96,
+              "url": "https://t.co/8PCkbScruF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943628921335144813",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 296333,
+          "like_count": 17865,
+          "quote_count": 150,
+          "reply_count": 724,
+          "retweet_count": 3232
+        },
+        "reply_settings": "everyone",
+        "text": "_𝗭𝗘𝗥𝗢𝗙𝗢𝗖𝗨𝗦\n\n뽀짝 뽀돌 주인장이 어떻게 매점을 지켜요!💜\n매점이 주인장을 지켜조야지!💪\n\n#ZEROBASEONE #ZB1 #제로베이스원\n#HANYUJIN #한유진 https://t.co/8PCkbScruF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 253,
+          "like_count": 1138,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 555
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:11:24.000Z",
+        "description": "Pre-Release Single 「𝐒𝐋𝐀𝐌 𝐃𝐔𝐍𝐊」 OUT NOW ✶ THE 1ST FULL ALBUM ❝𝙉𝙀𝙑𝙀𝙍 𝙎𝘼𝙔 𝙉𝙀𝙑𝙀𝙍❞ 2025.09.01",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zb1.lnk.to/SLAMDUNK",
+                "end": 23,
+                "expanded_url": "https://zb1.lnk.to/SLAMDUNK",
+                "start": 0,
+                "url": "https://t.co/oENft9hOqK"
+              }
+            ]
+          }
+        },
+        "id": "1647165692515610624",
+        "name": "ZEROBASEONE",
+        "pinned_tweet_id": "1950572089766752386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945498831770034177/4RscJJ_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152152,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 3907,
+          "media_count": 3017,
+          "tweet_count": 7983
+        },
+        "url": "https://t.co/oENft9hOqK",
+        "username": "ZB1_official",
+        "verified": true
+      }
+    ]
+  }
+}

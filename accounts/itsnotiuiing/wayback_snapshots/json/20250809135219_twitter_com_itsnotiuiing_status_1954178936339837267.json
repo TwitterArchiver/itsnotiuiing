@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954178936339837267",
+    "created_at": "2025-08-09T13:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T14:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954178936339837267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mnetplus/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mnetplus/status/1953878878856057291",
+          "start": 17,
+          "url": "https://t.co/P3nWMtFIFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954178936339837267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953878878856057291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又出又出我真服了你看我有钱吗？😑 https://t.co/P3nWMtFIFc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954178936339837267",
+        "created_at": "2025-08-09T13:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954178936339837267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mnetplus/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mnetplus/status/1953878878856057291",
+              "start": 17,
+              "url": "https://t.co/P3nWMtFIFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954178936339837267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953878878856057291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又出又出我真服了你看我有钱吗？😑 https://t.co/P3nWMtFIFc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506519992665526276",
+        "conversation_id": "1953878878856057291",
+        "created_at": "2025-08-08T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953878878856057291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953878878856057291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 121129,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊- 从今天开始练嗓子\n🤳 想要和ZB1视频通话的ZEROSE 们注意啦! \n\nTHE 1ST FULL ALBUM [NEVER SAY NEVER]\n1:1 VIDEO CALL EVENT\n\n✅ 购买者全员可获 Plus Chat 独家未公开小卡 (软糖 Ver.) \n✅ 中选者全员可获得中选成员的签名拍立得 1 张"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 292,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 678
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:36:09.000Z",
+        "description": "A place for global K-POP fans. Enjoy the K-POP culture anytime and anywhere! #MnetPlus #엠넷플러스 #PlusChat #플러스챗 #MnetPlusMerch #엠넷플러스머치",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 77,
+                "tag": "MnetPlus"
+              },
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "엠넷플러스"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "tag": "PlusChat"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "플러스챗"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "tag": "MnetPlusMerch"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "엠넷플러스머치"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mnetplus.world",
+                "end": 23,
+                "expanded_url": "https://www.mnetplus.world/",
+                "start": 0,
+                "url": "https://t.co/f4pqL2SEGS"
+              }
+            ]
+          }
+        },
+        "id": "1506519992665526276",
+        "location": "대한민국",
+        "name": "Mnet Plus 엠넷플러스",
+        "pinned_tweet_id": "1953653644727136419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547406922609209344/vxWuXwJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140637,
+          "following_count": 51,
+          "like_count": 1166,
+          "listed_count": 164,
+          "media_count": 6932,
+          "tweet_count": 8278
+        },
+        "url": "https://t.co/f4pqL2SEGS",
+        "username": "mnetplus",
+        "verified": true
+      }
+    ]
+  }
+}

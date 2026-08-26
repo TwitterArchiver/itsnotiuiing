@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949786999910768640"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1949787039769219458",
+    "created_at": "2025-07-28T11:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T12:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949787039769219458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Huk3hUEj8",
+          "end": 34,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1949787039769219458/photo/1",
+          "media_key": "3_1949786999910768640",
+          "start": 11,
+          "url": "https://t.co/7Huk3hUEj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949787039769219458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "员工餐っω&lt;｡ https://t.co/7Huk3hUEj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949786999910768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8I8i1bIAAWECA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949786999910768640"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949787039769219458",
+        "created_at": "2025-07-28T11:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949787039769219458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Huk3hUEj8",
+              "end": 34,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1949787039769219458/photo/1",
+              "media_key": "3_1949786999910768640",
+              "start": 11,
+              "url": "https://t.co/7Huk3hUEj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949787039769219458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "员工餐っω&lt;｡ https://t.co/7Huk3hUEj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 173,
+          "like_count": 1000,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 542
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

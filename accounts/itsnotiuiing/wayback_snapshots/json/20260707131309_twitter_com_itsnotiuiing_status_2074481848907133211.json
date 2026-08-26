@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2074481848907133211",
+    "created_at": "2026-07-07T13:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074481848907133211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/bax33sJO",
+          "end": 41,
+          "expanded_url": "https://163cn.tv/bax33sJO",
+          "start": 18,
+          "url": "https://t.co/oRD3wHft7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074481848907133211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后来明白距离是会对某些爱情好一些。\nhttps://t.co/oRD3wHft7B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2074481848907133211",
+        "created_at": "2026-07-07T13:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074481848907133211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/bax33sJO",
+              "end": 41,
+              "expanded_url": "https://163cn.tv/bax33sJO",
+              "start": 18,
+              "url": "https://t.co/oRD3wHft7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074481848907133211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来明白距离是会对某些爱情好一些。\nhttps://t.co/oRD3wHft7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 232,
+          "like_count": 2912,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

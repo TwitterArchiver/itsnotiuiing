@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954555079446724808",
+    "created_at": "2025-08-11T15:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T16:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954925189109792947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704840722946445313",
+          "start": 0,
+          "username": "liguny1219228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954925189109792947",
+    "in_reply_to_user_id": "1704840722946445313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954902374604255716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liguny1219228 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-11T15:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954925189109792947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704840722946445313",
+              "start": 0,
+              "username": "liguny1219228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954925189109792947",
+        "in_reply_to_user_id": "1704840722946445313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954902374604255716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liguny1219228 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704840722946445313",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-11T13:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954902374604255716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954902374604255716",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954555079446724808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 慢工出细活，画的好棒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 284,
+          "like_count": 1435,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 731
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T12:51:28.000Z",
+        "description": "好骗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/887722",
+                "end": 23,
+                "expanded_url": "https://ngl.link/887722",
+                "start": 0,
+                "url": "https://t.co/1bboSXiFuT"
+              }
+            ]
+          }
+        },
+        "id": "1704840722946445313",
+        "name": "莱克特医生",
+        "pinned_tweet_id": "1943213941141749979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939995351118725120/L8L-zWeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 28,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/1bboSXiFuT",
+        "username": "liguny1219228",
+        "verified": false
+      }
+    ]
+  }
+}

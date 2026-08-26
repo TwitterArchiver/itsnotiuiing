@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940758785393566192",
+    "created_at": "2025-07-03T14:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940774782733373791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733391093302259712",
+          "start": 0,
+          "username": "hjh871826799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940774782733373791",
+    "in_reply_to_user_id": "1733391093302259712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940769205311389698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjh871826799 可以的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940758785393566192",
+        "created_at": "2025-07-03T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940774782733373791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733391093302259712",
+              "start": 0,
+              "username": "hjh871826799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940774782733373791",
+        "in_reply_to_user_id": "1733391093302259712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940769205311389698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjh871826799 可以的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733391093302259712",
+        "conversation_id": "1940758785393566192",
+        "created_at": "2025-07-03T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940769205311389698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940769205311389698",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940758785393566192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 路过顺手吃一口😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 187,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 941
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T07:40:29.000Z",
+        "description": "无聊的时候来打发时间 欢迎互关和聊天的小伙伴",
+        "id": "1733391093302259712",
+        "location": "加里敦大学",
+        "name": "DJkid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938602416662089728/f43RU_Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 78,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 278
+        },
+        "username": "hjh871826799",
+        "verified": false
+      }
+    ]
+  }
+}

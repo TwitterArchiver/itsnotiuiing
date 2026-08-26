@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949836506157527333",
+    "created_at": "2025-07-28T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949838361415598578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894425722317672452",
+          "start": 0,
+          "username": "linlinsheng2_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949838361415598578",
+    "in_reply_to_user_id": "1894425722317672452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949836506157527333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlinsheng2_0 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949836506157527333",
+        "created_at": "2025-07-28T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949838361415598578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894425722317672452",
+              "start": 0,
+              "username": "linlinsheng2_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949838361415598578",
+        "in_reply_to_user_id": "1894425722317672452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949836506157527333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlinsheng2_0 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894425722317672452",
+        "conversation_id": "1949836506157527333",
+        "created_at": "2025-07-28T14:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949836506157527333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949836506157527333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报告一下我拉肚子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 176,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 546
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T16:34:33.000Z",
+        "description": "人｜switch 1i/4i｜性格很好｜情绪极其不稳定｜碎碎念制造机 ｜偶尔搞点黄的｜很高兴认识你们希望你们幸福｜有机会就见面吧｜另一个我 @yucidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yucidawang"
+              }
+            ]
+          }
+        },
+        "id": "1894425722317672452",
+        "name": "王树林",
+        "pinned_tweet_id": "1946756671633805815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895338310781882368/ZDEIQSPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 336,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 2642
+        },
+        "username": "linlinsheng2_0",
+        "verified": false
+      }
+    ]
+  }
+}

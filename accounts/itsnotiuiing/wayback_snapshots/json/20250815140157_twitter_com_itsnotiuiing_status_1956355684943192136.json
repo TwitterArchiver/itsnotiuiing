@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956355661878702080"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956355684943192136",
+    "created_at": "2025-08-15T14:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956355684943192136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QrwzaHjqki",
+          "end": 37,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1956355684943192136/photo/1",
+          "media_key": "3_1956355661878702080",
+          "start": 14,
+          "url": "https://t.co/QrwzaHjqki"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1954716073003225101",
+          "start": 38,
+          "url": "https://t.co/koz4s4S9TO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956355684943192136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954716073003225101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超级好喝 没有牙膏味！🫰🫰 https://t.co/QrwzaHjqki https://t.co/koz4s4S9TO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956355661878702080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZfG_iasAAXF1q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956355661878702080"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956355684943192136",
+        "created_at": "2025-08-15T14:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956355684943192136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrwzaHjqki",
+              "end": 37,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1956355684943192136/photo/1",
+              "media_key": "3_1956355661878702080",
+              "start": 14,
+              "url": "https://t.co/QrwzaHjqki"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1954716073003225101",
+              "start": 38,
+              "url": "https://t.co/koz4s4S9TO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956355684943192136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954716073003225101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级好喝 没有牙膏味！🫰🫰 https://t.co/QrwzaHjqki https://t.co/koz4s4S9TO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954716073003225101",
+        "created_at": "2025-08-11T01:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954716073003225101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954716073003225101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想喝一点点的薄荷奶绿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 681
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

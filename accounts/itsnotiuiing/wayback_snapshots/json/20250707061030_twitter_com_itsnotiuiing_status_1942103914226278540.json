@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941842706701164952",
+    "created_at": "2025-07-07T06:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942103914226278540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545565750118690816",
+          "start": 0,
+          "username": "yaoyaoxingguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942103914226278540",
+    "in_reply_to_user_id": "1545565750118690816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942032885659128268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoyaoxingguang ！！好呀好呀🫰🫰🏾🫰🏽🫰🏼🫰🏻🫰🏿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941842706701164952",
+        "created_at": "2025-07-07T06:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942103914226278540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545565750118690816",
+              "start": 0,
+              "username": "yaoyaoxingguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942103914226278540",
+        "in_reply_to_user_id": "1545565750118690816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942032885659128268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoyaoxingguang ！！好呀好呀🫰🫰🏾🫰🏽🫰🏼🫰🏻🫰🏿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545565750118690816",
+        "conversation_id": "1941842706701164952",
+        "created_at": "2025-07-07T01:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T02:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942032885659128268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942032885659128268",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941842706701164952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 连着三天刷到了，我真得去尝尝有多好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 205,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1024
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T00:29:32.000Z",
+        "description": "NTR仅限性癖 | 男性向剧情中文音声  🚪188/288/388  入门免费听福利音频（包括kp实录） 私信支付宝口令+姓氏  | 接定制音频   | ✨公开音频畅听 https://t.co/q2S3i4AEiZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yaoyao.fanbox.cc",
+                "end": 108,
+                "expanded_url": "https://yaoyao.fanbox.cc/",
+                "start": 85,
+                "url": "https://t.co/q2S3i4AEiZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=1…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=13140",
+                "start": 0,
+                "url": "https://t.co/0a5kQXvd4E"
+              }
+            ]
+          }
+        },
+        "id": "1545565750118690816",
+        "location": "贩售音频在这👇（累计购买音频满5赠1）",
+        "name": "摇摇星光",
+        "pinned_tweet_id": "1938618206471749813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629396250100658181/A8FTB9-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49921,
+          "following_count": 303,
+          "like_count": 36282,
+          "listed_count": 206,
+          "media_count": 205,
+          "tweet_count": 20603
+        },
+        "url": "https://t.co/0a5kQXvd4E",
+        "username": "yaoyaoxingguang",
+        "verified": false
+      }
+    ]
+  }
+}

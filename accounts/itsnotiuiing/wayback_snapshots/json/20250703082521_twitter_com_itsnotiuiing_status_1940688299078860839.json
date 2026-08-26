@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940678415184736445",
+    "created_at": "2025-07-03T08:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940688299078860839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1707255141274181632",
+          "start": 0,
+          "username": "Dabai0944"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940688299078860839",
+    "in_reply_to_user_id": "1707255141274181632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940688050834886854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dabai0944 两坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940678415184736445",
+        "created_at": "2025-07-03T08:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940688299078860839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1707255141274181632",
+              "start": 0,
+              "username": "Dabai0944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940688299078860839",
+        "in_reply_to_user_id": "1707255141274181632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940688050834886854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dabai0944 两坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707255141274181632",
+        "conversation_id": "1940678415184736445",
+        "created_at": "2025-07-03T08:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940688050834886854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940688050834886854",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940678415184736445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 两团…两朵…两撮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 186,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 926
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T04:45:32.000Z",
+        "description": "几乎纯文字…\n\n各种奇怪的碎碎念，思维很跳跃\n很感谢大家对我爱搭不理！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me/",
+                "start": 0,
+                "url": "https://t.co/exaV7dfHwc"
+              }
+            ]
+          }
+        },
+        "id": "1707255141274181632",
+        "location": "Imagination",
+        "name": "大白（四处发疯版",
+        "pinned_tweet_id": "1931760759488602557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774133196482879488/oVpoj4d5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1,
+          "like_count": 6645,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/exaV7dfHwc",
+        "username": "Dabai0944",
+        "verified": false
+      }
+    ]
+  }
+}

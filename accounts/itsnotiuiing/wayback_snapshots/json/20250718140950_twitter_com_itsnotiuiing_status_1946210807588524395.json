@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1946171923508986218",
+    "created_at": "2025-07-18T14:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T15:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946210807588524395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931699503054073856",
+          "start": 0,
+          "username": "Yiiir138451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946210807588524395",
+    "in_reply_to_user_id": "1931699503054073856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946210022347706720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yiiir138451 谢谢宝贝关心😔🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1946171923508986218",
+        "created_at": "2025-07-18T14:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946210807588524395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931699503054073856",
+              "start": 0,
+              "username": "Yiiir138451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946210807588524395",
+        "in_reply_to_user_id": "1931699503054073856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946210022347706720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiiir138451 谢谢宝贝关心😔🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931699503054073856",
+        "conversation_id": "1946171923508986218",
+        "created_at": "2025-07-18T14:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946210022347706720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946210022347706720",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946171923508986218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 163,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 548
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T13:07:14.000Z",
+        "description": "rann  不聊黄不线下不约不卡泡别烦我                                            喜欢声音好听的人←请给我发私信好吗                  (没有说长得帅身材好就不喜欢的意思）",
+        "id": "1931699503054073856",
+        "name": "喘喘我听听",
+        "pinned_tweet_id": "1939662753217880320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933477121088995328/bE8mT9AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 200,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 425
+        },
+        "username": "Yiiir138451",
+        "verified": false
+      }
+    ]
+  }
+}

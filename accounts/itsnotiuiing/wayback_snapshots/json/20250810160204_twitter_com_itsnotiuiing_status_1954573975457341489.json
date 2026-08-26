@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954555079446724808",
+    "created_at": "2025-08-10T16:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954573975457341489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1705877481075740672",
+          "start": 0,
+          "username": "henrygong777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954573975457341489",
+    "in_reply_to_user_id": "1705877481075740672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954570583183950282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrygong777 成品更好看👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-10T16:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954573975457341489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1705877481075740672",
+              "start": 0,
+              "username": "henrygong777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954573975457341489",
+        "in_reply_to_user_id": "1705877481075740672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954570583183950282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrygong777 成品更好看👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705877481075740672",
+        "conversation_id": "1954555079446724808",
+        "created_at": "2025-08-10T15:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954570583183950282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954570583183950282",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954555079446724808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 299,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 687
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T09:32:13.000Z",
+        "description": "贪生怕死 好吃喜玩 贪财好色，可口可乐狂魔，利物浦傻fan。理性和感性搏斗中，1个有趣的灵魂。想吃宁海食府的虾饼🤗🤗 ❤️❤️❤️",
+        "id": "1705877481075740672",
+        "location": "距离 18km",
+        "name": "熊仔不憨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821602509972238341/xkBj7vst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 969,
+          "like_count": 8819,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2010
+        },
+        "username": "henrygong777",
+        "verified": true
+      }
+    ]
+  }
+}

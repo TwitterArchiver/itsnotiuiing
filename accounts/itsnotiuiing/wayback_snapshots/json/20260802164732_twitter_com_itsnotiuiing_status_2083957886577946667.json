@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2083957886577946667",
+    "created_at": "2026-08-02T16:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083957886577946667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083522467335942144",
+          "start": 3,
+          "username": "xfzzlrs11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083957886577946667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083863224399913330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xfzzlrs11: 想象一下，我是你焦虑型低精力高需求的女朋友，喜欢粘着你给你发絮絮叨叨的小事情，你要是长时间没理我我就开始脑补你不喜欢我了或者我哪做的不好开始emo，但是你回我了给我说刚刚干嘛去了我就又屁颠屁颠开心了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2083957886577946667",
+        "created_at": "2026-08-02T16:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083957886577946667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083522467335942144",
+              "start": 3,
+              "username": "xfzzlrs11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083957886577946667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083863224399913330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xfzzlrs11: 想象一下，我是你焦虑型低精力高需求的女朋友，喜欢粘着你给你发絮絮叨叨的小事情，你要是长时间没理我我就开始脑补你不喜欢我了或者我哪做的不好开始emo，但是你回我了给我说刚刚干嘛去了我就又屁颠屁颠开心了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083522467335942144",
+        "conversation_id": "2083863224399913330",
+        "created_at": "2026-08-02T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083863224399913330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083863224399913330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6921,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你焦虑型低精力高需求的女朋友，喜欢粘着你给你发絮絮叨叨的小事情，你要是长时间没理我我就开始脑补你不喜欢我了或者我哪做的不好开始emo，但是你回我了给我说刚刚干嘛去了我就又屁颠屁颠开心了呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 231,
+          "like_count": 2973,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T11:58:23.000Z",
+        "description": "眼泪是否比风轻",
+        "id": "2083522467335942144",
+        "name": "≡ω≡",
+        "pinned_tweet_id": "2083808061333106716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083522923915288576/QZ9wxiW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 11,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "xfzzlrs11",
+        "verified": false
+      }
+    ]
+  }
+}

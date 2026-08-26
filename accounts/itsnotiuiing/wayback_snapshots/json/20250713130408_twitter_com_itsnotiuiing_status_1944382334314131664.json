@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944381398124535952",
+    "created_at": "2025-07-13T13:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944382334314131664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1445437801869152262",
+          "start": 0,
+          "username": "666Wkdcpszd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944382334314131664",
+    "in_reply_to_user_id": "1445437801869152262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944382214524834103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666Wkdcpszd 我爱你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944382214524834103].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944382214524834103",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944382214524834103"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944381398124535952",
+        "created_at": "2025-07-13T13:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944382334314131664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1445437801869152262",
+              "start": 0,
+              "username": "666Wkdcpszd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944382334314131664",
+        "in_reply_to_user_id": "1445437801869152262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944382214524834103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666Wkdcpszd 我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 207,
+          "like_count": 1051,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 670
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T17:16:53.000Z",
+        "description": "温青的狗",
+        "id": "1445437801869152262",
+        "name": "TD请扣6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929948284434665472/BkxvR2zg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 426,
+          "like_count": 7165,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1032
+        },
+        "username": "666Wkdcpszd",
+        "verified": false
+      }
+    ]
+  }
+}

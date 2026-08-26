@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2074010063904407612",
+    "created_at": "2026-07-06T05:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074010063904407612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《太聪明》，由 陈绮贞 演唱，收录于《Groupies吉他手》专辑中，《太聪明》下载，《太聪明》在线试听，更多太聪明相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/bar5D0HE",
+          "end": 52,
+          "expanded_url": "https://163cn.tv/bar5D0HE",
+          "images": [
+            {
+              "height": 1400,
+              "url": "https://pbs.twimg.com/news_img/2074009694650470400/A5ahQFqg?format=jpg&name=orig",
+              "width": 1400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074009694650470400/A5ahQFqg?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "太聪明 - 陈绮贞 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=209397&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.40&dlt=0846",
+          "url": "https://t.co/ge7pDC1yrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074010063904407612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我开始后悔不应该太聪明的卖弄，只是怕亲手将我的真心葬送。\nhttps://t.co/ge7pDC1yrT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2074010063904407612",
+        "created_at": "2026-07-06T05:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074010063904407612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《太聪明》，由 陈绮贞 演唱，收录于《Groupies吉他手》专辑中，《太聪明》下载，《太聪明》在线试听，更多太聪明相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bar5D0HE",
+              "end": 52,
+              "expanded_url": "https://163cn.tv/bar5D0HE",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2074009694650470400/A5ahQFqg?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074009694650470400/A5ahQFqg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "太聪明 - 陈绮贞 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=209397&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.40&dlt=0846",
+              "url": "https://t.co/ge7pDC1yrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074010063904407612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开始后悔不应该太聪明的卖弄，只是怕亲手将我的真心葬送。\nhttps://t.co/ge7pDC1yrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 233,
+          "like_count": 2903,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

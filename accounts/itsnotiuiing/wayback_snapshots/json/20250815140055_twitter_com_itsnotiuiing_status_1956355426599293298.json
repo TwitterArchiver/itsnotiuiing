@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956289996576498059",
+    "created_at": "2025-08-15T14:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956355426599293298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545841595517652992",
+          "start": 0,
+          "username": "Jwb9Om"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956355426599293298",
+    "in_reply_to_user_id": "1545841595517652992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956342952793432151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jwb9Om 🌚🌚笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-15T14:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956355426599293298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545841595517652992",
+              "start": 0,
+              "username": "Jwb9Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956355426599293298",
+        "in_reply_to_user_id": "1545841595517652992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956342952793432151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jwb9Om 🌚🌚笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545841595517652992",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-15T13:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T14:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956342952793432151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956342952793432151",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956289996576498059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 熊不准吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 679
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T18:45:39.000Z",
+        "description": "ENFP｜我爱辣条｜我是声控｜我爱喝小饮料｜我爱小猫｜平安喜樂，萬事順遂",
+        "id": "1545841595517652992",
+        "location": "虚拟游戏的喜马拉雅山",
+        "name": "暴暴猫",
+        "pinned_tweet_id": "1948591345494261789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945929253435953152/bJpdKMZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 694
+        },
+        "username": "Jwb9Om",
+        "verified": false
+      }
+    ]
+  }
+}

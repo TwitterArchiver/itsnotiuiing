@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954026747093299418",
+    "created_at": "2025-08-09T10:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T11:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954127616601948541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791709647520387073",
+          "start": 0,
+          "username": "imc1482886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954127616601948541",
+    "in_reply_to_user_id": "1791709647520387073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954090203938779437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imc1482886 不管😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954026747093299418",
+        "created_at": "2025-08-09T10:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954127616601948541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791709647520387073",
+              "start": 0,
+              "username": "imc1482886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954127616601948541",
+        "in_reply_to_user_id": "1791709647520387073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954090203938779437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imc1482886 不管😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791709647520387073",
+        "conversation_id": "1954026747093299418",
+        "created_at": "2025-08-09T07:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T08:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954090203938779437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954090203938779437",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954026747093299418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 你欺人太甚了😭😭还没得赚钱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 291,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 652
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:57:31.000Z",
+        "description": "缺爱批  线上是个话痨  喜欢欣赏和夸夸，像个有情的夸夸机器人，可以多回我评论多和我互动聊天吗🥺🥺//男生男生男生！♂！别搞错了",
+        "id": "1791709647520387073",
+        "name": "imc",
+        "pinned_tweet_id": "1919424185119449416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865460252520660992/R8DxKdqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 869
+        },
+        "username": "imc1482886",
+        "verified": false
+      }
+    ]
+  }
+}

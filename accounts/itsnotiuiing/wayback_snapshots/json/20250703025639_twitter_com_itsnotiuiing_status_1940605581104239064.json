@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940590984871694769",
+    "created_at": "2025-07-03T02:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T03:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940605581104239064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934362004967546880",
+          "start": 0,
+          "username": "Yoki636438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940605581104239064",
+    "in_reply_to_user_id": "1934362004967546880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940590984871694769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki636438 居然有我🌚🫰🫰🫰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1940590980522299393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5dNxBb0AElYkV.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940590984871694769",
+        "created_at": "2025-07-03T02:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T03:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940605581104239064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934362004967546880",
+              "start": 0,
+              "username": "Yoki636438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940605581104239064",
+        "in_reply_to_user_id": "1934362004967546880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940590984871694769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki636438 居然有我🌚🫰🫰🫰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940590980522299393"
+          ]
+        },
+        "author_id": "1934362004967546880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1940590984871694769",
+        "created_at": "2025-07-03T01:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940590984871694769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover your closest Twitter connections! 🎯 This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.com/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "url": "https://t.co/W1dxPIIQiL"
+            },
+            {
+              "display_url": "pic.x.com/c0TEoOwmKM",
+              "end": 64,
+              "expanded_url": "https://x.com/Yoki636438/status/1940590984871694769/photo/1",
+              "media_key": "3_1940590980522299393",
+              "start": 41,
+              "url": "https://t.co/c0TEoOwmKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940590984871694769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/W1dxPIIQiL https://t.co/c0TEoOwmKM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 186,
+          "like_count": 1000,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 923
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T21:27:10.000Z",
+        "description": "bi 私信只回正常人 不约炮滚",
+        "id": "1934362004967546880",
+        "name": "Y oki",
+        "pinned_tweet_id": "1938128073121239465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934362580522524672/I09s-gMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 58,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 289
+        },
+        "username": "Yoki636438",
+        "verified": false
+      }
+    ]
+  }
+}

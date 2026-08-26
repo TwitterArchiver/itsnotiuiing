@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1951647724010709444",
+    "created_at": "2025-08-02T15:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951671839971029468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622348641200476162",
+          "start": 0,
+          "username": "luvhvwovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951671839971029468",
+    "in_reply_to_user_id": "1622348641200476162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951647724010709444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvhvwovo 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_1951647712602189824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWlQRxbcAAZBkf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1951647724010709444",
+        "created_at": "2025-08-02T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951671839971029468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622348641200476162",
+              "start": 0,
+              "username": "luvhvwovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951671839971029468",
+        "in_reply_to_user_id": "1622348641200476162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951647724010709444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvhvwovo 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951647712602189824"
+          ]
+        },
+        "author_id": "1622348641200476162",
+        "conversation_id": "1951647724010709444",
+        "created_at": "2025-08-02T14:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951647724010709444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESyHUe1Hv8",
+              "end": 39,
+              "expanded_url": "https://x.com/luvhvwovo/status/1951647724010709444/photo/1",
+              "media_key": "3_1951647712602189824",
+              "start": 16,
+              "url": "https://t.co/ESyHUe1Hv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951647724010709444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会放弃做这样的美甲的！好美 https://t.co/ESyHUe1Hv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 245,
+          "like_count": 1105,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 539
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:37:25.000Z",
+        "description": "爱说点废话 别在意我，我只是一个想睡个好觉的小女孩。每个社交平台发的所有东西都是我的遗物",
+        "id": "1622348641200476162",
+        "name": "胆小的薯饼",
+        "pinned_tweet_id": "1951297127596040357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927801315167793152/nVKsWA81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 45,
+          "like_count": 2894,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 761
+        },
+        "username": "luvhvwovo",
+        "verified": false
+      }
+    ]
+  }
+}

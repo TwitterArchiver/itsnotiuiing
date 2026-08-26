@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941384546978861095",
+    "created_at": "2025-07-05T09:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T10:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941425528441045432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806640512327372800",
+          "start": 0,
+          "username": "shutiao12130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941425528441045432",
+    "in_reply_to_user_id": "1806640512327372800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941414922405150777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shutiao12130 是的☹️ 最后我自己去了TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941384546978861095",
+        "created_at": "2025-07-05T09:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941425528441045432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806640512327372800",
+              "start": 0,
+              "username": "shutiao12130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941425528441045432",
+        "in_reply_to_user_id": "1806640512327372800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941414922405150777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shutiao12130 是的☹️ 最后我自己去了TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806640512327372800",
+        "conversation_id": "1941384546978861095",
+        "created_at": "2025-07-05T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941414922405150777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941414922405150777",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941384546978861095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 那真的很生气了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 192,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 992
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T10:47:30.000Z",
+        "description": "碎碎念🚪52 纯绿 别来骚扰我 入🚪不会有任何的福利 只有我无尽的骚扰和吐槽 不线下",
+        "id": "1806640512327372800",
+        "name": "薯条Ovo",
+        "pinned_tweet_id": "1896954018125205946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914131141453557760/6KMrherd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 40,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 540
+        },
+        "username": "shutiao12130",
+        "verified": false
+      }
+    ]
+  }
+}

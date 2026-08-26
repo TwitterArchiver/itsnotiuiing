@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Jewelry",
+          "id": "845293633259552768",
+          "name": "Jewelry"
+        }
+      }
+    ],
+    "conversation_id": "1940961554054426743",
+    "created_at": "2025-07-04T02:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T03:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940961554054426743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunalikesgelat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yunalikesgelato/status/1940908876423221333",
+          "start": 7,
+          "url": "https://t.co/liiyftFYsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940961554054426743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940908876423221333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yujin呐 https://t.co/liiyftFYsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11316,
+        "height": 2562,
+        "media_key": "13_1940908727072104448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940908727072104448/img/XG_xuLJhesIAAOhB.jpg",
+        "public_metrics": {
+          "view_count": 1320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940908727072104448/vid/avc1/1440x2562/EvDWWkhw-xHPC_Ba.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940908727072104448/vid/avc1/720x1280/mFuJiCa63kFv1zMV.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940908727072104448/vid/avc1/320x568/AGw3tn-GV3BIMTFD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940908727072104448/pl/1Wbz-kSNXiOTCvl5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940908727072104448/vid/avc1/480x854/_d5hDdm3MDYfGoiT.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "1940961554054426743",
+        "created_at": "2025-07-04T02:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T03:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940961554054426743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunalikesgelat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yunalikesgelato/status/1940908876423221333",
+              "start": 7,
+              "url": "https://t.co/liiyftFYsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940961554054426743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940908876423221333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yujin呐 https://t.co/liiyftFYsK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940908727072104448"
+          ]
+        },
+        "author_id": "1721575306010746880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Jewelry",
+              "id": "845293633259552768",
+              "name": "Jewelry"
+            }
+          }
+        ],
+        "conversation_id": "1940908876423221333",
+        "created_at": "2025-07-03T23:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T23:58:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940907934420291898",
+          "1940908876423221333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "한유진"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2koWGcxqif",
+              "end": 55,
+              "expanded_url": "https://x.com/yunalikesgelato/status/1940908876423221333/video/1",
+              "media_key": "13_1940908727072104448",
+              "start": 32,
+              "url": "https://t.co/2koWGcxqif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940908876423221333",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3804,
+          "like_count": 359,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "following",
+        "text": "다른귀걸이꼈당♥ \n오늘듀예뽀♡♡♡  250704 #한유진 https://t.co/2koWGcxqif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 187,
+          "like_count": 1017,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 953
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T17:08:42.000Z",
+        "description": "",
+        "id": "1721575306010746880",
+        "location": "물복단 뽀사단 물복이들 복숭아단 뽀모임",
+        "name": "🗯️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785904627109736448/4AwuOvfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 92,
+          "like_count": 5930,
+          "listed_count": 35,
+          "media_count": 4008,
+          "tweet_count": 11182
+        },
+        "username": "yunalikesgelato",
+        "verified": true
+      }
+    ]
+  }
+}

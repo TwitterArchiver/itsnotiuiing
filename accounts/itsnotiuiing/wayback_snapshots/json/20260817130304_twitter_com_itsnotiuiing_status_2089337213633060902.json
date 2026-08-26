@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089337198206431232"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2089337213633060902",
+    "created_at": "2026-08-17T13:03:04.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089337213633060902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dROtZO9bEA",
+          "end": 44,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2089337213633060902/photo/1",
+          "media_key": "3_2089337198206431232",
+          "start": 21,
+          "url": "https://t.co/dROtZO9bEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089337213633060902",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089337198206431232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个联名不好看。瑞幸七夕联名一个这么丑的 https://t.co/dROtZO9bEA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089337198206431232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7RHKsasAAO6bB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089337198206431232"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2089337213633060902",
+        "created_at": "2026-08-17T13:03:04.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089337213633060902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dROtZO9bEA",
+              "end": 44,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2089337213633060902/photo/1",
+              "media_key": "3_2089337198206431232",
+              "start": 21,
+              "url": "https://t.co/dROtZO9bEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089337213633060902",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089337198206431232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个联名不好看。瑞幸七夕联名一个这么丑的 https://t.co/dROtZO9bEA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089337213633060902",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 231,
+          "like_count": 2944,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

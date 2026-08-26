@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953281593055035781",
+    "created_at": "2025-08-07T02:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953284719602483555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1688547519129931776",
+          "start": 0,
+          "username": "ShuiJue30432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953284719602483555",
+    "in_reply_to_user_id": "1688547519129931776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953282067258834988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiJue30432 在思考喝谁家的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953281593055035781",
+        "created_at": "2025-08-07T02:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953284719602483555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688547519129931776",
+              "start": 0,
+              "username": "ShuiJue30432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953284719602483555",
+        "in_reply_to_user_id": "1688547519129931776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953282067258834988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiJue30432 在思考喝谁家的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688547519129931776",
+        "conversation_id": "1953281593055035781",
+        "created_at": "2025-08-07T02:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953282067258834988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953282067258834988",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953281593055035781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 再喝一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 277,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 588
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T13:48:05.000Z",
+        "description": "喜欢打cs一个人类，喜欢吃瓜，接受任何猎奇事物，高强度冲浪。如果不开心，请狠狠和我吐槽吧。",
+        "id": "1688547519129931776",
+        "name": "niko666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811664109957758976/DiI8HXyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 52,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 172
+        },
+        "username": "ShuiJue30432",
+        "verified": false
+      }
+    ]
+  }
+}

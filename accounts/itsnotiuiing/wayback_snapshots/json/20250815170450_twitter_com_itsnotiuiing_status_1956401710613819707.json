@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956063911293411691",
+    "created_at": "2025-08-15T17:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956401710613819707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874540345339658240",
+          "start": 0,
+          "username": "ao3todr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956401710613819707",
+    "in_reply_to_user_id": "1874540345339658240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956396788254171581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ao3todr 蟹蟹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-15T17:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956401710613819707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874540345339658240",
+              "start": 0,
+              "username": "ao3todr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956401710613819707",
+        "in_reply_to_user_id": "1874540345339658240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956396788254171581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ao3todr 蟹蟹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874540345339658240",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-15T16:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T17:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956396788254171581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956396788254171581",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956223981385846917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 正确的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1614,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 689
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T19:37:11.000Z",
+        "description": "我没有边界感",
+        "id": "1874540345339658240",
+        "name": "GAVR AWAY",
+        "pinned_tweet_id": "1889737006454042860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939998743920508928/sY9l_AdT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 209,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 161
+        },
+        "username": "ao3todr",
+        "verified": false
+      }
+    ]
+  }
+}

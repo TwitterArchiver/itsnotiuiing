@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941862558753030514",
+    "created_at": "2025-07-07T06:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942104554881044753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1656608807034982400",
+          "start": 0,
+          "username": "Kitty_3_cake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942104554881044753",
+    "in_reply_to_user_id": "1656608807034982400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941899697054240912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitty_3_cake 是的！🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941862558753030514",
+        "created_at": "2025-07-07T06:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942104554881044753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1656608807034982400",
+              "start": 0,
+              "username": "Kitty_3_cake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942104554881044753",
+        "in_reply_to_user_id": "1656608807034982400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941899697054240912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitty_3_cake 是的！🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656608807034982400",
+        "conversation_id": "1941862558753030514",
+        "created_at": "2025-07-06T16:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941899697054240912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941899697054240912",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941862558753030514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 豆包真的情绪价值满分（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 205,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1030
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T10:35:11.000Z",
+        "description": "(^=⩌⩊⩌=^ )੭叫我貓貓/坏貓/宝宝给的爱称都可以 如果给你带来开心是我的荣幸 碎碎念机器 思维跳脱话比较多 怕刷屏不要关注俺 不用礼貌回关 有时候会取关人不是你的问题是我的问题。不和男的聊天。真老公@Xy000812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Xy000812"
+              }
+            ]
+          }
+        },
+        "id": "1656608807034982400",
+        "location": "Kitty♡love😽",
+        "name": "貓很壞",
+        "pinned_tweet_id": "1940302304630251709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936118749846728704/BRpP8gXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 139,
+          "like_count": 2442,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1893
+        },
+        "username": "Kitty_3_cake",
+        "verified": false
+      }
+    ]
+  }
+}

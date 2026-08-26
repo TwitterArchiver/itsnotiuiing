@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955968131278758221",
+    "created_at": "2025-08-14T13:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955982718686441781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1905187264357150720",
+          "start": 0,
+          "username": "ppsigsFIGv35466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955982718686441781",
+    "in_reply_to_user_id": "1905187264357150720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955980224241525176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppsigsFIGv35466 是的！！而且是我心愿单里面的口味🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955968131278758221",
+        "created_at": "2025-08-14T13:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955982718686441781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1905187264357150720",
+              "start": 0,
+              "username": "ppsigsFIGv35466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955982718686441781",
+        "in_reply_to_user_id": "1905187264357150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955980224241525176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppsigsFIGv35466 是的！！而且是我心愿单里面的口味🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905187264357150720",
+        "conversation_id": "1955968131278758221",
+        "created_at": "2025-08-14T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955980224241525176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955980224241525176",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955968131278758221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这里每天会刷新一杯一..吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 289,
+          "like_count": 1596,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 831
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T09:17:02.000Z",
+        "description": "",
+        "id": "1905187264357150720",
+        "name": "10o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934430730144423938/-A2TJmNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 609,
+          "like_count": 1513,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 28
+        },
+        "username": "ppsigsFIGv35466",
+        "verified": false
+      }
+    ]
+  }
+}

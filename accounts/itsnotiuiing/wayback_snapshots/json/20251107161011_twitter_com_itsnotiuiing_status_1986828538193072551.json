@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1985727034925170863",
+    "created_at": "2025-11-07T16:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986828538193072551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901630313280897024",
+          "start": 0,
+          "username": "shikejie666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986828538193072551",
+    "in_reply_to_user_id": "901630313280897024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986816283539820901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikejie666 🥹🥹 物是人非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1985727034925170863",
+        "created_at": "2025-11-07T16:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986828538193072551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901630313280897024",
+              "start": 0,
+              "username": "shikejie666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986828538193072551",
+        "in_reply_to_user_id": "901630313280897024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986816283539820901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikejie666 🥹🥹 物是人非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901630313280897024",
+        "conversation_id": "1985727034925170863",
+        "created_at": "2025-11-07T15:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986816283539820901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986816283539820901",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985727034925170863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我最好的朋友谈恋爱后基本没有说过啥话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "say something…",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 308,
+          "like_count": 2009,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T02:19:52.000Z",
+        "description": "我的增肌日记",
+        "id": "901630313280897024",
+        "location": "曼彻斯特",
+        "name": "超大里脊肉饼",
+        "pinned_tweet_id": "1944391841664606560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937178440827899904/Go051v_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3940,
+          "following_count": 226,
+          "like_count": 1878,
+          "listed_count": 13,
+          "media_count": 447,
+          "tweet_count": 2514
+        },
+        "username": "shikejie666",
+        "verified": false
+      }
+    ]
+  }
+}

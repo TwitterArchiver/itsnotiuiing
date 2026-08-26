@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955559493296865759",
+    "created_at": "2025-08-13T09:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955560631203164417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661066054418980864",
+          "start": 0,
+          "username": "zzZtomori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955560631203164417",
+    "in_reply_to_user_id": "1661066054418980864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955559493296865759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzZtomori 充电🪫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955559485562597377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOK_boasAEweky.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955559493296865759",
+        "created_at": "2025-08-13T09:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955560631203164417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661066054418980864",
+              "start": 0,
+              "username": "zzZtomori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955560631203164417",
+        "in_reply_to_user_id": "1661066054418980864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955559493296865759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzZtomori 充电🪫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955559485562597377"
+          ]
+        },
+        "author_id": "1661066054418980864",
+        "conversation_id": "1955559493296865759",
+        "created_at": "2025-08-13T09:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955559493296865759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8Y1zv8VDg",
+              "end": 65,
+              "expanded_url": "https://x.com/zzZtomori/status/1955559493296865759/photo/1",
+              "media_key": "3_1955559485562597377",
+              "start": 42,
+              "url": "https://t.co/p8Y1zv8VDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955559493296865759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极氪也太恐怖了只是点进来看了一会 资料没填都收到电话了 我错了补药打电话给我TvT https://t.co/p8Y1zv8VDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1553,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 801
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T17:46:38.000Z",
+        "description": "",
+        "id": "1661066054418980864",
+        "name": "一只吉士堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952628266512052224/YchMM7IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 83,
+          "like_count": 1986,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 719
+        },
+        "username": "zzZtomori",
+        "verified": false
+      }
+    ]
+  }
+}

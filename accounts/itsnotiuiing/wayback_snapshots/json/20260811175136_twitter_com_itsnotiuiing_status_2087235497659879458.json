@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087235487174180864",
+        "3_2087235487182520320"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087235497659879458",
+    "created_at": "2026-08-11T17:51:36.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087235497659879458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsUt8go3CL",
+          "end": 142,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2087235497659879458/photo/1",
+          "media_key": "3_2087235487174180864",
+          "start": 119,
+          "url": "https://t.co/tsUt8go3CL"
+        },
+        {
+          "display_url": "pic.x.com/tsUt8go3CL",
+          "end": 142,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2087235497659879458/photo/1",
+          "media_key": "3_2087235487182520320",
+          "start": 119,
+          "url": "https://t.co/tsUt8go3CL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087235497659879458",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087235487174180864"
+      },
+      {
+        "media_key": "3_2087235487182520320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我付出真心就被这样对待。鼓起勇气联系断联一年多的朋友，好歹认识一场，快三年的朋友了，真的有人忙到一天都不看手机不回消息吗？已读不回对于高敏感人而言是堪比凌迟一般的酷刑，连玩手机这种令人开心的事情也无法缓解。其实我明白，不回信息就是答案。 https://t.co/tsUt8go3CL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2087235487174180864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdZne-bQAA4wwj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 778,
+        "media_key": "3_2087235487182520320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdZnfAagAA7Ee4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087235487174180864",
+            "3_2087235487182520320"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087235497659879458",
+        "created_at": "2026-08-11T17:51:36.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087235497659879458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsUt8go3CL",
+              "end": 142,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2087235497659879458/photo/1",
+              "media_key": "3_2087235487174180864",
+              "start": 119,
+              "url": "https://t.co/tsUt8go3CL"
+            },
+            {
+              "display_url": "pic.x.com/tsUt8go3CL",
+              "end": 142,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2087235497659879458/photo/1",
+              "media_key": "3_2087235487182520320",
+              "start": 119,
+              "url": "https://t.co/tsUt8go3CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087235497659879458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087235487174180864"
+          },
+          {
+            "media_key": "3_2087235487182520320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心就被这样对待。鼓起勇气联系断联一年多的朋友，好歹认识一场，快三年的朋友了，真的有人忙到一天都不看手机不回消息吗？已读不回对于高敏感人而言是堪比凌迟一般的酷刑，连玩手机这种令人开心的事情也无法缓解。其实我明白，不回信息就是答案。 https://t.co/tsUt8go3CL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087235497659879458",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 232,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

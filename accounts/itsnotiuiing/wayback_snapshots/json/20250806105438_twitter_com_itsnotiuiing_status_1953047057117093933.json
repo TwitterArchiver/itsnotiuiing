@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-06T10:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953047057117093933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444923973217800194",
+          "start": 0,
+          "username": "Edith4413370926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953047057117093933",
+    "in_reply_to_user_id": "1444923973217800194",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953041665083732109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edith4413370926 🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953041649761951744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqZCGWaoAATDbY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-06T10:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953047057117093933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444923973217800194",
+              "start": 0,
+              "username": "Edith4413370926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953047057117093933",
+        "in_reply_to_user_id": "1444923973217800194",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953041665083732109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edith4413370926 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953041649761951744"
+          ]
+        },
+        "author_id": "1444923973217800194",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-06T10:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953041665083732109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgSk9xUe2R",
+              "end": 48,
+              "expanded_url": "https://x.com/Edith4413370926/status/1953041665083732109/photo/1",
+              "media_key": "3_1953041649761951744",
+              "start": 25,
+              "url": "https://t.co/zgSk9xUe2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953041665083732109",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我这边已经没有了…… https://t.co/zgSk9xUe2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 263,
+          "like_count": 1208,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 618
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T07:15:08.000Z",
+        "description": "stay hungry_stay foolish",
+        "id": "1444923973217800194",
+        "name": "EDITH",
+        "pinned_tweet_id": "1682740120435458049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687185106245726208/mSCA5ndt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 162,
+          "like_count": 1086,
+          "listed_count": 6,
+          "media_count": 34,
+          "tweet_count": 401
+        },
+        "username": "Edith4413370926",
+        "verified": false
+      }
+    ]
+  }
+}

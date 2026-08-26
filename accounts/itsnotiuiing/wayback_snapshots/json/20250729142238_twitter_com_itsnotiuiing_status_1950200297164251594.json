@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T14:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T15:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950200297164251594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538373670241984512",
+          "start": 0,
+          "username": "meibozidepaida1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950200297164251594",
+    "in_reply_to_user_id": "1538373670241984512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950199384362139845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meibozidepaida1 🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T14:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T15:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950200297164251594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538373670241984512",
+              "start": 0,
+              "username": "meibozidepaida1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950200297164251594",
+        "in_reply_to_user_id": "1538373670241984512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950199384362139845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meibozidepaida1 🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538373670241984512",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T14:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T15:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950199384362139845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950199384362139845",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 兄弟确实好看，你去干掉小兰花😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 237,
+          "like_count": 1081,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 610
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T04:10:54.000Z",
+        "description": "",
+        "id": "1538373670241984512",
+        "name": "没脖子的派大星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538374511485124611/tQj6q6BR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 136,
+          "like_count": 494,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 206
+        },
+        "username": "meibozidepaida1",
+        "verified": false
+      }
+    ]
+  }
+}

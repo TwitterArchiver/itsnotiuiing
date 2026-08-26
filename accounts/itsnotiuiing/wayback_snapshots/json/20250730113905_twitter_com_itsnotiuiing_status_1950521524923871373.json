@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1950158333895463288",
+    "created_at": "2025-07-30T11:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T12:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950521524923871373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928759429178208256",
+          "start": 0,
+          "username": "ttinggggg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950521524923871373",
+    "in_reply_to_user_id": "1928759429178208256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950521029710782520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttinggggg0 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950520987662929921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGkgQSX0AEXS38.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1950158333895463288",
+        "created_at": "2025-07-30T11:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950521524923871373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928759429178208256",
+              "start": 0,
+              "username": "ttinggggg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950521524923871373",
+        "in_reply_to_user_id": "1928759429178208256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950521029710782520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttinggggg0 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950520987662929921"
+          ]
+        },
+        "author_id": "1928759429178208256",
+        "conversation_id": "1950158333895463288",
+        "created_at": "2025-07-30T11:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950521029710782520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWDcvMQOFd",
+              "end": 42,
+              "expanded_url": "https://x.com/ttinggggg0/status/1950521029710782520/photo/1",
+              "media_key": "3_1950520987662929921",
+              "start": 19,
+              "url": "https://t.co/lWDcvMQOFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950521029710782520",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950158333895463288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 陪一张… https://t.co/lWDcvMQOFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 248,
+          "like_count": 1089,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 612
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:24:26.000Z",
+        "description": "嘀嗒嘀嗒嘀嗒嗒滴嗒我的废话集",
+        "id": "1928759429178208256",
+        "name": "左边一个口右边一个舍叫啥",
+        "pinned_tweet_id": "1939564979931275531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928759976761372672/k2sfnnch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 39,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 300
+        },
+        "username": "ttinggggg0",
+        "verified": false
+      }
+    ]
+  }
+}

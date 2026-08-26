@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957279068501795143",
+    "created_at": "2025-08-19T01:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957622319163269125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804571128184127488",
+          "start": 0,
+          "username": "laozizuilihai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957622319163269125",
+    "in_reply_to_user_id": "1804571128184127488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957610657232351673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozizuilihai ToT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957279068501795143",
+        "created_at": "2025-08-19T01:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957622319163269125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804571128184127488",
+              "start": 0,
+              "username": "laozizuilihai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957622319163269125",
+        "in_reply_to_user_id": "1804571128184127488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957610657232351673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozizuilihai ToT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804571128184127488",
+        "conversation_id": "1957279068501795143",
+        "created_at": "2025-08-19T01:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957610657232351673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957610657232351673",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957279068501795143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 宝宝好好🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 322,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 680
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T17:44:37.000Z",
+        "description": "https://t.co/ZObDN28xTM 熟人认出我麻烦您装作不认识🫶 ENTJ-A 不习惯互动，随意取关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niaonizuili",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niaonizuili",
+                "start": 0,
+                "url": "https://t.co/ZObDN28xTM"
+              }
+            ]
+          }
+        },
+        "id": "1804571128184127488",
+        "name": "鳥你嘴裡",
+        "pinned_tweet_id": "1939252353258963060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942970378168504320/Dl7AJMf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 636
+        },
+        "username": "laozizuilihai",
+        "verified": false
+      }
+    ]
+  }
+}

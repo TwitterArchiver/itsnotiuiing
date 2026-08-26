@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954497926438572409",
+    "created_at": "2025-08-10T11:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T12:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954510145641386036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920353604122152960",
+          "start": 0,
+          "username": "hua564706376719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954510145641386036",
+    "in_reply_to_user_id": "1920353604122152960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954497926438572409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hua564706376719 及时止损🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_1954497918444138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_FgF8acAAUovZ.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954497918465093632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_FgGBaMAAAT8P.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954497926438572409",
+        "created_at": "2025-08-10T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954510145641386036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920353604122152960",
+              "start": 0,
+              "username": "hua564706376719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954510145641386036",
+        "in_reply_to_user_id": "1920353604122152960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954497926438572409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hua564706376719 及时止损🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954497918444138496",
+            "3_1954497918465093632"
+          ]
+        },
+        "author_id": "1920353604122152960",
+        "conversation_id": "1954497926438572409",
+        "created_at": "2025-08-10T10:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T11:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954497926438572409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QI2e0pMNI",
+              "end": 167,
+              "expanded_url": "https://x.com/hua564706376719/status/1954497926438572409/photo/1",
+              "media_key": "3_1954497918444138496",
+              "start": 144,
+              "url": "https://t.co/9QI2e0pMNI"
+            },
+            {
+              "display_url": "pic.x.com/9QI2e0pMNI",
+              "end": 167,
+              "expanded_url": "https://x.com/hua564706376719/status/1954497926438572409/photo/1",
+              "media_key": "3_1954497918465093632",
+              "start": 144,
+              "url": "https://t.co/9QI2e0pMNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954497926438572409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我最好的朋友绝交了昨天凌晨 她经常伤害我 我昨天删掉她的微信 然后写了一些话给她 当时几个小时很爽觉得纠缠了好久终于解决掉她 但是看到她给我的回复的时候我的眼泪止不住了 我发现我还是离不开她…但是她之前一直在伤害我 今天凌晨再看看吧我准备和她回到普通朋友的身份偶尔说几句话就足够了… https://t.co/9QI2e0pMNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 298,
+          "like_count": 1361,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 671
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T05:42:44.000Z",
+        "description": "谁允许你进来视监我的？出去！ `ヘ´",
+        "id": "1920353604122152960",
+        "location": "又来视监我了？欢迎！^_^",
+        "name": "hua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924743202017366016/YGsHpWOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 49,
+          "like_count": 8708,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1349
+        },
+        "username": "hua564706376719",
+        "verified": false
+      }
+    ]
+  }
+}

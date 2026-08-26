@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941769120502120859",
+    "created_at": "2025-07-06T08:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941778581899911416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890316689457442817",
+          "start": 0,
+          "username": "SiameseCat99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941778581899911416",
+    "in_reply_to_user_id": "1890316689457442817",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941776631649161389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SiameseCat99 🤤🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941769120502120859",
+        "created_at": "2025-07-06T08:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941778581899911416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890316689457442817",
+              "start": 0,
+              "username": "SiameseCat99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941778581899911416",
+        "in_reply_to_user_id": "1890316689457442817",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941776631649161389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SiameseCat99 🤤🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890316689457442817",
+        "conversation_id": "1941769120502120859",
+        "created_at": "2025-07-06T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941776631649161389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941776631649161389",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941769120502120859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 三进宫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 201,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1059
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T08:26:48.000Z",
+        "description": "ENFJ｜有爱人｜纯粹自恋｜自说自话日记本",
+        "id": "1890316689457442817",
+        "name": "梼杌（早睡早起版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939912356298993664/J7cvro8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 220,
+          "like_count": 5965,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 2432
+        },
+        "username": "SiameseCat99",
+        "verified": false
+      }
+    ]
+  }
+}

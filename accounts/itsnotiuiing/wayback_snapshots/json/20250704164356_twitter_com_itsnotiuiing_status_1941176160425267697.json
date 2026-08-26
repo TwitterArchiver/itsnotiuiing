@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941029709074338003",
+    "created_at": "2025-07-04T16:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T17:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941176160425267697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396728178849107970",
+          "start": 0,
+          "username": "heedongggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941176160425267697",
+    "in_reply_to_user_id": "1396728178849107970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941029709074338003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heedongggg 放屁股"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941029709074338003",
+        "created_at": "2025-07-04T16:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T17:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941176160425267697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396728178849107970",
+              "start": 0,
+              "username": "heedongggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941176160425267697",
+        "in_reply_to_user_id": "1396728178849107970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941029709074338003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heedongggg 放屁股"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396728178849107970",
+        "conversation_id": "1941029709074338003",
+        "created_at": "2025-07-04T07:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941029709074338003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941029709074338003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22783,
+          "like_count": 339,
+          "quote_count": 26,
+          "reply_count": 129,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "点赞关注转发 抽三个人自选情趣用品/其它 (1000以下）过两天开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 192,
+          "like_count": 1033,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 976
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T07:22:08.000Z",
+        "description": "新人清水博主",
+        "id": "1396728178849107970",
+        "name": "东河",
+        "pinned_tweet_id": "1939594453045440945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939024405281071104/UOFz8baj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94731,
+          "following_count": 273,
+          "like_count": 334,
+          "listed_count": 6,
+          "media_count": 104,
+          "tweet_count": 3100
+        },
+        "username": "heedongggg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954164654378557581",
+    "created_at": "2025-08-09T12:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954164654378557581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haolingze/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/haolingze/status/1953516832310043008",
+          "start": 16,
+          "url": "https://t.co/sW0CJQm1cQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954164654378557581",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953516832310043008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "떨어질까 봐 겁이 납니다😨😱 https://t.co/sW0CJQm1cQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1953516788467003393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxJKz9WcAE95X9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954164654378557581",
+        "created_at": "2025-08-09T12:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954164654378557581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haolingze/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/haolingze/status/1953516832310043008",
+              "start": 16,
+              "url": "https://t.co/sW0CJQm1cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954164654378557581",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953516832310043008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "떨어질까 봐 겁이 납니다😨😱 https://t.co/sW0CJQm1cQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953516788467003393"
+          ]
+        },
+        "author_id": "1786667240932442112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953516832310043008",
+        "created_at": "2025-08-07T18:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953516832310043008"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Hanini",
+              "probability": 0.5265,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T76UHJbi05",
+              "end": 42,
+              "expanded_url": "https://x.com/haolingze/status/1953516832310043008/photo/1",
+              "media_key": "3_1953516788467003393",
+              "start": 19,
+              "url": "https://t.co/T76UHJbi05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953516832310043008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 61011,
+          "like_count": 3249,
+          "quote_count": 29,
+          "reply_count": 5,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "Hanini in the soup https://t.co/T76UHJbi05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 292,
+          "like_count": 1314,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 666
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T08:00:48.000Z",
+        "description": "for #제로베이스원 #엔시티위시 #투어스 #라이즈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 4,
+                "tag": "제로베이스원"
+              },
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "엔시티위시"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "투어스"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "라이즈"
+              }
+            ]
+          }
+        },
+        "id": "1786667240932442112",
+        "location": "18+ eng/한국/中文",
+        "name": "ku 🏀",
+        "pinned_tweet_id": "1945546672592802134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914755519375425536/95dwTyWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 235,
+          "like_count": 8141,
+          "listed_count": 9,
+          "media_count": 994,
+          "tweet_count": 2807
+        },
+        "username": "haolingze",
+        "verified": false
+      }
+    ]
+  }
+}

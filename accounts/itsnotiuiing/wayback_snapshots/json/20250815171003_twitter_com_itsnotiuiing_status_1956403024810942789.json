@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956224369631617201",
+    "created_at": "2025-08-15T17:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956403024810942789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "830050515476238338",
+          "start": 0,
+          "username": "Alice_wasmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956403024810942789",
+    "in_reply_to_user_id": "830050515476238338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956224369631617201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice_wasmx 接😔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_1956224362778124291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXnsYRa4AMsjyr.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956224369631617201",
+        "created_at": "2025-08-15T17:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956403024810942789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "830050515476238338",
+              "start": 0,
+              "username": "Alice_wasmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956403024810942789",
+        "in_reply_to_user_id": "830050515476238338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956224369631617201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice_wasmx 接😔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956224362778124291"
+          ]
+        },
+        "author_id": "830050515476238338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956224369631617201",
+        "created_at": "2025-08-15T05:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956224369631617201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8L9rktIgkV",
+              "end": 47,
+              "expanded_url": "https://x.com/Alice_wasmx/status/1956224369631617201/photo/1",
+              "media_key": "3_1956224362778124291",
+              "start": 24,
+              "url": "https://t.co/8L9rktIgkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956224369631617201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35426,
+          "like_count": 216,
+          "quote_count": 5,
+          "reply_count": 133,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "啥也没问直接带姓口令甩我脸上😌🤲🏻如此幸福一鼠 https://t.co/8L9rktIgkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1616,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 690
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T13:47:19.000Z",
+        "description": "小小薯条的碎碎碎念૮꒰ ˶• ༝ •˶꒱ა@ovoxiaoshu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "ovoxiaoshu"
+              }
+            ]
+          }
+        },
+        "id": "830050515476238338",
+        "location": "ฅ^•ﻌ•^ฅ",
+        "name": "窝恨泥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946918158482526208/zRXxFG2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3275,
+          "following_count": 213,
+          "like_count": 7657,
+          "listed_count": 13,
+          "media_count": 187,
+          "tweet_count": 5809
+        },
+        "username": "Alice_wasmx",
+        "verified": false
+      }
+    ]
+  }
+}

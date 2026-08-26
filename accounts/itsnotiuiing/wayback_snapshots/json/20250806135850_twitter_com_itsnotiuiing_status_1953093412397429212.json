@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953089737214115966",
+    "created_at": "2025-08-06T13:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T14:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953093412397429212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953093412397429212",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953091218457673987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 谢谢小北🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-06T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953093412397429212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953093412397429212",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953091218457673987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 谢谢小北🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-06T13:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953091218457673987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953091218457673987",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953089737214115966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 想你宝宝😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 267,
+          "like_count": 1193,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 568
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/ 🚪52 互关宝宝请直接来加我😽 /恩师lii @Lillcuainil  /\n\n年卡12r自用VPN\nhttps://t.co/Iop4EJ54fS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Lillcuainil"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一元机场.ink/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://xn--4gq62f52gdss.ink/#/register?code=stQjAntt",
+                "start": 65,
+                "url": "https://t.co/Iop4EJ54fS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6124,
+          "following_count": 291,
+          "like_count": 29476,
+          "listed_count": 11,
+          "media_count": 483,
+          "tweet_count": 17672
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

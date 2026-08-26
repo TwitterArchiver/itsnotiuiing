@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-28T15:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T16:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949849671356059704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1656608807034982400",
+          "start": 0,
+          "username": "Kitty_3_cake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949849671356059704",
+    "in_reply_to_user_id": "1656608807034982400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949847334889590917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitty_3_cake 兄弟前几天刚去泰国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T15:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949849671356059704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1656608807034982400",
+              "start": 0,
+              "username": "Kitty_3_cake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949849671356059704",
+        "in_reply_to_user_id": "1656608807034982400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949847334889590917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitty_3_cake 兄弟前几天刚去泰国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656608807034982400",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949847334889590917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949847334889590917",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 兄弟咋变成我妈妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 179,
+          "like_count": 1014,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 552
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T10:35:11.000Z",
+        "description": "(^=⩌⩊⩌=^ )੭叫我貓貓/坏貓/其他爱称都行 给你带来开心我很荣幸哦 碎碎念机器 思维跳脱话比较多 很双标 不用礼貌回关 会看主页 有时候会取关拉黑人不喜欢看吵架很烦男同别关注我。@Xy000812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "Xy000812"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kitty81200",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kitty81200",
+                "start": 0,
+                "url": "https://t.co/WatDgW2Gu3"
+              }
+            ]
+          }
+        },
+        "id": "1656608807034982400",
+        "location": "Kitty♡love😽",
+        "name": "貓很壞",
+        "pinned_tweet_id": "1949777009401647512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936118749846728704/BRpP8gXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 199,
+          "like_count": 7396,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/WatDgW2Gu3",
+        "username": "Kitty_3_cake",
+        "verified": false
+      }
+    ]
+  }
+}

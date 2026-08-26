@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1963477141724541153",
+    "created_at": "2025-09-04T14:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963614299613794439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892197726089351168",
+          "start": 0,
+          "username": "_woson2ii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963614299613794439",
+    "in_reply_to_user_id": "1892197726089351168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963477141724541153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_woson2ii_ 同意😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1963477141724541153",
+        "created_at": "2025-09-04T14:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963614299613794439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892197726089351168",
+              "start": 0,
+              "username": "_woson2ii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963614299613794439",
+        "in_reply_to_user_id": "1892197726089351168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963477141724541153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_woson2ii_ 同意😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892197726089351168",
+        "conversation_id": "1963477141724541153",
+        "created_at": "2025-09-04T05:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963477141724541153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963477141724541153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2178,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的每次碰到非要让我把话说的很绝的情况我就会崩溃因为我特别想体面一点的结束对话不要搞了好伐！我说完两边都尴尬不爽就满意了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 296,
+          "like_count": 1493,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:18.000Z",
+        "description": "🩵 叫我小烟/tt｜⬇️神秘链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tteok75612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tteok75612",
+                "start": 0,
+                "url": "https://t.co/F7XWeGujrf"
+              }
+            ]
+          }
+        },
+        "id": "1892197726089351168",
+        "location": "울산",
+        "name": "^tteok^",
+        "pinned_tweet_id": "1954840837554344291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961764730848313344/vU797OLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 229,
+          "like_count": 18619,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/F7XWeGujrf",
+        "username": "_woson2ii_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954175375887540647",
+    "created_at": "2025-08-09T14:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954186192544526670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910029602598313989",
+          "start": 0,
+          "username": "kugua112038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954186192544526670",
+    "in_reply_to_user_id": "1910029602598313989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954180949895209450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kugua112038 初恋是整遍 手写的从前🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954175375887540647",
+        "created_at": "2025-08-09T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954186192544526670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910029602598313989",
+              "start": 0,
+              "username": "kugua112038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954186192544526670",
+        "in_reply_to_user_id": "1910029602598313989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954180949895209450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kugua112038 初恋是整遍 手写的从前🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910029602598313989",
+        "conversation_id": "1954175375887540647",
+        "created_at": "2025-08-09T14:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954180949895209450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954180949895209450",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954175375887540647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 292,
+          "like_count": 1335,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 686
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T17:58:59.000Z",
+        "description": "是那个男的 啥乱七八糟都爱发点 纯乐\n                              💤💤💤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvp112038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvp112038",
+                "start": 0,
+                "url": "https://t.co/euBAS8bToT"
+              }
+            ]
+          }
+        },
+        "id": "1910029602598313989",
+        "location": "ing",
+        "name": "苦瓜",
+        "pinned_tweet_id": "1948688166153847260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949366348733444096/KIHtIJXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 108,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/euBAS8bToT",
+        "username": "kugua112038",
+        "verified": false
+      }
+    ]
+  }
+}

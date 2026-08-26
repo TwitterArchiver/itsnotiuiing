@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-05T13:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941488631472062716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1300634950304063488",
+          "start": 0,
+          "username": "2Iyow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941488631472062716",
+    "in_reply_to_user_id": "1300634950304063488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941487500675125430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Iyow 😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T13:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941488631472062716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1300634950304063488",
+              "start": 0,
+              "username": "2Iyow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941488631472062716",
+        "in_reply_to_user_id": "1300634950304063488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941487500675125430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Iyow 😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300634950304063488",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T13:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941487500675125430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941487500675125430",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941485396694814871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 看出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 194,
+          "like_count": 1041,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1027
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T03:22:40.000Z",
+        "description": "山水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haol123.com",
+                "end": 23,
+                "expanded_url": "http://www.haol123.com",
+                "start": 0,
+                "url": "https://t.co/4c1AXw8Z7B"
+              }
+            ]
+          }
+        },
+        "id": "1300634950304063488",
+        "location": "中国",
+        "name": "聃青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474329261096210432/Iq949ZmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/4c1AXw8Z7B",
+        "username": "2Iyow",
+        "verified": false
+      }
+    ]
+  }
+}

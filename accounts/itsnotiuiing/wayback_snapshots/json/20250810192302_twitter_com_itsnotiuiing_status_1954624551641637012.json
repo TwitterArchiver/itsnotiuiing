@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953810870125178884"
+      ],
+      "media_source_tweet_id": [
+        "1953811366705344815"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954624551641637012",
+    "created_at": "2025-08-10T19:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T20:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954624551641637012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/divk3B8jid",
+          "end": 136,
+          "expanded_url": "https://x.com/didengshengwu/status/1953811366705344815/photo/1",
+          "media_key": "3_1953810870125178884",
+          "start": 113,
+          "url": "https://t.co/divk3B8jid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954624551641637012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953811366705344815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: 很多领导都喜欢拿什么上善若水、平安是福、天道酬勤做 昵称\n\n现在有个说法，凡是 用这种 老气横秋的名字、刻意宣传正能量、拿着劲儿的那种人，都不是什么靠谱的人。\n\n一般都是缺什么强调什么。 https://t.co/divk3B8jid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_1953810870125178884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1UongbsAQw4vk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953810870125178884"
+          ],
+          "media_source_tweet_id": [
+            "1953811366705344815"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954624551641637012",
+        "created_at": "2025-08-10T19:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T20:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954624551641637012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/divk3B8jid",
+              "end": 136,
+              "expanded_url": "https://x.com/didengshengwu/status/1953811366705344815/photo/1",
+              "media_key": "3_1953810870125178884",
+              "start": 113,
+              "url": "https://t.co/divk3B8jid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954624551641637012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953811366705344815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: 很多领导都喜欢拿什么上善若水、平安是福、天道酬勤做 昵称\n\n现在有个说法，凡是 用这种 老气横秋的名字、刻意宣传正能量、拿着劲儿的那种人，都不是什么靠谱的人。\n\n一般都是缺什么强调什么。 https://t.co/divk3B8jid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953810870125178884"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1953811366705344815",
+        "created_at": "2025-08-08T13:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:29:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953810882309632039",
+          "1953811366705344815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/divk3B8jid",
+              "end": 117,
+              "expanded_url": "https://x.com/didengshengwu/status/1953811366705344815/photo/1",
+              "media_key": "3_1953810870125178884",
+              "start": 94,
+              "url": "https://t.co/divk3B8jid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953811366705344815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 954,
+          "impression_count": 1117914,
+          "like_count": 3251,
+          "quote_count": 11,
+          "reply_count": 106,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "很多领导都喜欢拿什么上善若水、平安是福、天道酬勤做 昵称\n\n现在有个说法，凡是 用这种 老气横秋的名字、刻意宣传正能量、拿着劲儿的那种人，都不是什么靠谱的人。\n\n一般都是缺什么强调什么。 https://t.co/divk3B8jid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 300,
+          "like_count": 1387,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 689
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "我人虽然不怎么高级，但是底线还可以的！喜欢分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171133,
+          "following_count": 841,
+          "like_count": 2751,
+          "listed_count": 660,
+          "media_count": 2599,
+          "tweet_count": 5059
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

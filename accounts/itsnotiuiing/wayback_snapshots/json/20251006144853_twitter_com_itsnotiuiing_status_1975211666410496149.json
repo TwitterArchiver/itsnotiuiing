@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975211591336681472"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1975211666410496149",
+    "created_at": "2025-10-06T14:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975211666410496149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gI0r3q9H8V",
+          "end": 44,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1975211666410496149/video/1",
+          "media_key": "13_1975211591336681472",
+          "start": 21,
+          "url": "https://t.co/gI0r3q9H8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975211666410496149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎 适可萌止吧xx^ ̳ට ̫ ට ̳^ https://t.co/gI0r3q9H8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12600,
+        "height": 1280,
+        "media_key": "13_1975211591336681472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975211591336681472/img/pmXyY7sU3631NVs3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975211591336681472/vid/avc1/320x568/4_FwdMifCKN3RYm2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975211591336681472/vid/avc1/480x852/rWRzFgYWip-9ZnnP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975211591336681472/vid/avc1/720x1280/6iP5ogOb1eWwhqlt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975211591336681472/pl/75xFvNCHLVXGYQwp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975211591336681472"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1975211666410496149",
+        "created_at": "2025-10-06T14:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975211666410496149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gI0r3q9H8V",
+              "end": 44,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1975211666410496149/video/1",
+              "media_key": "13_1975211591336681472",
+              "start": 21,
+              "url": "https://t.co/gI0r3q9H8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975211666410496149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎 适可萌止吧xx^ ̳ට ̫ ට ̳^ https://t.co/gI0r3q9H8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 300,
+          "like_count": 1914,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 37
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

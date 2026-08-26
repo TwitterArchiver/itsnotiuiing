@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956564569322831893",
+    "created_at": "2025-08-16T04:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T05:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956571156170822056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748638915966435328",
+          "start": 0,
+          "username": "yh066300114506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956571156170822056",
+    "in_reply_to_user_id": "1748638915966435328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956569108700652014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yh066300114506 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956564569322831893",
+        "created_at": "2025-08-16T04:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956571156170822056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748638915966435328",
+              "start": 0,
+              "username": "yh066300114506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956571156170822056",
+        "in_reply_to_user_id": "1748638915966435328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956569108700652014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yh066300114506 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748638915966435328",
+        "conversation_id": "1956564569322831893",
+        "created_at": "2025-08-16T04:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956569108700652014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956569108700652014",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956564569322831893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 恭喜主播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 299,
+          "like_count": 1599,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 672
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:29:48.000Z",
+        "description": "大家好！本人184 83kg，黑皮，是 ENFP小狗，目前在广东读研，想在X找一点存在感。 /—/  性别男，爱好女，喜欢看涩涩的东。平时喜欢健身，游泳，打游戏，喜欢邓紫棋，最喜欢的电影是名侦探。/—/上的了实验室，下得了厨房。/—/梦想是开一家属于自己的花店/—/欢迎大家找我玩",
+        "id": "1748638915966435328",
+        "location": "光年之外",
+        "name": "shu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753963446666993664/3rtSSXkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 37,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 111
+        },
+        "username": "yh066300114506",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954509030367654078",
+    "created_at": "2025-08-10T11:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T12:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954512357285417294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889780854626582528",
+          "start": 0,
+          "username": "lllan624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954512357285417294",
+    "in_reply_to_user_id": "1889780854626582528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954512141001908350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllan624 笑死我了wc 但人还是巨帅🌚🌚🌚💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954509030367654078",
+        "created_at": "2025-08-10T11:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954512357285417294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889780854626582528",
+              "start": 0,
+              "username": "lllan624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954512357285417294",
+        "in_reply_to_user_id": "1889780854626582528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954512141001908350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllan624 笑死我了wc 但人还是巨帅🌚🌚🌚💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889780854626582528",
+        "conversation_id": "1954509030367654078",
+        "created_at": "2025-08-10T11:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954512141001908350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954512141001908350",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954511691825447323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 是是是那个撕拉片也很帅，但是明信片不好看，不知道为什么当封面，刚刚拆开我都想甩了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 298,
+          "like_count": 1367,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 674
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T20:57:38.000Z",
+        "description": "",
+        "id": "1889780854626582528",
+        "name": "早雾落",
+        "pinned_tweet_id": "1952879095114809507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950646957979918336/x3PtzJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 174,
+          "like_count": 5412,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1808
+        },
+        "username": "lllan624",
+        "verified": false
+      }
+    ]
+  }
+}

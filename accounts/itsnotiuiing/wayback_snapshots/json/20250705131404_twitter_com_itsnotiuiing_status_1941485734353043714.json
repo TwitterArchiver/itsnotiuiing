@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-05T13:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941485734353043714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "chnxixnlixux1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941485734353043714",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941436856635437081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnxixnlixux1 是呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T13:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941485734353043714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "chnxixnlixux1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941485734353043714",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941436856635437081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnxixnlixux1 是呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611322522670346241",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T09:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941436856635437081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941436856635437081",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好米味啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 192,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1017
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07.07.09/你可以叫我小虾🦐/纯文科/25届高考选手/🎨🎤🎹🤗什么都沾点边/数学不好可以很差/两只🐶两只🐭两只🦔/挑战每一条评论都回，如果没回就是没看到不是故意的，你可以跟我说(求你找我互fo🫵)欢迎私信，但是不欢迎骚扰🐱",
+        "id": "1611322522670346241",
+        "location": "莫名其妙的妙妙屋",
+        "name": "才下雨",
+        "pinned_tweet_id": "1940778130068984283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940734743219228672/pl9n9m8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 197,
+          "like_count": 1206,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1653
+        },
+        "username": "chnxixnlixux1",
+        "verified": false
+      }
+    ]
+  }
+}

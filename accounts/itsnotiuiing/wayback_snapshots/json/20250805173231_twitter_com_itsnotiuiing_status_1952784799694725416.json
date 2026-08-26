@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952650702766952696",
+    "created_at": "2025-08-05T17:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952784799694725416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1688547519129931776",
+          "start": 0,
+          "username": "ShuiJue30432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952784799694725416",
+    "in_reply_to_user_id": "1688547519129931776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952777044380844507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiJue30432 我将买它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952650702766952696",
+        "created_at": "2025-08-05T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952784799694725416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688547519129931776",
+              "start": 0,
+              "username": "ShuiJue30432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952784799694725416",
+        "in_reply_to_user_id": "1688547519129931776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952777044380844507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiJue30432 我将买它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688547519129931776",
+        "conversation_id": "1952650702766952696",
+        "created_at": "2025-08-05T17:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952777044380844507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952777044380844507",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952650702766952696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 小八！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 255,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 572
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T13:48:05.000Z",
+        "description": "fuck you 小蜜蜂 喜欢chiikawa的一个男银，可以向我倾诉任何猎奇的事情。",
+        "id": "1688547519129931776",
+        "name": "niko666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811664109957758976/DiI8HXyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 48,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "username": "ShuiJue30432",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-06T08:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941769656651612408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1557716371198291972",
+          "start": 0,
+          "username": "soyooo123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941769656651612408",
+    "in_reply_to_user_id": "1557716371198291972",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941757762586743044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyooo123_ 🥭🥭🥭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T08:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941769656651612408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1557716371198291972",
+              "start": 0,
+              "username": "soyooo123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941769656651612408",
+        "in_reply_to_user_id": "1557716371198291972",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941757762586743044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyooo123_ 🥭🥭🥭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557716371198291972",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T07:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941757762586743044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941757762586743044",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我想要芒果 啊——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 198,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1052
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T13:11:51.000Z",
+        "description": "可丽饼过来",
+        "id": "1557716371198291972",
+        "name": "想吃奶油可丽饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776299052910383104/6yS6X3FT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 93,
+          "like_count": 9194,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 537
+        },
+        "username": "soyooo123_",
+        "verified": false
+      }
+    ]
+  }
+}

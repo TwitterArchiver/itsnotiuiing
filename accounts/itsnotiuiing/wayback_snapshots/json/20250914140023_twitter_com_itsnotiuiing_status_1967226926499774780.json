@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967226864461926400"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1967226926499774780",
+    "created_at": "2025-09-14T14:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967226926499774780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEofyM1wwD",
+          "end": 31,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1967226926499774780/video/1",
+          "media_key": "13_1967226864461926400",
+          "start": 8,
+          "url": "https://t.co/kEofyM1wwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967226926499774780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很可爱我知道 https://t.co/kEofyM1wwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8500,
+        "height": 854,
+        "media_key": "13_1967226864461926400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967226864461926400/img/Sd1K57tCYwd1c2DR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967226864461926400/vid/avc1/320x568/stoTSvtVYISDBdwO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967226864461926400/vid/avc1/480x854/R8_MaeadjOrmLodI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967226864461926400/pl/SlkgtXRrNwinZ8Sj.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967226864461926400"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1967226926499774780",
+        "created_at": "2025-09-14T14:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967226926499774780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEofyM1wwD",
+              "end": 31,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1967226926499774780/video/1",
+              "media_key": "13_1967226864461926400",
+              "start": 8,
+              "url": "https://t.co/kEofyM1wwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967226926499774780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很可爱我知道 https://t.co/kEofyM1wwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 303,
+          "like_count": 1618,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

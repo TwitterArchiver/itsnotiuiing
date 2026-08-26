@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944078681011351978",
+    "created_at": "2025-08-07T02:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953281403472470337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823016274424627200",
+          "start": 0,
+          "username": "DingR_0124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953281403472470337",
+    "in_reply_to_user_id": "1823016274424627200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953280805150810505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingR_0124 没错！🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944078681011351978",
+        "created_at": "2025-08-07T02:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953281403472470337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823016274424627200",
+              "start": 0,
+              "username": "DingR_0124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953281403472470337",
+        "in_reply_to_user_id": "1823016274424627200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953280805150810505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingR_0124 没错！🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823016274424627200",
+        "conversation_id": "1944078681011351978",
+        "created_at": "2025-08-07T02:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953280805150810505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953280805150810505",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944078681011351978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 黑衬衫 黑色高领毛衣 黑t恤 都有这种感觉www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 275,
+          "like_count": 1198,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 586
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T15:19:24.000Z",
+        "description": "未知型人格",
+        "id": "1823016274424627200",
+        "location": "China Grove, NC",
+        "name": "Chiiiii_^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947703287173812229/5vFOrkKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 103,
+          "like_count": 5151,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 411
+        },
+        "username": "DingR_0124",
+        "verified": false
+      }
+    ]
+  }
+}

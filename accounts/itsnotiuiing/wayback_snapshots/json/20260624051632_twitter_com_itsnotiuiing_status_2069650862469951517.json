@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2069340814128607704",
+    "created_at": "2026-06-24T05:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069650862469951517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944739532827660289",
+          "start": 0,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069650862469951517",
+    "in_reply_to_user_id": "1944739532827660289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069650392833753532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niuwooo 嘿嘿嘿嘿嘿😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2069340814128607704",
+        "created_at": "2026-06-24T05:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069650862469951517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944739532827660289",
+              "start": 0,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069650862469951517",
+        "in_reply_to_user_id": "1944739532827660289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069650392833753532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niuwooo 嘿嘿嘿嘿嘿😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944739532827660289",
+        "conversation_id": "2069340814128607704",
+        "created_at": "2026-06-24T05:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069650392833753532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069650392833753532",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069464549364007163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 换头像都认不出了差点点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 234,
+          "like_count": 2854,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "我讨厌水果菠萝，凤梨，胡萝卜和猕猴桃。\n养了一只缅因叫菠萝🍍\n喜欢聊天，欢迎找我玩👏",
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶🥛",
+        "pinned_tweet_id": "1967592747218731433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389597478711296/fSlc0aJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 106,
+          "like_count": 4747,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2048762583197569436",
+    "created_at": "2026-04-27T16:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048802351763652648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048533104495636480",
+          "start": 0,
+          "username": "HollieHayw48935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048802351763652648",
+    "in_reply_to_user_id": "2048533104495636480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048801675238916518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HollieHayw48935 你们他吗是不是有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2048762583197569436",
+        "created_at": "2026-04-27T16:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048802351763652648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048533104495636480",
+              "start": 0,
+              "username": "HollieHayw48935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048802351763652648",
+        "in_reply_to_user_id": "2048533104495636480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048801675238916518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HollieHayw48935 你们他吗是不是有病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048533104495636480",
+        "conversation_id": "2048762583197569436",
+        "created_at": "2026-04-27T16:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048801675238916518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048801675238916518",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048762583197569436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 男‌大弟弟来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 255,
+          "like_count": 2554,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 41
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T22:42:08.000Z",
+        "description": "已入驻约p平台:👉https://t.co/OzMYhhSorw只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/OzMYhhSorw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 23,
+                "expanded_url": "http://d93g.top",
+                "start": 0,
+                "url": "https://t.co/OzMYhhSorw"
+              }
+            ]
+          }
+        },
+        "id": "2048533104495636480",
+        "location": "附近2.88km",
+        "name": "雨桐🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048801685464612864/wG5_vRB__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/OzMYhhSorw",
+        "username": "HollieHayw48935",
+        "verified": false
+      }
+    ]
+  }
+}

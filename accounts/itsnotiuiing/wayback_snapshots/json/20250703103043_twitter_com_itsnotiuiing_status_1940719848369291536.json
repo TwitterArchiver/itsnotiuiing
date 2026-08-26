@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1940719782971535360"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940719848369291536",
+    "created_at": "2025-07-03T10:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940719848369291536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrjRagt7Tn",
+          "end": 33,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1940719848369291536/video/1",
+          "media_key": "13_1940719782971535360",
+          "start": 10,
+          "url": "https://t.co/hrjRagt7Tn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940719848369291536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放眼望去全是瓦学弟 https://t.co/hrjRagt7Tn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5104,
+        "height": 1280,
+        "media_key": "13_1940719782971535360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940719782971535360/img/j0jpcrtXmUyBzDgb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940719782971535360/vid/avc1/320x568/rUj6KL0ggx3VCJOV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940719782971535360/vid/avc1/480x852/I4ZZYgFjfKeNEaLS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940719782971535360/vid/avc1/720x1280/8sALyzh_k3tIOdaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940719782971535360/pl/HuuXhfe8vMwUG_k5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940719782971535360"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940719848369291536",
+        "created_at": "2025-07-03T10:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940719848369291536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrjRagt7Tn",
+              "end": 33,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1940719848369291536/video/1",
+              "media_key": "13_1940719782971535360",
+              "start": 10,
+              "url": "https://t.co/hrjRagt7Tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940719848369291536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放眼望去全是瓦学弟 https://t.co/hrjRagt7Tn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 186,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 928
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

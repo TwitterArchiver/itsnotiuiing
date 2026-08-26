@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941786997477257363",
+    "created_at": "2025-07-06T13:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941855910835769535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675181879010672640",
+          "start": 0,
+          "username": "xiaoshi2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941855910835769535",
+    "in_reply_to_user_id": "1675181879010672640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941850295342137550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshi2023 😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941786997477257363",
+        "created_at": "2025-07-06T13:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941855910835769535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675181879010672640",
+              "start": 0,
+              "username": "xiaoshi2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941855910835769535",
+        "in_reply_to_user_id": "1675181879010672640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941850295342137550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshi2023 😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675181879010672640",
+        "conversation_id": "1941786997477257363",
+        "created_at": "2025-07-06T13:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941850295342137550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941850295342137550",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941842085088538655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 没品！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 205,
+          "like_count": 1048,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1011
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T16:38:02.000Z",
+        "description": "No one is coming🎇\n@xiaoshi92376340\n没有门槛 不加微信 有趣的人会回关\n私信没回就是觉得你这个人差点意思 回了也可能是骂人的\n晚安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "xiaoshi92376340"
+              }
+            ]
+          }
+        },
+        "id": "1675181879010672640",
+        "location": "Here",
+        "name": "小时",
+        "pinned_tweet_id": "1940082213758157096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675182120837459969/U0Mb8QPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 316,
+          "like_count": 12564,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1215
+        },
+        "username": "xiaoshi2023",
+        "verified": false
+      }
+    ]
+  }
+}

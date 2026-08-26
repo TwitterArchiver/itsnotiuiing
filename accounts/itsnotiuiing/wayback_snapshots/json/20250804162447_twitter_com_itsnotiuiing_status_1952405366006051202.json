@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952210451716342261",
+    "created_at": "2025-08-04T16:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952405366006051202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928759429178208256",
+          "start": 0,
+          "username": "ttinggggg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952405366006051202",
+    "in_reply_to_user_id": "1928759429178208256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952371053658784111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttinggggg0 🌚🌚🌚🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952210451716342261",
+        "created_at": "2025-08-04T16:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952405366006051202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928759429178208256",
+              "start": 0,
+              "username": "ttinggggg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952405366006051202",
+        "in_reply_to_user_id": "1928759429178208256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952371053658784111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttinggggg0 🌚🌚🌚🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928759429178208256",
+        "conversation_id": "1952210451716342261",
+        "created_at": "2025-08-04T14:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952371053658784111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952371053658784111",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952210451716342261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 勿盗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 254,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 556
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:24:26.000Z",
+        "description": "嘀嗒嘀嗒嘀嗒嗒滴嗒我的废话集",
+        "id": "1928759429178208256",
+        "name": "左边一个口右边一个舍叫啥",
+        "pinned_tweet_id": "1939564979931275531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951672195186388992/R67bPij3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 40,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 325
+        },
+        "username": "ttinggggg0",
+        "verified": false
+      }
+    ]
+  }
+}

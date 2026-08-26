@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949843997670957251",
+    "created_at": "2025-07-28T14:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949843997670957251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1924695121997791258",
+          "start": 20,
+          "url": "https://t.co/fmotvpmIsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949843997670957251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924695121997791258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我把这条取消置顶了那就是我恋爱了。 https://t.co/fmotvpmIsa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949843997670957251",
+        "created_at": "2025-07-28T14:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949843997670957251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1924695121997791258",
+              "start": 20,
+              "url": "https://t.co/fmotvpmIsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949843997670957251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924695121997791258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我把这条取消置顶了那就是我恋爱了。 https://t.co/fmotvpmIsa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1924695121997791258",
+        "created_at": "2025-05-20T05:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T06:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924695121997791258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924695121997791258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17321,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "单身的100个优点\n1.免除恋爱中信息秒回的压力自由支配通讯时间2.无需为约会穿搭焦虑按舒适喜好选择服装3.减少因伴侣情绪波动而被迫调整自身状态的情况4.可随意在居住空间堆放个人物品无需考虑整洁度5.不必为纪念日生日等特殊日子提前筹备6.避免因对方饮食习惯不同被迫改变自己饮食偏好7.能完整享受独处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 177,
+          "like_count": 1012,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 551
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

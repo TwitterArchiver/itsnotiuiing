@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T05:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T06:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953322404555710817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2717644820",
+          "start": 0,
+          "username": "jie92075"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953322404555710817",
+    "in_reply_to_user_id": "2717644820",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953310540790686032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jie92075 6666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T05:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953322404555710817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2717644820",
+              "start": 0,
+              "username": "jie92075"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953322404555710817",
+        "in_reply_to_user_id": "2717644820",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953310540790686032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie92075 6666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2717644820",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T04:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953310540790686032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953310540790686032",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 277,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 589
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-08T18:03:30.000Z",
+        "description": "本性淳朴,喜欢奶子、来看奶子……顺便举报一些盗图的……是CN人另外还是CN，你说我本性淳朴不淳朴。T-T太羞耻了,自己去猜什么吧...不过,人生,终究太多事,意难平了啊...",
+        "id": "2717644820",
+        "name": "姬天",
+        "pinned_tweet_id": "1168212602394009602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/653256189761814528/-_225MeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 571,
+          "like_count": 7341,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 8941
+        },
+        "username": "jie92075",
+        "verified": false
+      }
+    ]
+  }
+}

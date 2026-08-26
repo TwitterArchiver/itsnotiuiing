@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1976554119826636917",
+    "created_at": "2025-10-10T15:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976672354253300046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913667656428998656",
+          "start": 0,
+          "username": "Starrrrry301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976672354253300046",
+    "in_reply_to_user_id": "1913667656428998656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976554119826636917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starrrrry301 我一直在哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976554116764794883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24hfzkaAAMkGLN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1976554119826636917",
+        "created_at": "2025-10-10T15:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976672354253300046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913667656428998656",
+              "start": 0,
+              "username": "Starrrrry301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976672354253300046",
+        "in_reply_to_user_id": "1913667656428998656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976554119826636917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrrrry301 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976554116764794883"
+          ]
+        },
+        "author_id": "1913667656428998656",
+        "conversation_id": "1976554119826636917",
+        "created_at": "2025-10-10T07:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T08:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976554119826636917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ed0g9mRRi",
+              "end": 83,
+              "expanded_url": "https://x.com/Starrrrry301/status/1976554119826636917/photo/1",
+              "media_key": "3_1976554116764794883",
+              "start": 60,
+              "url": "https://t.co/4Ed0g9mRRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976554119826636917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4567,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果喜欢年上面对的代价是永远无法及时回复的消息，想见面却处理不完的工作和想谈天说地却无法敞开的心扉…那我还是不要喜欢了 https://t.co/4Ed0g9mRRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 301,
+          "like_count": 1953,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T18:55:09.000Z",
+        "description": "NN大王的人间历险记",
+        "id": "1913667656428998656",
+        "name": "Nnnnnnnnx",
+        "pinned_tweet_id": "1933907563864785073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967165760566185984/xynNc26e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 67,
+          "like_count": 2911,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 179
+        },
+        "username": "Starrrrry301",
+        "verified": false
+      }
+    ]
+  }
+}

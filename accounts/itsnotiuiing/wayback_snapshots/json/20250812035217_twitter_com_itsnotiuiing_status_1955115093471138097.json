@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955115093471138097",
+    "created_at": "2025-08-12T03:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T04:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955115093471138097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955115093471138097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问大家一个事 就是房东没退2000块押金  发信息也不回 现在微信互删没证据 刚才民警让我网银查看微信明细给他看一下 我不小心点开了日历 发现马上就要七夕了 有人能在17天内爱上我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955115093471138097",
+        "created_at": "2025-08-12T03:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T04:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955115093471138097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955115093471138097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一个事 就是房东没退2000块押金  发信息也不回 现在微信互删没证据 刚才民警让我网银查看微信明细给他看一下 我不小心点开了日历 发现马上就要七夕了 有人能在17天内爱上我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 287,
+          "like_count": 1441,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 737
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

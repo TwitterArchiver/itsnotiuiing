@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957374864089547006",
+    "created_at": "2025-08-19T01:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T02:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957622005651632243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955315736655900673",
+          "start": 0,
+          "username": "xiongzai0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957622005651632243",
+    "in_reply_to_user_id": "1955315736655900673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957488550863335456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiongzai0223 好喝的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-19T01:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957622005651632243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955315736655900673",
+              "start": 0,
+              "username": "xiongzai0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957622005651632243",
+        "in_reply_to_user_id": "1955315736655900673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957488550863335456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiongzai0223 好喝的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955315736655900673",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-18T17:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957488550863335456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957488550863335456",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957374864089547006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好喝嘛这个🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 322,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 678
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T17:09:46.000Z",
+        "description": "",
+        "id": "1955315736655900673",
+        "name": "小熊崽崽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955316157541650432/iGis8o9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 57,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "xiongzai0223",
+        "verified": false
+      }
+    ]
+  }
+}

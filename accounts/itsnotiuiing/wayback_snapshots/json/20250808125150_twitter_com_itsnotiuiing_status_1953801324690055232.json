@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953799854645268972",
+    "created_at": "2025-08-08T12:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953801324690055232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661066054418980864",
+          "start": 0,
+          "username": "zzZtomori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953801324690055232",
+    "in_reply_to_user_id": "1661066054418980864",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953799854645268972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzZtomori ദി˶•ㅅ•)✧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953799846932230146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1Km-6bsAIUMoB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 937,
+        "media_key": "3_1953799846907064320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1Km-0bsAAOFNL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953799854645268972",
+        "created_at": "2025-08-08T12:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953801324690055232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661066054418980864",
+              "start": 0,
+              "username": "zzZtomori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953801324690055232",
+        "in_reply_to_user_id": "1661066054418980864",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953799854645268972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzZtomori ദി˶•ㅅ•)✧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953799846932230146",
+            "3_1953799846907064320"
+          ]
+        },
+        "author_id": "1661066054418980864",
+        "conversation_id": "1953799854645268972",
+        "created_at": "2025-08-08T12:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953799854645268972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uiz9Cw7935",
+              "end": 30,
+              "expanded_url": "https://x.com/zzZtomori/status/1953799854645268972/photo/1",
+              "media_key": "3_1953799846932230146",
+              "start": 7,
+              "url": "https://t.co/Uiz9Cw7935"
+            },
+            {
+              "display_url": "pic.x.com/Uiz9Cw7935",
+              "end": 30,
+              "expanded_url": "https://x.com/zzZtomori/status/1953799854645268972/photo/1",
+              "media_key": "3_1953799846907064320",
+              "start": 7,
+              "url": "https://t.co/Uiz9Cw7935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953799854645268972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间管理大师 https://t.co/Uiz9Cw7935"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 290,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 622
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T17:46:38.000Z",
+        "description": "",
+        "id": "1661066054418980864",
+        "name": "一只吉士堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952628266512052224/YchMM7IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 1943,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 716
+        },
+        "username": "zzZtomori",
+        "verified": false
+      }
+    ]
+  }
+}

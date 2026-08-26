@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956711186302415355",
+    "created_at": "2025-08-16T13:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956711643368554792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725185100000985088",
+          "start": 0,
+          "username": "LiwUFHkOfd68924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956711643368554792",
+    "in_reply_to_user_id": "1725185100000985088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956711574606934112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiwUFHkOfd68924 同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956711186302415355",
+        "created_at": "2025-08-16T13:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956711643368554792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725185100000985088",
+              "start": 0,
+              "username": "LiwUFHkOfd68924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956711643368554792",
+        "in_reply_to_user_id": "1725185100000985088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956711574606934112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiwUFHkOfd68924 同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725185100000985088",
+        "conversation_id": "1956711186302415355",
+        "created_at": "2025-08-16T13:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956711574606934112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956711574606934112",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956711186302415355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这个棉花糖巨好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 304,
+          "like_count": 1624,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 700
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T16:12:42.000Z",
+        "description": "我身体里的列车从来不会错轨",
+        "id": "1725185100000985088",
+        "name": "高调的低手",
+        "pinned_tweet_id": "1927029184708141259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835340331262562304/cIE8Ms8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 198,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1852
+        },
+        "username": "LiwUFHkOfd68924",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975920114852941824"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1975920185547899374",
+    "created_at": "2025-10-08T13:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T14:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975920185547899374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UhSm4GflJ",
+          "end": 130,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1975920185547899374/video/1",
+          "media_key": "13_1975920114852941824",
+          "start": 107,
+          "url": "https://t.co/6UhSm4GflJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975920185547899374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前话也很多 吃完饭了要说 睡醒起床了要说 今天的天气很好要说 我什么都要说 但是忽然发现 你从来没有和我说过你今天发生了什么 问你为什么不说 你说自己的生活的很无聊 我的生活同样无聊 怎么我有那么多话要和你说 https://t.co/6UhSm4GflJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17458,
+        "height": 960,
+        "media_key": "13_1975920114852941824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975920114852941824/img/kruOoF013YIJUu3b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975920114852941824/vid/avc1/320x568/wi29EpeF6zgMFFaw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975920114852941824/vid/avc1/480x852/-xTx9mkhhq0NHDFX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975920114852941824/vid/avc1/540x960/I5JT6gq7w_vultZx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975920114852941824/pl/1ClEXCdDG_cjPMvU.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975920114852941824"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1975920185547899374",
+        "created_at": "2025-10-08T13:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975920185547899374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UhSm4GflJ",
+              "end": 130,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1975920185547899374/video/1",
+              "media_key": "13_1975920114852941824",
+              "start": 107,
+              "url": "https://t.co/6UhSm4GflJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975920185547899374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前话也很多 吃完饭了要说 睡醒起床了要说 今天的天气很好要说 我什么都要说 但是忽然发现 你从来没有和我说过你今天发生了什么 问你为什么不说 你说自己的生活的很无聊 我的生活同样无聊 怎么我有那么多话要和你说 https://t.co/6UhSm4GflJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 299,
+          "like_count": 1937,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

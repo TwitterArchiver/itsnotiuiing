@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069650173920428033",
+        "3_2069650174046093312",
+        "3_2069650174121504768",
+        "3_2069650174171869184"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069650185719095362",
+    "created_at": "2026-06-24T05:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069650185719095362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D75hYAycOg",
+          "end": 34,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+          "media_key": "3_2069650173920428033",
+          "start": 11,
+          "url": "https://t.co/D75hYAycOg"
+        },
+        {
+          "display_url": "pic.x.com/D75hYAycOg",
+          "end": 34,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+          "media_key": "3_2069650174046093312",
+          "start": 11,
+          "url": "https://t.co/D75hYAycOg"
+        },
+        {
+          "display_url": "pic.x.com/D75hYAycOg",
+          "end": 34,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+          "media_key": "3_2069650174121504768",
+          "start": 11,
+          "url": "https://t.co/D75hYAycOg"
+        },
+        {
+          "display_url": "pic.x.com/D75hYAycOg",
+          "end": 34,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+          "media_key": "3_2069650174171869184",
+          "start": 11,
+          "url": "https://t.co/D75hYAycOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069650185719095362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些都是我高中画的🥹 https://t.co/D75hYAycOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069650173920428033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjf3iHaQAET0YN.jpg",
+        "width": 774
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069650174046093312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjf3ilXwAAFeG-.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069650174121504768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjf3i3WcAAYAtq.jpg",
+        "width": 780
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069650174171869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjf3jDW8AAQR7C.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069650173920428033",
+            "3_2069650174046093312",
+            "3_2069650174121504768",
+            "3_2069650174171869184"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069650185719095362",
+        "created_at": "2026-06-24T05:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069650185719095362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D75hYAycOg",
+              "end": 34,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+              "media_key": "3_2069650173920428033",
+              "start": 11,
+              "url": "https://t.co/D75hYAycOg"
+            },
+            {
+              "display_url": "pic.x.com/D75hYAycOg",
+              "end": 34,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+              "media_key": "3_2069650174046093312",
+              "start": 11,
+              "url": "https://t.co/D75hYAycOg"
+            },
+            {
+              "display_url": "pic.x.com/D75hYAycOg",
+              "end": 34,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+              "media_key": "3_2069650174121504768",
+              "start": 11,
+              "url": "https://t.co/D75hYAycOg"
+            },
+            {
+              "display_url": "pic.x.com/D75hYAycOg",
+              "end": 34,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2069650185719095362/photo/1",
+              "media_key": "3_2069650174171869184",
+              "start": 11,
+              "url": "https://t.co/D75hYAycOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069650185719095362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些都是我高中画的🥹 https://t.co/D75hYAycOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 234,
+          "like_count": 2853,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

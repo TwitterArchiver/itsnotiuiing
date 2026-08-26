@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1975865550921412866",
+    "created_at": "2025-10-08T10:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975878777180971465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1401914808497106945",
+          "start": 0,
+          "username": "Wuuuyaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975878777180971465",
+    "in_reply_to_user_id": "1401914808497106945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975878549530956244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuuuyaa 乱讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1975865550921412866",
+        "created_at": "2025-10-08T10:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975878777180971465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1401914808497106945",
+              "start": 0,
+              "username": "Wuuuyaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975878777180971465",
+        "in_reply_to_user_id": "1401914808497106945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975878549530956244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuuuyaa 乱讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401914808497106945",
+        "conversation_id": "1975865550921412866",
+        "created_at": "2025-10-08T10:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975878549530956244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975878549530956244",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975867938386366659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 300,
+          "like_count": 1938,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T14:52:02.000Z",
+        "description": "烂人",
+        "id": "1401914808497106945",
+        "name": "白鸦",
+        "pinned_tweet_id": "1964713544894824878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921498377193426944/iptK7V9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14967,
+          "following_count": 101,
+          "like_count": 12206,
+          "listed_count": 45,
+          "media_count": 123,
+          "tweet_count": 9027
+        },
+        "username": "Wuuuyaa",
+        "verified": false
+      }
+    ]
+  }
+}

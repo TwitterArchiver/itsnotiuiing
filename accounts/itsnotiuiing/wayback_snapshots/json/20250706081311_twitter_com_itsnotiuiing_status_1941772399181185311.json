@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941769120502120859",
+    "created_at": "2025-07-06T08:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941772399181185311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791709647520387073",
+          "start": 0,
+          "username": "imc1482886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941772399181185311",
+    "in_reply_to_user_id": "1791709647520387073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941772355849814121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imc1482886 笑死我了🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941769120502120859",
+        "created_at": "2025-07-06T08:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941772399181185311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791709647520387073",
+              "start": 0,
+              "username": "imc1482886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941772399181185311",
+        "in_reply_to_user_id": "1791709647520387073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941772355849814121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imc1482886 笑死我了🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791709647520387073",
+        "conversation_id": "1941769120502120859",
+        "created_at": "2025-07-06T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941772355849814121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941772355849814121",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941769120502120859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing “依旧不知道配什么文案”的文案😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 201,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1057
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:57:31.000Z",
+        "description": "缺爱批  线上是个话痨  喜欢欣赏和夸夸，像个有情的夸夸机器人，可以多回我评论多和我互动聊天吗🥺🥺//男生男生男生！♂！别搞错了",
+        "id": "1791709647520387073",
+        "name": "imc",
+        "pinned_tweet_id": "1919424185119449416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865460252520660992/R8DxKdqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 64,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 793
+        },
+        "username": "imc1482886",
+        "verified": false
+      }
+    ]
+  }
+}

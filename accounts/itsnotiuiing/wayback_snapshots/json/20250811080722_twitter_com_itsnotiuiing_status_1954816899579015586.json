@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954716073003225101",
+    "created_at": "2025-08-11T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954816899579015586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823016274424627200",
+          "start": 0,
+          "username": "DingR_0124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954816899579015586",
+    "in_reply_to_user_id": "1823016274424627200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954799495704658132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingR_0124 是的🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954716073003225101",
+        "created_at": "2025-08-11T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954816899579015586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823016274424627200",
+              "start": 0,
+              "username": "DingR_0124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954816899579015586",
+        "in_reply_to_user_id": "1823016274424627200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954799495704658132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingR_0124 是的🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823016274424627200",
+        "conversation_id": "1954716073003225101",
+        "created_at": "2025-08-11T06:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954799495704658132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954799495704658132",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954716073003225101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 主播是点门吗哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 283,
+          "like_count": 1415,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 724
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T15:19:24.000Z",
+        "description": "未知型人格",
+        "id": "1823016274424627200",
+        "location": "China Grove, NC",
+        "name": "Chiiiii_^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947703287173812229/5vFOrkKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 111,
+          "like_count": 6157,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 459
+        },
+        "username": "DingR_0124",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T07:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T08:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953364732653547553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660253397172490244",
+          "start": 0,
+          "username": "igotpsycho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953364732653547553",
+    "in_reply_to_user_id": "1660253397172490244",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953356788054503623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igotpsycho 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T07:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953364732653547553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660253397172490244",
+              "start": 0,
+              "username": "igotpsycho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953364732653547553",
+        "in_reply_to_user_id": "1660253397172490244",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953356788054503623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igotpsycho 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660253397172490244",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953356788054503623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953356788054503623",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 没有抢到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 278,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 595
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T11:57:19.000Z",
+        "description": "本人精神病人，代开代购各类精三类药物，线下正规医院代开代购，不贵，只想赚点钱买买烟💙\n购买🉑电报或者私信询问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sertraline6",
+                "end": 23,
+                "expanded_url": "http://t.me/sertraline6",
+                "start": 0,
+                "url": "https://t.co/FWlSjbksNG"
+              }
+            ]
+          }
+        },
+        "id": "1660253397172490244",
+        "location": "哦对了，我也约炮，坐标长沙",
+        "name": "21世纪精神病人与他的主治医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947064021523251202/3-rIQgEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 469,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/FWlSjbksNG",
+        "username": "igotpsycho",
+        "verified": false
+      }
+    ]
+  }
+}

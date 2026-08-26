@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2054238491807248420",
+    "created_at": "2026-05-12T16:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054238491807248420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054238491807248420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来太在乎反而会让关系变坏。人与人之间的关系，不是靠单方面的用力就能维系长久的。太过于依赖最后常常会把一段好好的关系推向糟糕的境地。无限度的付出，以为自己的在意能让对方感受到，能让彼此靠得更近。站在自己的角度，觉得这样的在意是真心，却从未真正站在对方的立场去感受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2054238491807248420",
+        "created_at": "2026-05-12T16:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054238491807248420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054238491807248420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来太在乎反而会让关系变坏。人与人之间的关系，不是靠单方面的用力就能维系长久的。太过于依赖最后常常会把一段好好的关系推向糟糕的境地。无限度的付出，以为自己的在意能让对方感受到，能让彼此靠得更近。站在自己的角度，觉得这样的在意是真心，却从未真正站在对方的立场去感受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "你要离开 我知道很简单",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 256,
+          "like_count": 2644,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 49
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

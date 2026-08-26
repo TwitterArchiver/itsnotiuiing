@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953388246739881984"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953388257170854304",
+    "created_at": "2025-08-07T09:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953388257170854304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o4rhwQY4vr",
+          "end": 27,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1953388257170854304/photo/1",
+          "media_key": "3_1953388246739881984",
+          "start": 4,
+          "url": "https://t.co/o4rhwQY4vr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953388257170854304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺蜜🥰 https://t.co/o4rhwQY4vr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_1953388246739881984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvUQstakAAUrgA.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953388246739881984"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953388257170854304",
+        "created_at": "2025-08-07T09:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953388257170854304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4rhwQY4vr",
+              "end": 27,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1953388257170854304/photo/1",
+              "media_key": "3_1953388246739881984",
+              "start": 4,
+              "url": "https://t.co/o4rhwQY4vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953388257170854304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜🥰 https://t.co/o4rhwQY4vr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 280,
+          "like_count": 1206,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 600
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

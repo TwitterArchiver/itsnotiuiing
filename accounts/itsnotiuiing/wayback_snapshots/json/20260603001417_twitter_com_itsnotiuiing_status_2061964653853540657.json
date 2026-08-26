@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2061787893807693981",
+    "created_at": "2026-06-03T00:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061964653853540657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828380113563529216",
+          "start": 0,
+          "username": "yunho7219426677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061964653853540657",
+    "in_reply_to_user_id": "1828380113563529216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061833549200712104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunho7219426677 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2061787893807693981",
+        "created_at": "2026-06-03T00:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061964653853540657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828380113563529216",
+              "start": 0,
+              "username": "yunho7219426677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061964653853540657",
+        "in_reply_to_user_id": "1828380113563529216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061833549200712104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunho7219426677 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828380113563529216",
+        "conversation_id": "2061787893807693981",
+        "created_at": "2026-06-02T15:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061833549200712104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061833549200712104",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061787893807693981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 阑尾炎吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "觉今是而昨非",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 264,
+          "like_count": 2820,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T10:33:07.000Z",
+        "description": "",
+        "id": "1828380113563529216",
+        "name": "嘻嘻嘻嘻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876619734575153153/EjoJNBCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 60,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 445
+        },
+        "username": "yunho7219426677",
+        "verified": false
+      }
+    ]
+  }
+}

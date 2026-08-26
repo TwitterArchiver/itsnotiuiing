@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955531894097055906",
+    "created_at": "2025-08-13T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955557800144470074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706860686893252608",
+          "start": 0,
+          "username": "Sulliva19128248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955557800144470074",
+    "in_reply_to_user_id": "1706860686893252608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955532908808286411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sulliva19128248 喝❗️❗️❗️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955557800144470074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706860686893252608",
+              "start": 0,
+              "username": "Sulliva19128248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955557800144470074",
+        "in_reply_to_user_id": "1706860686893252608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955532908808286411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sulliva19128248 喝❗️❗️❗️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706860686893252608",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T07:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955532908808286411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955532908808286411",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955531894097055906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 喝！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 791
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T02:38:00.000Z",
+        "description": "想死在空中，落地之后粉身碎骨混入泥土，十年之后我的身上草木丰茂",
+        "id": "1706860686893252608",
+        "location": "M78星云",
+        "name": "南无哉佩利敖菩萨day10",
+        "pinned_tweet_id": "1953984114601996317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943901237830733824/1HkwLjBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 229,
+          "like_count": 4794,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1383
+        },
+        "username": "Sulliva19128248",
+        "verified": false
+      }
+    ]
+  }
+}

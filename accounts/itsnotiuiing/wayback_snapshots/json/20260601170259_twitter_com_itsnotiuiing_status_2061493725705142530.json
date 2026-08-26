@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061493718423834624"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2061493725705142530",
+    "created_at": "2026-06-01T17:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061493725705142530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jmXAbrYjNG",
+          "end": 35,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2061493725705142530/photo/1",
+          "media_key": "3_2061493718423834624",
+          "start": 12,
+          "url": "https://t.co/jmXAbrYjNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061493725705142530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天的烦恼今天想开了吗 https://t.co/jmXAbrYjNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2061493718423834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvlnVlaEAAZkzJ.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061493718423834624"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2061493725705142530",
+        "created_at": "2026-06-01T17:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061493725705142530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmXAbrYjNG",
+              "end": 35,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2061493725705142530/photo/1",
+              "media_key": "3_2061493718423834624",
+              "start": 12,
+              "url": "https://t.co/jmXAbrYjNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061493725705142530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天的烦恼今天想开了吗 https://t.co/jmXAbrYjNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "幸运( ＞ω＜)ฅ🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 263,
+          "like_count": 2811,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 54
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

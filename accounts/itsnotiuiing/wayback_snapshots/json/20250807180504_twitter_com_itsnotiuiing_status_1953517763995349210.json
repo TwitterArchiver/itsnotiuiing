@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T18:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T19:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953517763995349210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804824313692078080",
+          "start": 0,
+          "username": "discoverbenzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953517763995349210",
+    "in_reply_to_user_id": "1804824313692078080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953511583709122830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@discoverbenzi 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T18:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953517763995349210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804824313692078080",
+              "start": 0,
+              "username": "discoverbenzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953517763995349210",
+        "in_reply_to_user_id": "1804824313692078080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953511583709122830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@discoverbenzi 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804824313692078080",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T17:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T18:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953511583709122830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953511583709122830",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 三只太适合打工了穿上店员服这个萌啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 285,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 602
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T10:30:39.000Z",
+        "description": "🏳️‍🌈les/短发t/做1活不好做0不耐操的sub&m | 推广私信 | 有主 @smartccss ，不约不谈 | 🔞掉落少量做狗影像与大量碎碎念 | 男勿扰除非上贡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "smartccss"
+              }
+            ]
+          }
+        },
+        "id": "1804824313692078080",
+        "location": "＜500m",
+        "name": "承喜大王📒",
+        "pinned_tweet_id": "1932822458802860101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894253118902472704/d-6Nroun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13649,
+          "following_count": 463,
+          "like_count": 13694,
+          "listed_count": 36,
+          "media_count": 122,
+          "tweet_count": 1013
+        },
+        "username": "discoverbenzi",
+        "verified": false
+      }
+    ]
+  }
+}

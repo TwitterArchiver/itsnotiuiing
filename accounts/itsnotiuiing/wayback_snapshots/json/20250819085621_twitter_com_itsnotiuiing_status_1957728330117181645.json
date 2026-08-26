@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957718945630417213",
+    "created_at": "2025-08-19T08:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T09:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957728330117181645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1344972601819418625",
+          "start": 0,
+          "username": "JiFuTaiLang_027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957728330117181645",
+    "in_reply_to_user_id": "1344972601819418625",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957727582637682787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiFuTaiLang_027 🦀️👟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957718945630417213",
+        "created_at": "2025-08-19T08:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957728330117181645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1344972601819418625",
+              "start": 0,
+              "username": "JiFuTaiLang_027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957728330117181645",
+        "in_reply_to_user_id": "1344972601819418625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957727582637682787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiFuTaiLang_027 🦀️👟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344972601819418625",
+        "conversation_id": "1957718945630417213",
+        "created_at": "2025-08-19T08:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957727582637682787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957727582637682787",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957718945630417213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 无敌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 320,
+          "like_count": 1706,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 679
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T11:43:59.000Z",
+        "description": "我觉得我转的推都是极品好冲的\n又会舔又会指尖活又好的男人在哪找\n武汉",
+        "id": "1344972601819418625",
+        "location": "中华人民共和国 ",
+        "name": "胀相",
+        "pinned_tweet_id": "1930693673370677592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810149960924450817/fuLapMMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 485,
+          "like_count": 8710,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 6884
+        },
+        "username": "JiFuTaiLang_027",
+        "verified": false
+      }
+    ]
+  }
+}

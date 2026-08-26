@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941342711182917712",
+    "created_at": "2025-07-05T06:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941383965820235892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889505201305907200",
+          "start": 0,
+          "username": "sbx1731582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941383965820235892",
+    "in_reply_to_user_id": "1889505201305907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941371344123498577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sbx1731582 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941342711182917712",
+        "created_at": "2025-07-05T06:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941383965820235892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889505201305907200",
+              "start": 0,
+              "username": "sbx1731582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941383965820235892",
+        "in_reply_to_user_id": "1889505201305907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941371344123498577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sbx1731582 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889505201305907200",
+        "conversation_id": "1941342711182917712",
+        "created_at": "2025-07-05T05:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941371344123498577"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜恭喜",
+              "probability": 0.3812,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941371344123498577",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941342711182917712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 恭喜恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 193,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 983
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T02:42:54.000Z",
+        "description": "男生/我的乏味人生，正在无聊中.../性格波粒二象性/内容很杂，会有游戏、日常、美食、爱好、感想、风景等/没有饭吃会很委屈/你喜欢的东西我都喜欢/想要过上美好生活",
+        "id": "1889505201305907200",
+        "name": "想吃软敷敷的饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914859118357094402/Nt0JOvHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1185
+        },
+        "username": "sbx1731582",
+        "verified": false
+      }
+    ]
+  }
+}

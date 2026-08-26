@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T04:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T05:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950045926925455678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701919610365427712",
+          "start": 0,
+          "username": "HakuiiL70027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950045926925455678",
+    "in_reply_to_user_id": "1701919610365427712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950043268353314963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HakuiiL70027 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T04:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950045926925455678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701919610365427712",
+              "start": 0,
+              "username": "HakuiiL70027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950045926925455678",
+        "in_reply_to_user_id": "1701919610365427712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950043268353314963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HakuiiL70027 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701919610365427712",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T03:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950043268353314963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950043268353314963",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 别这样，对直男会容易引起性别识别焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 213,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 585
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T11:24:04.000Z",
+        "description": "未来是属于机器人的！182，134，直男，曾号称本硕92里的电线杆，现在想要拥有聪明的头脑也能拥有迷人的身材！不抽烟不喝酒，不赌，勤奋努力的牛马来这里喜欢搞点黄色，怎么了？别喷我！",
+        "id": "1701919610365427712",
+        "location": "北京",
+        "name": "bot进化中",
+        "pinned_tweet_id": "1949398224210743756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701996158930022400/V0d0MEmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 30,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 207
+        },
+        "username": "HakuiiL70027",
+        "verified": false
+      }
+    ]
+  }
+}

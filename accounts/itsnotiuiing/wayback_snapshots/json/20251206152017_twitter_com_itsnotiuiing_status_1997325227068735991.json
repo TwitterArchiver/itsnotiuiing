@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338237887066775554",
+          "name": "Huang Zitao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338237887066775554",
+          "name": "Huang Zitao"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338237887066775554",
+          "name": "Huang Zitao"
+        }
+      }
+    ],
+    "conversation_id": "1997325227068735991",
+    "created_at": "2025-12-06T15:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997325227068735991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890591824391397376",
+          "start": 3,
+          "username": "YiQuandbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997325227068735991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997282580866248977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiQuandbn: 你们这场“地下特工恋”堪称年度最佳悬疑剧——可两位主角一直偷偷藏不住，致力于将互关和路人变为play中的一环。我不禁想问，这是喜欢公开露出“甜蜜撒糖”，还是为了致敬黄子韬和徐艺洋？\n分享相处瞬间却不大方官宣，是因为推推恋遭大家诟病许久，还是觉得这段…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          }
+        ],
+        "conversation_id": "1997325227068735991",
+        "created_at": "2025-12-06T15:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997325227068735991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890591824391397376",
+              "start": 3,
+              "username": "YiQuandbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997325227068735991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997282580866248977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiQuandbn: 你们这场“地下特工恋”堪称年度最佳悬疑剧——可两位主角一直偷偷藏不住，致力于将互关和路人变为play中的一环。我不禁想问，这是喜欢公开露出“甜蜜撒糖”，还是为了致敬黄子韬和徐艺洋？\n分享相处瞬间却不大方官宣，是因为推推恋遭大家诟病许久，还是觉得这段…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890591824391397376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338237887066775554",
+              "name": "Huang Zitao"
+            }
+          }
+        ],
+        "conversation_id": "1997282580866248977",
+        "created_at": "2025-12-06T12:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997282580866248977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997282580866248977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17120,
+          "like_count": 69,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们这场“地下特工恋”堪称年度最佳悬疑剧——可两位主角一直偷偷藏不住，致力于将互关和路人变为play中的一环。我不禁想问，这是喜欢公开露出“甜蜜撒糖”，还是为了致敬黄子韬和徐艺洋？\n分享相处瞬间却不大方官宣，是因为推推恋遭大家诟病许久，还是觉得这段关系拿不出手？不论答案如何我只想说：祝99！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "…",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 250,
+          "like_count": 2226,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 24
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T02:40:08.000Z",
+        "description": "可以叫我小本/我妈妈@Mermercury52955/我的小猫：@279251miaowu/青年音重度依赖 好听的青年音请塞我私信里/梦想是白皮薄肌眼镜男给我做狗/感谢你的喜欢祝你天天开心/自用VPN：https://t.co/tic7qQi26w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Mermercury52955"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "279251miaowu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bbb.av8d002.top/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://bbb.av8d002.top/#/register?code=DU9MN1QV",
+                "start": 101,
+                "url": "https://t.co/tic7qQi26w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiquandbn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiquandbn",
+                "start": 0,
+                "url": "https://t.co/QXzxyQcvME"
+              }
+            ]
+          }
+        },
+        "id": "1890591824391397376",
+        "location": "锁推号关注我会被屏蔽",
+        "name": "老子一拳打爆你（被ban版）",
+        "pinned_tweet_id": "1997310176983179501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979499244428902401/TcPQWHuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14872,
+          "following_count": 289,
+          "like_count": 141,
+          "listed_count": 11,
+          "media_count": 300,
+          "tweet_count": 14556
+        },
+        "url": "https://t.co/QXzxyQcvME",
+        "username": "YiQuandbn",
+        "verified": false
+      }
+    ]
+  }
+}

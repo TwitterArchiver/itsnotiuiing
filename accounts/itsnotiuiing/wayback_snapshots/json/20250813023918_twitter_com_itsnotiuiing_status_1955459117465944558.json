@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955459117465944558",
+    "created_at": "2025-08-13T02:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T03:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955459117465944558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kilig_i777/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kilig_i777/status/1955327039679889461",
+          "start": 5,
+          "url": "https://t.co/Hqa4Clmfg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955459117465944558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955327039679889461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心碎了💔 https://t.co/Hqa4Clmfg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1955326959384158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyK3goHWYAA5IGG.jpg",
+        "width": 430
+      },
+      {
+        "height": 954,
+        "media_key": "3_1955326959375859712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyK3goFXwAAUMLm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955459117465944558",
+        "created_at": "2025-08-13T02:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955459117465944558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kilig_i777/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kilig_i777/status/1955327039679889461",
+              "start": 5,
+              "url": "https://t.co/Hqa4Clmfg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955459117465944558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955327039679889461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心碎了💔 https://t.co/Hqa4Clmfg6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955326959384158208",
+            "3_1955326959375859712"
+          ]
+        },
+        "author_id": "1691791250670895105",
+        "conversation_id": "1955244221117444494",
+        "created_at": "2025-08-12T17:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955327039679889461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Kb8rydSTv",
+              "end": 33,
+              "expanded_url": "https://x.com/kilig_i777/status/1955327039679889461/photo/1",
+              "media_key": "3_1955326959384158208",
+              "start": 10,
+              "url": "https://t.co/8Kb8rydSTv"
+            },
+            {
+              "display_url": "pic.x.com/8Kb8rydSTv",
+              "end": 33,
+              "expanded_url": "https://x.com/kilig_i777/status/1955327039679889461/photo/1",
+              "media_key": "3_1955326959375859712",
+              "start": 10,
+              "url": "https://t.co/8Kb8rydSTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955327039679889461",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2715,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955244221117444494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪不得你财大气粗😭 https://t.co/8Kb8rydSTv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1539,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 782
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "我就这样自己跟自己玩我就这样一直发疯发情",
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "宝宝我不服",
+        "pinned_tweet_id": "1953739851590680970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941451907437858818/-TZObtUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14392,
+          "following_count": 369,
+          "like_count": 21995,
+          "listed_count": 25,
+          "media_count": 259,
+          "tweet_count": 13226
+        },
+        "username": "kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

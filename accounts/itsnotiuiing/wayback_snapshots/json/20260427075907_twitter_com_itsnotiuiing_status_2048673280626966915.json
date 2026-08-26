@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2048362943000305769",
+    "created_at": "2026-04-27T07:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048673280626966915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048299072558075904",
+          "start": 0,
+          "username": "lynda34780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048673280626966915",
+    "in_reply_to_user_id": "2048299072558075904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048625260514226377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynda34780 找你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2048362943000305769",
+        "created_at": "2026-04-27T07:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048673280626966915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048299072558075904",
+              "start": 0,
+              "username": "lynda34780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048673280626966915",
+        "in_reply_to_user_id": "2048299072558075904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048625260514226377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynda34780 找你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048299072558075904",
+        "conversation_id": "2048362943000305769",
+        "created_at": "2026-04-27T04:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048625260514226377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048625260514226377",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048362943000305769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing ‌找个同城的⁠哥哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 253,
+          "like_count": 2549,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 37
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:12:10.000Z",
+        "description": "已入驻约p平台:👉https://t.co/QdmmgUwZtp只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/QdmmgUwZtp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 23,
+                "expanded_url": "http://d93g.top",
+                "start": 0,
+                "url": "https://t.co/QdmmgUwZtp"
+              }
+            ]
+          }
+        },
+        "id": "2048299072558075904",
+        "location": "附近2.88km",
+        "name": "千亦🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048625270190665729/1FcJuBIZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/QdmmgUwZtp",
+        "username": "lynda34780",
+        "verified": false
+      }
+    ]
+  }
+}

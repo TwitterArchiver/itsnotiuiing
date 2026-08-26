@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940796633970888761",
+    "created_at": "2025-07-04T02:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T03:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940961398647046316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940961398647046316",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940923631812624547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 嘻嘻☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-04T02:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T03:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940961398647046316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940961398647046316",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940923631812624547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 嘻嘻☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-04T00:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940923631812624547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940923631812624547",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940796633970888761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我天…怎么这么可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 187,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 952
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "07/男生/想到啥发啥/ 🚪52 互关宝宝请直接来加我😽 /    \n畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN\nhttps://t.co/3t28hH2Mrc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=w0eaXhwD",
+                "start": 62,
+                "url": "https://t.co/3t28hH2Mrc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1940343104651112837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 200,
+          "like_count": 16344,
+          "listed_count": 8,
+          "media_count": 312,
+          "tweet_count": 9399
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

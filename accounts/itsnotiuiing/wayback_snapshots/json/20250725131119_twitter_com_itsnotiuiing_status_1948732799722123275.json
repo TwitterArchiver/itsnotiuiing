@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948732789245022208"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1948699372507857365",
+    "created_at": "2025-07-25T13:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948732799722123275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661066054418980864",
+          "start": 0,
+          "username": "zzZtomori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uOtlXHS5tD",
+          "end": 39,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1948732799722123275/photo/1",
+          "media_key": "3_1948732789245022208",
+          "start": 16,
+          "url": "https://t.co/uOtlXHS5tD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948732799722123275",
+    "in_reply_to_user_id": "1661066054418980864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948699372507857365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzZtomori 好巧一样 https://t.co/uOtlXHS5tD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1948732789245022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtKJaEbEAALWfi.jpg",
+        "width": 1125
+      },
+      {
+        "height": 448,
+        "media_key": "3_1948699364446359552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwsrv0_a0AA6n1M.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948732789245022208"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1948699372507857365",
+        "created_at": "2025-07-25T13:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948732799722123275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661066054418980864",
+              "start": 0,
+              "username": "zzZtomori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOtlXHS5tD",
+              "end": 39,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1948732799722123275/photo/1",
+              "media_key": "3_1948732789245022208",
+              "start": 16,
+              "url": "https://t.co/uOtlXHS5tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948732799722123275",
+        "in_reply_to_user_id": "1661066054418980864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948699372507857365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzZtomori 好巧一样 https://t.co/uOtlXHS5tD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948699364446359552"
+          ]
+        },
+        "author_id": "1661066054418980864",
+        "conversation_id": "1948699372507857365",
+        "created_at": "2025-07-25T10:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948699372507857365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxvL0PdrmV",
+              "end": 31,
+              "expanded_url": "https://x.com/zzZtomori/status/1948699372507857365/photo/1",
+              "media_key": "3_1948699364446359552",
+              "start": 8,
+              "url": "https://t.co/FxvL0PdrmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948699372507857365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把你们都揪出来 https://t.co/FxvL0PdrmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 171,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 564
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T17:46:38.000Z",
+        "description": "",
+        "id": "1661066054418980864",
+        "name": "一只吉士堡",
+        "pinned_tweet_id": "1930104827037794779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948408101792829440/U7Ptbm13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 69,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 651
+        },
+        "username": "zzZtomori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-06T03:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T04:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941694903647601041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783043526361755648",
+          "start": 0,
+          "username": "Tsuki1756986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941694903647601041",
+    "in_reply_to_user_id": "1783043526361755648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941694197096239428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki1756986 😏😏😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T03:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941694903647601041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783043526361755648",
+              "start": 0,
+              "username": "Tsuki1756986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941694903647601041",
+        "in_reply_to_user_id": "1783043526361755648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941694197096239428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki1756986 😏😏😏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783043526361755648",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T03:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941694197096239428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941694197096239428",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 卧槽不敢想象有多好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 197,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1049
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T08:01:45.000Z",
+        "description": "把发疯和乱来 凑成天生一对",
+        "id": "1783043526361755648",
+        "name": "Tsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783202822126985217/BypFMUWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 171,
+          "like_count": 6501,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 622
+        },
+        "username": "Tsuki1756986",
+        "verified": false
+      }
+    ]
+  }
+}

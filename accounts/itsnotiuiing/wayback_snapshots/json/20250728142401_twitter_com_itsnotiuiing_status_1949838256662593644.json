@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-28T14:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949838256662593644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1139235665776787456",
+          "start": 0,
+          "username": "renrr893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949838256662593644",
+    "in_reply_to_user_id": "1139235665776787456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949838101666304406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renrr893 笑的我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_1949838097543507969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw83a0WasAEujnK.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T14:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949838256662593644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1139235665776787456",
+              "start": 0,
+              "username": "renrr893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949838256662593644",
+        "in_reply_to_user_id": "1139235665776787456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949838101666304406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renrr893 笑的我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949838097543507969"
+          ]
+        },
+        "author_id": "1139235665776787456",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T14:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949838101666304406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v66ExyGyLz",
+              "end": 37,
+              "expanded_url": "https://x.com/renrr893/status/1949838101666304406/photo/1",
+              "media_key": "3_1949838097543507969",
+              "start": 14,
+              "url": "https://t.co/v66ExyGyLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949838101666304406",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing https://t.co/v66ExyGyLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 176,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 545
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-13T18:18:43.000Z",
+        "description": "A victim of the insane",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rvan80486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rvan80486",
+                "start": 0,
+                "url": "https://t.co/AwPVSuKkFs"
+              }
+            ]
+          }
+        },
+        "id": "1139235665776787456",
+        "location": "R for Rock",
+        "name": "R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949476387217145856/PsMWkgjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 255,
+          "like_count": 3019,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/AwPVSuKkFs",
+        "username": "renrr893",
+        "verified": false
+      }
+    ]
+  }
+}

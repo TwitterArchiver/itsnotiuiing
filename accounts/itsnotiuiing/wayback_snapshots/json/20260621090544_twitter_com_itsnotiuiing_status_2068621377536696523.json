@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2068337718015476064",
+    "created_at": "2026-06-21T09:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068621377536696523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822928199787155456",
+          "start": 0,
+          "username": "rrrrbq7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068621377536696523",
+    "in_reply_to_user_id": "1822928199787155456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068583911870144651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rrrrbq7777 明明是 a 院新大楼好不好！🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2068337718015476064",
+        "created_at": "2026-06-21T09:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068621377536696523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822928199787155456",
+              "start": 0,
+              "username": "rrrrbq7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068621377536696523",
+        "in_reply_to_user_id": "1822928199787155456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068583911870144651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rrrrbq7777 明明是 a 院新大楼好不好！🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822928199787155456",
+        "conversation_id": "2068337718015476064",
+        "created_at": "2026-06-21T06:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068583911870144651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068583911870144651",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068337718015476064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 严肃打卡计院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 255,
+          "like_count": 2907,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T09:28:54.000Z",
+        "description": "女孩子速速贴贴 \n臭楠的🚪188然后爬\n我尊嘟是男孩子",
+        "id": "1822928199787155456",
+        "location": "WH",
+        "name": "疯狂奶酪🧀（鸽子🕊🕊🕊版）",
+        "pinned_tweet_id": "1893946092430962699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881210948759019520/9-SJNV4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 559,
+          "like_count": 50607,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 5915
+        },
+        "url": "",
+        "username": "rrrrbq7777",
+        "verified": false
+      }
+    ]
+  }
+}

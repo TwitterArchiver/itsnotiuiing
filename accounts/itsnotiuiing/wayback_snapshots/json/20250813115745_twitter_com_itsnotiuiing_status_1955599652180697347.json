@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955531894097055906",
+    "created_at": "2025-08-13T11:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955599652180697347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937334914808184834",
+          "start": 0,
+          "username": "VitaminC0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955599652180697347",
+    "in_reply_to_user_id": "1937334914808184834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955576128053346527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VitaminC0327 喝了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T11:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955599652180697347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937334914808184834",
+              "start": 0,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955599652180697347",
+        "in_reply_to_user_id": "1937334914808184834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955576128053346527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaminC0327 喝了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937334914808184834",
+        "conversation_id": "1955531894097055906",
+        "created_at": "2025-08-13T10:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955576128053346527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955576128053346527",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955531894097055906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 喝呀！！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 803
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:20:19.000Z",
+        "description": "碎碎念｜分享日常｜喜欢和礼貌的宝宝一起玩耍｜我眼熟的互关可来找我加v｜若要互关请私信我——！｜正常私信和账号我看到都会尽量回的🥹｜我自认为我是高p高p高p ^ ^等你读懂我的隐喻 等我们的心脏共鸣^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vitaminc0327",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vitaminc0327",
+                "start": 0,
+                "url": "https://t.co/AFsuEF1NBQ"
+              }
+            ]
+          }
+        },
+        "id": "1937334914808184834",
+        "location": "不聊骚，别烦我",
+        "name": "VitaminC",
+        "pinned_tweet_id": "1938976614056169561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952182288575512576/sf2nDB4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 192,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/AFsuEF1NBQ",
+        "username": "VitaminC0327",
+        "verified": false
+      }
+    ]
+  }
+}

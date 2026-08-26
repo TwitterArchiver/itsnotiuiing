@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T02:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953278491014905896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818678013439160320",
+          "start": 0,
+          "username": "aizhihuang"
+        },
+        {
+          "end": 28,
+          "id": "1843984325421006848",
+          "start": 12,
+          "username": "913589840q79922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953278491014905896",
+    "in_reply_to_user_id": "1818678013439160320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953153343347679654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizhihuang @913589840q79922 我这里也是！537还是太火了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T02:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953278491014905896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818678013439160320",
+              "start": 0,
+              "username": "aizhihuang"
+            },
+            {
+              "end": 28,
+              "id": "1843984325421006848",
+              "start": 12,
+              "username": "913589840q79922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953278491014905896",
+        "in_reply_to_user_id": "1818678013439160320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953153343347679654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizhihuang @913589840q79922 我这里也是！537还是太火了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818678013439160320",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-06T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953153343347679654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843984325421006848",
+              "start": 0,
+              "username": "913589840q79922"
+            },
+            {
+              "end": 30,
+              "id": "1905985028057911296",
+              "start": 17,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953153343347679654",
+        "in_reply_to_user_id": "1843984325421006848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953152713073844254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@913589840q79922 @itsnotiuiing 我知道！杯子基本上秒没尤其是537"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 269,
+          "like_count": 1197,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 583
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:00:14.000Z",
+        "description": "你的所见即我，日记本，纯绿陪聊，偶尔擦边，只接受口令和赞赏，不闲聊，已过Big叔认证，愿你永远自由快乐",
+        "id": "1818678013439160320",
+        "location": "13.14km",
+        "name": "芷谎（除🚪不回感谢理解）",
+        "pinned_tweet_id": "1900241250437251183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818678143982747651/gOJa6Pyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 67,
+          "like_count": 10522,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2233
+        },
+        "username": "aizhihuang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:58:29.000Z",
+        "description": "",
+        "id": "1843984325421006848",
+        "name": "Sylvan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953121819118161920/H7yC7FQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "913589840q79922",
+        "verified": false
+      }
+    ]
+  }
+}

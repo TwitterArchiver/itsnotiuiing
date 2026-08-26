@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073770405366792192"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2073770479673131126",
+    "created_at": "2026-07-05T14:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073770479673131126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnUSRMJs29",
+          "end": 42,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2073770479673131126/video/1",
+          "media_key": "13_2073770405366792192",
+          "start": 19,
+          "url": "https://t.co/xnUSRMJs29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073770479673131126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还可以像从前那样缠着你吗，我想你了 https://t.co/xnUSRMJs29"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28100,
+        "height": 1280,
+        "media_key": "13_2073770405366792192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073770405366792192/img/fKGLKWagWPGJajDL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073770405366792192/vid/avc1/320x624/djkIFoC1SmM62BdR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073770405366792192/vid/avc1/480x936/OpQOcXX6CKSXx50j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073770405366792192/vid/avc1/656x1280/MesnUUjPk4LxZYuq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073770405366792192/pl/pSNGkdFB3FR4Oc19.m3u8"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073770405366792192"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2073770479673131126",
+        "created_at": "2026-07-05T14:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073770479673131126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnUSRMJs29",
+              "end": 42,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2073770479673131126/video/1",
+              "media_key": "13_2073770405366792192",
+              "start": 19,
+              "url": "https://t.co/xnUSRMJs29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073770479673131126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还可以像从前那样缠着你吗，我想你了 https://t.co/xnUSRMJs29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 233,
+          "like_count": 2899,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

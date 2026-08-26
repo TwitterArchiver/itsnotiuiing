@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957097261340701166",
+    "created_at": "2025-08-17T15:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T16:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957099408501465384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491438786248470532",
+          "start": 0,
+          "username": "tttttang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957099408501465384",
+    "in_reply_to_user_id": "1491438786248470532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957099227202637851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttttang_ 喝！🍺～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957097261340701166",
+        "created_at": "2025-08-17T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957099408501465384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491438786248470532",
+              "start": 0,
+              "username": "tttttang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957099408501465384",
+        "in_reply_to_user_id": "1491438786248470532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957099227202637851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttttang_ 喝！🍺～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491438786248470532",
+        "conversation_id": "1957097261340701166",
+        "created_at": "2025-08-17T15:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957099227202637851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957099227202637851",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957097261340701166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好可爱 看得我也想喝一杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 307,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 662
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:48:23.000Z",
+        "description": "上网冲浪。玩一下智能手机。",
+        "id": "1491438786248470532",
+        "name": "我就这样莫名其妙",
+        "pinned_tweet_id": "1949448781700968531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956020771157106693/IpY2jMUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 200,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2087
+        },
+        "username": "tttttang_",
+        "verified": false
+      }
+    ]
+  }
+}

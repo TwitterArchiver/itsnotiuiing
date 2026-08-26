@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1973379989992010196",
+    "created_at": "2025-10-01T15:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973402830196416741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831146950290534400",
+          "start": 0,
+          "username": "wolll555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973402830196416741",
+    "in_reply_to_user_id": "1831146950290534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973393975139528711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wolll555 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1973379989992010196",
+        "created_at": "2025-10-01T15:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973402830196416741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831146950290534400",
+              "start": 0,
+              "username": "wolll555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973402830196416741",
+        "in_reply_to_user_id": "1831146950290534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973393975139528711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolll555 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831146950290534400",
+        "conversation_id": "1973379989992010196",
+        "created_at": "2025-10-01T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973393975139528711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973393975139528711",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973379989992010196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这不解放大桥ma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 336,
+          "like_count": 1872,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T01:47:16.000Z",
+        "description": "infp",
+        "id": "1831146950290534400",
+        "name": "我来了iao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855178344805085184/MBgIFfuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 361
+        },
+        "username": "wolll555",
+        "verified": false
+      }
+    ]
+  }
+}

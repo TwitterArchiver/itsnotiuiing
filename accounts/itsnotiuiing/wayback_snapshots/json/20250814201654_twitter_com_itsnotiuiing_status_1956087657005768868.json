@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956063911293411691",
+    "created_at": "2025-08-14T20:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T21:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956087657005768868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683298463893671936",
+          "start": 0,
+          "username": "ShuangJi0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956087657005768868",
+    "in_reply_to_user_id": "1683298463893671936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956085935122342251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuangJi0528 蟹蟹宝宝😭😭这个人真的伤我很深💔💔虽然这可能只是一件微不足道的小事情 也可能是我太敏感了🥹早点休息哟❤️‍🩹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-14T20:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T21:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956087657005768868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683298463893671936",
+              "start": 0,
+              "username": "ShuangJi0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956087657005768868",
+        "in_reply_to_user_id": "1683298463893671936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956085935122342251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuangJi0528 蟹蟹宝宝😭😭这个人真的伤我很深💔💔虽然这可能只是一件微不足道的小事情 也可能是我太敏感了🥹早点休息哟❤️‍🩹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683298463893671936",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-14T20:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T21:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956085935122342251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956085935122342251",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956063911293411691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 哎宝宝我摸摸你🫳🏻🫂看你写的文字我也有点淡淡的emo，共情惹……🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 297,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 728
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T02:10:11.000Z",
+        "description": "幸福就是规律过一天一天 ✨| 小写日记 大写幸福📓♡ | 谢谢泥萌和我互动🫶🏻🥺 | 欢迎你们来匿名和我丸呀👉🏻：https://t.co/Zmbn8k079i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuangji",
+                "end": 80,
+                "expanded_url": "https://ngl.link/shuangji",
+                "start": 57,
+                "url": "https://t.co/Zmbn8k079i"
+              }
+            ]
+          }
+        },
+        "id": "1683298463893671936",
+        "name": "双吉我们喜欢你",
+        "pinned_tweet_id": "1938942220578758822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949579144267735040/DVsT0A2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 224,
+          "like_count": 4621,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2538
+        },
+        "username": "ShuangJi0528",
+        "verified": false
+      }
+    ]
+  }
+}

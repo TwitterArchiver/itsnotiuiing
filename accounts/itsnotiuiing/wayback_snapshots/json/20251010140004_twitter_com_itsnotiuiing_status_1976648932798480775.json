@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1976635080258060779",
+    "created_at": "2025-10-10T14:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976648932798480775"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585957379501305857",
+          "start": 0,
+          "username": "cacanuhearme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976648932798480775",
+    "in_reply_to_user_id": "1585957379501305857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976635080258060779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cacanuhearme 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976635069231177728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25rH3AaoAAkgei.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976635069227024384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25rH2_bQAAsYLB.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1976635080258060779",
+        "created_at": "2025-10-10T14:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976648932798480775"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585957379501305857",
+              "start": 0,
+              "username": "cacanuhearme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976648932798480775",
+        "in_reply_to_user_id": "1585957379501305857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976635080258060779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cacanuhearme 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976635069231177728",
+            "3_1976635069227024384"
+          ]
+        },
+        "author_id": "1585957379501305857",
+        "conversation_id": "1976635080258060779",
+        "created_at": "2025-10-10T13:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976635080258060779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWdhweeEWn",
+              "end": 23,
+              "expanded_url": "https://x.com/cacanuhearme/status/1976635080258060779/photo/1",
+              "media_key": "3_1976635069231177728",
+              "start": 0,
+              "url": "https://t.co/OWdhweeEWn"
+            },
+            {
+              "display_url": "pic.x.com/OWdhweeEWn",
+              "end": 23,
+              "expanded_url": "https://x.com/cacanuhearme/status/1976635080258060779/photo/1",
+              "media_key": "3_1976635069227024384",
+              "start": 0,
+              "url": "https://t.co/OWdhweeEWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976635080258060779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 260,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OWdhweeEWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 301,
+          "like_count": 1951,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T11:31:29.000Z",
+        "description": "你都如何回忆我 | 没意义的废话很多 | 我们一起玩好不好 | 精神病 | https://t.co/FDx8MSJ5gU | @dddontgo 只过女互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "dddontgo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/unluvlyu",
+                "end": 61,
+                "expanded_url": "https://ngl.link/unluvlyu",
+                "start": 38,
+                "url": "https://t.co/FDx8MSJ5gU"
+              }
+            ]
+          }
+        },
+        "id": "1585957379501305857",
+        "location": "鲸鱼的子宫",
+        "name": "蒜香玛德琳",
+        "pinned_tweet_id": "1952405648282624501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976617569940578304/vFHXB5Rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 169,
+          "like_count": 8745,
+          "listed_count": 49,
+          "media_count": 675,
+          "tweet_count": 4614
+        },
+        "username": "cacanuhearme",
+        "verified": false
+      }
+    ]
+  }
+}

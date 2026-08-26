@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2085054026991939740",
+    "created_at": "2026-08-05T17:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085054026991939740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902704251861872640",
+          "start": 3,
+          "username": "___manatuamu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085054026991939740",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084894695420031171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___manatuamu: おくすり飲みすぎないでね、手首切りすぎないでね、過去に押しつぶされないでね、なるべく笑っていてね、なるべく光の当たるところにいてね、ねえ、なるべくさ、なるべくでいいから、幸せでいようね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2085054026991939740",
+        "created_at": "2026-08-05T17:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085054026991939740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902704251861872640",
+              "start": 3,
+              "username": "___manatuamu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085054026991939740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084894695420031171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___manatuamu: おくすり飲みすぎないでね、手首切りすぎないでね、過去に押しつぶされないでね、なるべく笑っていてね、なるべく光の当たるところにいてね、ねえ、なるべくさ、なるべくでいいから、幸せでいようね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902704251861872640",
+        "conversation_id": "2084894695420031171",
+        "created_at": "2026-08-05T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084894695420031171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084894695420031171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1618,
+          "impression_count": 687241,
+          "like_count": 14577,
+          "quote_count": 248,
+          "reply_count": 24,
+          "retweet_count": 1713
+        },
+        "reply_settings": "everyone",
+        "text": "おくすり飲みすぎないでね、手首切りすぎないでね、過去に押しつぶされないでね、なるべく笑っていてね、なるべく光の当たるところにいてね、ねえ、なるべくさ、なるべくでいいから、幸せでいようね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 231,
+          "like_count": 2957,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:50:33.000Z",
+        "description": "詩人 ❤︎ 著書 ❤︎ 七月堂 EXPLOSION ❤︎ きみのその風邪、わたしが移したんだよ ❤︎ note https://t.co/I796VHv6xU ❤︎ インカレポエトリ所属 ❤︎ ポエトリーリーディング歌詞制作ご依頼受付中｜ご相談はDMまで ❤︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/angelheven",
+                "end": 79,
+                "expanded_url": "https://note.com/angelheven",
+                "start": 56,
+                "url": "https://t.co/I796VHv6xU"
+              }
+            ]
+          }
+        },
+        "id": "1902704251861872640",
+        "name": "真夏あむ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076377343783018496/Xp37vFwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 90,
+          "like_count": 4635,
+          "listed_count": 14,
+          "media_count": 20,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "___manatuamu",
+        "verified": false
+      }
+    ]
+  }
+}

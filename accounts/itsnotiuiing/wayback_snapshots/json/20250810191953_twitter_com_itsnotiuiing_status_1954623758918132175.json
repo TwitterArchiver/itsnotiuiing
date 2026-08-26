@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954028173852868608"
+      ],
+      "media_source_tweet_id": [
+        "1954028187924705702"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954623758918132175",
+    "created_at": "2025-08-10T19:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T20:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954623758918132175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZ8sdUz1sy",
+          "end": 42,
+          "expanded_url": "https://x.com/didengshengwu/status/1954028187924705702/photo/1",
+          "media_key": "3_1954028173852868608",
+          "start": 19,
+          "url": "https://t.co/lZ8sdUz1sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954623758918132175",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 329
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954028187924705702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: https://t.co/lZ8sdUz1sy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_1954028173852868608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx4aRW-bAAAVKmQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954028173852868608"
+          ],
+          "media_source_tweet_id": [
+            "1954028187924705702"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954623758918132175",
+        "created_at": "2025-08-10T19:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T20:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954623758918132175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZ8sdUz1sy",
+              "end": 42,
+              "expanded_url": "https://x.com/didengshengwu/status/1954028187924705702/photo/1",
+              "media_key": "3_1954028173852868608",
+              "start": 19,
+              "url": "https://t.co/lZ8sdUz1sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954623758918132175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 329
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954028187924705702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: https://t.co/lZ8sdUz1sy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954028173852868608"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954028187924705702",
+        "created_at": "2025-08-09T03:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:43:15.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954025655936725303",
+          "1954025820105977884",
+          "1954028187924705702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZ8sdUz1sy",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/1954028187924705702/photo/1",
+              "media_key": "3_1954028173852868608",
+              "start": 0,
+              "url": "https://t.co/lZ8sdUz1sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954028187924705702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 811,
+          "impression_count": 460471,
+          "like_count": 2503,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lZ8sdUz1sy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 300,
+          "like_count": 1388,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 688
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "我人虽然不怎么高级，但是底线还可以的！喜欢分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171131,
+          "following_count": 841,
+          "like_count": 2751,
+          "listed_count": 660,
+          "media_count": 2599,
+          "tweet_count": 5059
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

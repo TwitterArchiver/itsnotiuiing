@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1945486178976682422",
+    "created_at": "2025-07-16T17:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T18:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945542731096293663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1234444977733799936",
+          "start": 0,
+          "username": "mohari_tutu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945542731096293663",
+    "in_reply_to_user_id": "1234444977733799936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945542428737339761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mohari_tutu 多来玩☺️🫰🏾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1945486178976682422",
+        "created_at": "2025-07-16T17:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945542731096293663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1234444977733799936",
+              "start": 0,
+              "username": "mohari_tutu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945542731096293663",
+        "in_reply_to_user_id": "1234444977733799936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945542428737339761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mohari_tutu 多来玩☺️🫰🏾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234444977733799936",
+        "conversation_id": "1945486178976682422",
+        "created_at": "2025-07-16T17:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945542428737339761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945542428737339761",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945539696215364009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 因为最近有点忙👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 164,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 539
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-02T11:46:45.000Z",
+        "description": "不可以叫我马猴😤| 白羊 | •᷄ࡇ•᷅ENTP | 关注是因为喜欢你/你很好玩/对你很好奇| 🥺👉👈请和我玩💌https://t.co/c4gaJHH4M1欢迎问问题~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tutu41182",
+                "end": 79,
+                "expanded_url": "https://ngl.link/tutu41182",
+                "start": 56,
+                "url": "https://t.co/c4gaJHH4M1"
+              }
+            ]
+          }
+        },
+        "id": "1234444977733799936",
+        "name": "马猴烧酒☆tutu（我恨蚊子版）",
+        "pinned_tweet_id": "1928168361369690240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759345796628058112/lGU9VAB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 142,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 129
+        },
+        "username": "mohari_tutu",
+        "verified": false
+      }
+    ]
+  }
+}

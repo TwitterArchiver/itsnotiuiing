@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-07T06:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942104395518468476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786467977447227392",
+          "start": 0,
+          "username": "iceredtea_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942104395518468476",
+    "in_reply_to_user_id": "1786467977447227392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941933105050440097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iceredtea_7 吃甜品配冰红茶🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-07T06:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942104395518468476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786467977447227392",
+              "start": 0,
+              "username": "iceredtea_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942104395518468476",
+        "in_reply_to_user_id": "1786467977447227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941933105050440097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iceredtea_7 吃甜品配冰红茶🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786467977447227392",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-06T18:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T19:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941933105050440097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941933105050440097",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 给我吃我吃啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 205,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1028
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T18:48:59.000Z",
+        "description": "冰力十足 够快够爽 我们都是很好的人 自用🪜 https://t.co/ISAgaSvFPw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wb05.damoplane.one/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://wb05.damoplane.one/#/register?code=qRJizE2m",
+                "start": 23,
+                "url": "https://t.co/ISAgaSvFPw"
+              }
+            ]
+          }
+        },
+        "id": "1786467977447227392",
+        "location": "纯绿🚪520",
+        "name": "冰红茶",
+        "pinned_tweet_id": "1811602522433556844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797842106981187584/38gNG4PW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6360,
+          "following_count": 116,
+          "like_count": 2839,
+          "listed_count": 12,
+          "media_count": 677,
+          "tweet_count": 4430
+        },
+        "username": "iceredtea_7",
+        "verified": false
+      }
+    ]
+  }
+}

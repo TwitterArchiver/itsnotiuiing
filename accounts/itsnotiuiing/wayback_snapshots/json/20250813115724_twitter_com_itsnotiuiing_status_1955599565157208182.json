@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955547624897196403",
+    "created_at": "2025-08-13T11:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955599565157208182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945347768643674112",
+          "start": 0,
+          "username": "obtjjjjjjjjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955599565157208182",
+    "in_reply_to_user_id": "1945347768643674112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955574293594853622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obtjjjjjjjjj ？疑似胡巴的手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1955574290147143681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOYdLAbcAEulfL.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955547624897196403",
+        "created_at": "2025-08-13T11:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955599565157208182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945347768643674112",
+              "start": 0,
+              "username": "obtjjjjjjjjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955599565157208182",
+        "in_reply_to_user_id": "1945347768643674112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955574293594853622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obtjjjjjjjjj ？疑似胡巴的手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955574290147143681"
+          ]
+        },
+        "author_id": "1945347768643674112",
+        "conversation_id": "1955547624897196403",
+        "created_at": "2025-08-13T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955574293594853622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6LdfDuaMq",
+              "end": 37,
+              "expanded_url": "https://x.com/obtjjjjjjjjj/status/1955574293594853622/photo/1",
+              "media_key": "3_1955574290147143681",
+              "start": 14,
+              "url": "https://t.co/A6LdfDuaMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955574293594853622",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955558074556825605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing https://t.co/A6LdfDuaMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1557,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 802
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T05:00:31.000Z",
+        "description": "你也只活了一次，凭什么说我选择的人生是错的.",
+        "id": "1945347768643674112",
+        "location": "爱文学的理工男.",
+        "name": "恬美的Chr",
+        "pinned_tweet_id": "1954367401782583514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950223625447235584/PWfQ9blw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 36,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 706
+        },
+        "username": "obtjjjjjjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

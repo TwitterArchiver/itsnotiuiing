@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956289468530614611",
+    "created_at": "2025-08-15T09:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956293906737381661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1557716371198291972",
+          "start": 0,
+          "username": "soyooo123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956293906737381661",
+    "in_reply_to_user_id": "1557716371198291972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956290607296479264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyooo123_ 同意👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956289468530614611",
+        "created_at": "2025-08-15T09:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956293906737381661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1557716371198291972",
+              "start": 0,
+              "username": "soyooo123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956293906737381661",
+        "in_reply_to_user_id": "1557716371198291972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956290607296479264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyooo123_ 同意👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557716371198291972",
+        "conversation_id": "1956289468530614611",
+        "created_at": "2025-08-15T09:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956290607296479264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956290607296479264",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956289468530614611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 世界毁灭我要把奶绿装芒留下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1591,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 668
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T13:11:51.000Z",
+        "description": "可丽饼过来｜我是女的｜我的小猫叫臭敦^ ^",
+        "id": "1557716371198291972",
+        "name": "想吃奶油可丽饼",
+        "pinned_tweet_id": "1953962566113485253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946680517543288832/uMRILCoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 168,
+          "like_count": 26554,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3672
+        },
+        "username": "soyooo123_",
+        "verified": false
+      }
+    ]
+  }
+}

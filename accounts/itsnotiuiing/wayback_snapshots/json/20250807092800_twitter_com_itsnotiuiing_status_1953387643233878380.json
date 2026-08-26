@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T09:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953387643233878380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1074686687584776193",
+          "start": 0,
+          "username": "Erminlikeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953387643233878380",
+    "in_reply_to_user_id": "1074686687584776193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953371545054949680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erminlikeu 凭速度抢到的🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T09:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953387643233878380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1074686687584776193",
+              "start": 0,
+              "username": "Erminlikeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953387643233878380",
+        "in_reply_to_user_id": "1074686687584776193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953371545054949680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erminlikeu 凭速度抢到的🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074686687584776193",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T08:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953371545054949680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953371545054949680",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 卧槽高手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 280,
+          "like_count": 1206,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 600
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T15:24:07.000Z",
+        "description": "我想把正义带给这个世界，做最公平公正的人",
+        "id": "1074686687584776193",
+        "location": "✨",
+        "name": "辛美尔",
+        "pinned_tweet_id": "1493260524473122818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953376576898514944/HzAVkPlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 1075,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 2520
+        },
+        "username": "Erminlikeu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956028467453288584",
+    "created_at": "2025-08-14T16:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956033490946023704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1488432503522164740",
+          "start": 0,
+          "username": "xiaogg6665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956033490946023704",
+    "in_reply_to_user_id": "1488432503522164740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956028467453288584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogg6665 在听了在听了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956028467453288584",
+        "created_at": "2025-08-14T16:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956033490946023704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1488432503522164740",
+              "start": 0,
+              "username": "xiaogg6665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956033490946023704",
+        "in_reply_to_user_id": "1488432503522164740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956028467453288584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogg6665 在听了在听了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488432503522164740",
+        "conversation_id": "1956028467453288584",
+        "created_at": "2025-08-14T16:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956028467453288584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956028467453288584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发了怎么不听罒ω罒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 293,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 839
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T08:42:27.000Z",
+        "description": "switch双属性 直男 🚪108 互关可以直接找我要微信！！“点声优男陪男喘 @BmClub_3 本人也在”加了联系方式可以提前听音频享受VIP提前听  互关可加w 冲浪 永劫选手 金铲铲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "BmClub_3"
+              }
+            ]
+          }
+        },
+        "id": "1488432503522164740",
+        "location": "距离你362m",
+        "name": "小天o_0",
+        "pinned_tweet_id": "1950986281103884647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667799048609320962/jV0HCK1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22375,
+          "following_count": 510,
+          "like_count": 3271,
+          "listed_count": 38,
+          "media_count": 539,
+          "tweet_count": 6923
+        },
+        "username": "xiaogg6665",
+        "verified": false
+      }
+    ]
+  }
+}

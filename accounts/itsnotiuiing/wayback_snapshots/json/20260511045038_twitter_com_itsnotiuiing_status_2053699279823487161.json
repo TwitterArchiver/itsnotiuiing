@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2053460190679412938",
+    "created_at": "2026-05-11T04:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053699279823487161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780609759122718721",
+          "start": 0,
+          "username": "7lxxora_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053699279823487161",
+    "in_reply_to_user_id": "1780609759122718721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053686390916055547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7lxxora_qwq 老婆也好看ε٩(๑&gt;₃&lt;)۶з"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2053460190679412938",
+        "created_at": "2026-05-11T04:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053699279823487161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780609759122718721",
+              "start": 0,
+              "username": "7lxxora_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053699279823487161",
+        "in_reply_to_user_id": "1780609759122718721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053686390916055547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7lxxora_qwq 老婆也好看ε٩(๑&gt;₃&lt;)۶з"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780609759122718721",
+        "conversation_id": "2053460190679412938",
+        "created_at": "2026-05-11T03:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053686390916055547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053686390916055547",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053460190679412938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 老婆你好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "你要离开 我知道很简单",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 256,
+          "like_count": 2611,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 48
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T14:50:47.000Z",
+        "description": "——꒰ঌ ✝︎ ໒꒱ྀི——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bluetsavage_i7",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bluetsavage_i7",
+                "start": 0,
+                "url": "https://t.co/KKyVATwBIp"
+              }
+            ]
+          }
+        },
+        "id": "1780609759122718721",
+        "location": "🔮7.7",
+        "name": "芒果魚",
+        "pinned_tweet_id": "1941902389507985702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668090368040960/Z1lrPlsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 401,
+          "like_count": 7966,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/KKyVATwBIp",
+        "username": "7lxxora_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

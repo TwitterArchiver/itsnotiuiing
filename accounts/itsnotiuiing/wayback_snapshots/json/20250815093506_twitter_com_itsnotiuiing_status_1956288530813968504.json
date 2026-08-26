@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956266249291489609",
+    "created_at": "2025-08-15T09:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956288530813968504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956288530813968504",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956266249291489609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 接🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956266249291489609",
+        "created_at": "2025-08-15T09:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956288530813968504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956288530813968504",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956266249291489609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 接🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712477803252432897",
+        "conversation_id": "1956266249291489609",
+        "created_at": "2025-08-15T08:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956266249291489609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956266249291489609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2166,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报:今天收了8个🚪➕1个推广"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 744
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症/置顶自辨",
+        "id": "1712477803252432897",
+        "name": "iyue",
+        "pinned_tweet_id": "1956255719147364483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 461,
+          "like_count": 2412,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 807
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

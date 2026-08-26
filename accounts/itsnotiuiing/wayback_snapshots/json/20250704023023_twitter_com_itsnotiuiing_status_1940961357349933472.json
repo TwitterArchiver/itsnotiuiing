@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940796633970888761",
+    "created_at": "2025-07-04T02:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T03:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940961357349933472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850240878709006336",
+          "start": 0,
+          "username": "yutong039088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940961357349933472",
+    "in_reply_to_user_id": "1850240878709006336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940811213979742243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutong039088 🫰😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-04T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940961357349933472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850240878709006336",
+              "start": 0,
+              "username": "yutong039088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940961357349933472",
+        "in_reply_to_user_id": "1850240878709006336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940811213979742243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutong039088 🫰😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850240878709006336",
+        "conversation_id": "1940796633970888761",
+        "created_at": "2025-07-03T16:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T17:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940811213979742243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940811213979742243",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940796633970888761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 芥末可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 187,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 951
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T18:19:51.000Z",
+        "description": "一个正在修炼的男菩萨\n直男（gay请自行划走）\n03 ESFP 双子♊ ，你的电子小狗  ❤️ 1i＞4i❤️（请把玉足填满我的私信）🛰️有🚪\n会健身 会弹吉他 唱歌也很好听\n摇滚 R&B Rap 流行都会\n欢迎投稿https://t.co/9ENYbLwO3M\n感谢关注 ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zyt48126",
+                "end": 131,
+                "expanded_url": "https://ngl.link/zyt48126",
+                "start": 108,
+                "url": "https://t.co/9ENYbLwO3M"
+              }
+            ]
+          }
+        },
+        "id": "1850240878709006336",
+        "name": "🐟翅",
+        "pinned_tweet_id": "1929488855075565824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935435615538946048/-D5W4u6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 828,
+          "like_count": 643,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1356
+        },
+        "username": "yutong039088",
+        "verified": false
+      }
+    ]
+  }
+}

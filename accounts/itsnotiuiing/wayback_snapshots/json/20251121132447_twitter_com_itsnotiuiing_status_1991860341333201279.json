@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1991860341333201279",
+    "created_at": "2025-11-21T13:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991860341333201279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859611110237929472",
+          "start": 3,
+          "username": "xiaoyng466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991860341333201279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991511562079858943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyng466: Brat的至暗时刻：\n说完不要你管，结果对方真的不管了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1991860341333201279",
+        "created_at": "2025-11-21T13:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991860341333201279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859611110237929472",
+              "start": 3,
+              "username": "xiaoyng466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991860341333201279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991511562079858943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyng466: Brat的至暗时刻：\n说完不要你管，结果对方真的不管了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859611110237929472",
+        "conversation_id": "1991511562079858943",
+        "created_at": "2025-11-20T14:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T15:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991511562079858943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991511562079858943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 67845,
+          "like_count": 705,
+          "quote_count": 26,
+          "reply_count": 36,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "Brat的至暗时刻：\n说完不要你管，结果对方真的不管了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "…",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 310,
+          "like_count": 2018,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 16
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T14:53:42.000Z",
+        "description": "小狗@li_shao75842",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "li_shao75842"
+              }
+            ]
+          }
+        },
+        "id": "1859611110237929472",
+        "location": "/ᐠ˵- ᴗ -˵マ ᶻ 𝗓 𐰁　",
+        "name": "小樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987116293573808128/JnvGnysY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 490,
+          "like_count": 2891,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2316
+        },
+        "username": "xiaoyng466",
+        "verified": false
+      }
+    ]
+  }
+}

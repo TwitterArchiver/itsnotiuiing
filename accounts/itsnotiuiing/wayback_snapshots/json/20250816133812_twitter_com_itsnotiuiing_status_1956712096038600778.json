@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956633376938434982",
+    "created_at": "2025-08-16T13:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T14:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956712096038600778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936800973428752384",
+          "start": 0,
+          "username": "Miao012722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956712096038600778",
+    "in_reply_to_user_id": "1936800973428752384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956684751005179962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao012722 支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956633376938434982",
+        "created_at": "2025-08-16T13:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T14:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956712096038600778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936800973428752384",
+              "start": 0,
+              "username": "Miao012722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956712096038600778",
+        "in_reply_to_user_id": "1936800973428752384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956684751005179962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao012722 支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936800973428752384",
+        "conversation_id": "1956633376938434982",
+        "created_at": "2025-08-16T11:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956684751005179962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956684751005179962",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956633376938434982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 爽得要命🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 304,
+          "like_count": 1627,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 702
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:58:42.000Z",
+        "description": "INFP双子 爱口嗨 好奇宝宝可以向我匿名提问！女生关注我我会无条件回关的😋称呼我shea或shay都好（我特意取的英文名捏！！！）",
+        "id": "1936800973428752384",
+        "location": "田螺黑洞",
+        "name": "shea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941491667342700544/S1Q9MeRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 110,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 662
+        },
+        "username": "Miao012722",
+        "verified": false
+      }
+    ]
+  }
+}

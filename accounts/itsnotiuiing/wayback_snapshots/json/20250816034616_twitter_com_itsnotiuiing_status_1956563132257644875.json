@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956403124060713136",
+    "created_at": "2025-08-16T03:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956563132257644875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692544038057164801",
+          "start": 0,
+          "username": "ShanaeShan90778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956563132257644875",
+    "in_reply_to_user_id": "1692544038057164801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956561474958065873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShanaeShan90778 嘿嘿嘿嘿嘿🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956403124060713136",
+        "created_at": "2025-08-16T03:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956563132257644875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692544038057164801",
+              "start": 0,
+              "username": "ShanaeShan90778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956563132257644875",
+        "in_reply_to_user_id": "1692544038057164801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956561474958065873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShanaeShan90778 嘿嘿嘿嘿嘿🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692544038057164801",
+        "conversation_id": "1956403124060713136",
+        "created_at": "2025-08-16T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956561474958065873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956561474958065873",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956403124060713136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 美神降临"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 297,
+          "like_count": 1594,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 667
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T14:28:49.000Z",
+        "description": "碎碎念，抽象玩家，秘密基地https://t.co/Ug2tmHaYDh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/1021sxp520?t=3…",
+                "end": 36,
+                "expanded_url": "https://x.com/1021sxp520?t=3YO48W8KSmRdAXS48xLR6Q&s=09",
+                "start": 13,
+                "url": "https://t.co/Ug2tmHaYDh"
+              }
+            ]
+          }
+        },
+        "id": "1692544038057164801",
+        "name": "随薪配（比格多栋版）",
+        "pinned_tweet_id": "1893141455834587169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903966670823337984/T9NlwSjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 465,
+          "like_count": 77725,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3004
+        },
+        "username": "ShanaeShan90778",
+        "verified": false
+      }
+    ]
+  }
+}

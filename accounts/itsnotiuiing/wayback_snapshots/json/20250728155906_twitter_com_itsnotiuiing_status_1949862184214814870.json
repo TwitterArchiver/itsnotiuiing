@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949860575670096360",
+    "created_at": "2025-07-28T15:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T16:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949862184214814870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822003489373089792",
+          "start": 0,
+          "username": "xssj9464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949862184214814870",
+    "in_reply_to_user_id": "1822003489373089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949860575670096360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xssj9464 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45580,
+        "height": 720,
+        "media_key": "7_1949860519210602496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949860519210602496/pu/img/8XRdhDvRxRnHpTOX.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949860519210602496/pu/vid/avc1/302x270/HQkmB6JSqfM1SLQb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949860519210602496/pu/vid/avc1/404x360/J-wuZ-KnyHG1t477.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949860519210602496/pu/vid/avc1/810x720/u9zyMwFKNJaVNmvi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949860519210602496/pu/pl/jy0nfuygAi-xGbu2.m3u8?tag=12"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949860575670096360",
+        "created_at": "2025-07-28T15:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949862184214814870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822003489373089792",
+              "start": 0,
+              "username": "xssj9464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949862184214814870",
+        "in_reply_to_user_id": "1822003489373089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949860575670096360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xssj9464 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1949860519210602496"
+          ]
+        },
+        "author_id": "1822003489373089792",
+        "conversation_id": "1949860575670096360",
+        "created_at": "2025-07-28T15:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949860575670096360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKOyoDwCmr",
+              "end": 45,
+              "expanded_url": "https://x.com/xssj9464/status/1949860575670096360/video/1",
+              "media_key": "7_1949860519210602496",
+              "start": 22,
+              "url": "https://t.co/kKOyoDwCmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949860575670096360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好听别喷我 我不太喜欢唱歌₍ᐢ..ᐢ₎♡ https://t.co/kKOyoDwCmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 192,
+          "like_count": 1029,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 565
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T20:14:25.000Z",
+        "description": "碎碎念 偶尔掉落不开心的事 礼貌找我聊天我都会回的 不要上来发j照发情互fo私信 叫我伤心就可以",
+        "id": "1822003489373089792",
+        "location": "冰岛",
+        "name": "伤心",
+        "pinned_tweet_id": "1949474944909476339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949083098681061376/a_uSVSA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 84,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 469
+        },
+        "username": "xssj9464",
+        "verified": false
+      }
+    ]
+  }
+}

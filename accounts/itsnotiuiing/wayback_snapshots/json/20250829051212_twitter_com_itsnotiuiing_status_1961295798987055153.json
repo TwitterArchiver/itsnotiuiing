@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1961114927734857824",
+    "created_at": "2025-08-29T05:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T06:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961295798987055153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1954500072517103617",
+          "start": 0,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961295798987055153",
+    "in_reply_to_user_id": "1954500072517103617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961114927734857824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtxx333 看到这些题头晕了已经"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961114896445415424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzdHm55bIAAo-5C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1961114927734857824",
+        "created_at": "2025-08-29T05:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961295798987055153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954500072517103617",
+              "start": 0,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961295798987055153",
+        "in_reply_to_user_id": "1954500072517103617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961114927734857824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtxx333 看到这些题头晕了已经"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961114896445415424"
+          ]
+        },
+        "author_id": "1954500072517103617",
+        "conversation_id": "1961114927734857824",
+        "created_at": "2025-08-28T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961114927734857824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXQT3vAXQR",
+              "end": 33,
+              "expanded_url": "https://x.com/dtxx333/status/1961114927734857824/photo/1",
+              "media_key": "3_1961114896445415424",
+              "start": 10,
+              "url": "https://t.co/sXQT3vAXQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961114927734857824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕不做爱。做题。 https://t.co/sXQT3vAXQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "嗯嗯",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 287,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "嗯我没招了｜盗图死全家｜开学淡推",
+        "id": "1954500072517103617",
+        "name": "善待蛋挞熊吧",
+        "pinned_tweet_id": "1954608688418926904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607190750396416/OthEAx5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 180,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 277
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

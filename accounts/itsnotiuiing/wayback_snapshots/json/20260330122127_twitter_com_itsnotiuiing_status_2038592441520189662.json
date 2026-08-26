@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2038592441520189662",
+    "created_at": "2026-03-30T12:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038592441520189662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yayayyyyy520/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yayayyyyy520/status/2038236409878974687",
+          "start": 5,
+          "url": "https://t.co/eNxQDPX30W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038592441520189662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038236409878974687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人。 https://t.co/eNxQDPX30W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2038592441520189662",
+        "created_at": "2026-03-30T12:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038592441520189662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yayayyyyy520/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yayayyyyy520/status/2038236409878974687",
+              "start": 5,
+              "url": "https://t.co/eNxQDPX30W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038592441520189662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038236409878974687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人。 https://t.co/eNxQDPX30W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656893344482758656",
+        "conversation_id": "2038236409878974687",
+        "created_at": "2026-03-29T12:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038236409878974687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038236409878974687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 150860,
+          "like_count": 1167,
+          "quote_count": 18,
+          "reply_count": 187,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "有人是尿眠体吗 我快被折磨死了 \n就是睡觉前必须去尿尿确保膀胱和尿道里没有一滴尿才能好好睡觉 \n我的情况已经严重到如果尿完一分钟之内没有立刻闭眼就必须再去一次 不然就会翻来覆去的睡不着并且抓心挠肝的 \n我试过强迫自己睡但是完全睡不着最后在床上折腾一两个小时还是去尿尿了\n我好崩溃…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "不善于社交",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 252,
+          "like_count": 2519,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 42
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T05:25:44.000Z",
+        "description": "不出yw 不接线下。私信随缘回。",
+        "id": "1656893344482758656",
+        "location": "只有纯绿🚪 ",
+        "name": "yayayyyyy",
+        "pinned_tweet_id": "1978155995177120188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966407421477498880/Cal4wn36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7801,
+          "following_count": 76,
+          "like_count": 756,
+          "listed_count": 22,
+          "media_count": 390,
+          "tweet_count": 1879
+        },
+        "username": "yayayyyyy520",
+        "verified": false
+      }
+    ]
+  }
+}

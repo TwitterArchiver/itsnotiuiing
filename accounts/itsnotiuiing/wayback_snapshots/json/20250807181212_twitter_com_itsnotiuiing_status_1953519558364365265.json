@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953519558364365265",
+    "created_at": "2025-08-07T18:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T19:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953519558364365265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jebipluslove/s…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/jebipluslove/status/1953425968955371864",
+          "start": 104,
+          "url": "https://t.co/db4nmkNfC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953519558364365265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953425968955371864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ㅎㄹ...真的疯了 完全是  legend  啊ㅋㅋ这种程度真的不是天才吗 ㅅㅂ…做到这种程度的话就完全是神吧ㅠㅠ…以后也请一直幸福地生活下去吧♡  今天完全展现出帅气的角度呢 是路过的蚂蚁都会惊叹的程度啊 https://t.co/db4nmkNfC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1953425960021475328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxv2j5obQAABHE-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1953425960008904704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxv2j5lbcAAfrwX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953519558364365265",
+        "created_at": "2025-08-07T18:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953519558364365265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jebipluslove/s…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/jebipluslove/status/1953425968955371864",
+              "start": 104,
+              "url": "https://t.co/db4nmkNfC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953519558364365265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953425968955371864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ㅎㄹ...真的疯了 完全是  legend  啊ㅋㅋ这种程度真的不是天才吗 ㅅㅂ…做到这种程度的话就完全是神吧ㅠㅠ…以后也请一直幸福地生活下去吧♡  今天完全展现出帅气的角度呢 是路过的蚂蚁都会惊叹的程度啊 https://t.co/db4nmkNfC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953425960021475328",
+            "3_1953425960008904704"
+          ]
+        },
+        "author_id": "1884845869339713536",
+        "conversation_id": "1953425968955371864",
+        "created_at": "2025-08-07T12:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953425968955371864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEfvp1FL7R",
+              "end": 45,
+              "expanded_url": "https://x.com/jebipluslove/status/1953425968955371864/photo/1",
+              "media_key": "3_1953425960021475328",
+              "start": 22,
+              "url": "https://t.co/OEfvp1FL7R"
+            },
+            {
+              "display_url": "pic.x.com/OEfvp1FL7R",
+              "end": 45,
+              "expanded_url": "https://x.com/jebipluslove/status/1953425968955371864/photo/1",
+              "media_key": "3_1953425960008904704",
+              "start": 22,
+              "url": "https://t.co/OEfvp1FL7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953425968955371864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 24681,
+          "like_count": 1764,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "250807 🐰 20:55 KST\n\n📸 https://t.co/OEfvp1FL7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 286,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 604
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T06:07:39.000Z",
+        "description": "• ➕💬📬 • ot9 media archive •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neospring.org/@jebipluslove",
+                "end": 23,
+                "expanded_url": "http://neospring.org/@jebipluslove",
+                "start": 0,
+                "url": "https://t.co/7hWQvKmpco"
+              }
+            ]
+          }
+        },
+        "id": "1884845869339713536",
+        "location": "Republic of Korea",
+        "name": "💌",
+        "pinned_tweet_id": "1885168986788422020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884848497184423936/ynrGDK05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7869,
+          "following_count": 31,
+          "like_count": 3652,
+          "listed_count": 76,
+          "media_count": 1869,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/7hWQvKmpco",
+        "username": "jebipluslove",
+        "verified": true
+      }
+    ]
+  }
+}

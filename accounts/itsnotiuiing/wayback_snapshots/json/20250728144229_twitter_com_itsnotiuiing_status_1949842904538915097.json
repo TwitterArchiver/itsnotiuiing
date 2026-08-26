@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-28T14:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949842904538915097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868700270181728256",
+          "start": 0,
+          "username": "cola_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949842904538915097",
+    "in_reply_to_user_id": "1868700270181728256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949842676213219721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cola_9527 感谢兄弟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T14:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949842904538915097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868700270181728256",
+              "start": 0,
+              "username": "cola_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949842904538915097",
+        "in_reply_to_user_id": "1868700270181728256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949842676213219721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cola_9527 感谢兄弟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868700270181728256",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-28T14:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949842676213219721"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "长得俊",
+              "probability": 0.5719,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949842676213219721",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 弟弟长得俊🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 177,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 549
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:50:52.000Z",
+        "description": "治愈日记",
+        "id": "1868700270181728256",
+        "name": "Reborn",
+        "pinned_tweet_id": "1946495409272304119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947144907367321601/MkiQjF_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 11,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 142
+        },
+        "username": "cola_9527",
+        "verified": false
+      }
+    ]
+  }
+}

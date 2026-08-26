@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954161287736516626",
+    "created_at": "2025-08-09T14:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T15:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954184743953805419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535863573859430401",
+          "start": 0,
+          "username": "xxz30631698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954184743953805419",
+    "in_reply_to_user_id": "1535863573859430401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954182441268117626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxz30631698 但是真的好好吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954161287736516626",
+        "created_at": "2025-08-09T14:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954184743953805419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535863573859430401",
+              "start": 0,
+              "username": "xxz30631698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954184743953805419",
+        "in_reply_to_user_id": "1535863573859430401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954182441268117626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxz30631698 但是真的好好吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535863573859430401",
+        "conversation_id": "1954161287736516626",
+        "created_at": "2025-08-09T14:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954182441268117626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954182441268117626",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954161287736516626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 热气两个字抵消了购买激情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 292,
+          "like_count": 1330,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 681
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T05:56:34.000Z",
+        "description": "🐱：Love yourself🐾                                                   \n                  \n🌹：爱猫😚",
+        "id": "1535863573859430401",
+        "name": "xzswˣ⁻ˣ",
+        "pinned_tweet_id": "1861475834588176479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870927939015221248/Y0lMy8J2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 9337,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 3019
+        },
+        "username": "xxz30631698",
+        "verified": false
+      }
+    ]
+  }
+}

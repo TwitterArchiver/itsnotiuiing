@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956203967706488980",
+    "created_at": "2025-08-15T04:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T05:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956207965645758627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725185100000985088",
+          "start": 0,
+          "username": "LiwUFHkOfd68924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956207965645758627",
+    "in_reply_to_user_id": "1725185100000985088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956207310986207598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiwUFHkOfd68924 补药啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956203967706488980",
+        "created_at": "2025-08-15T04:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956207965645758627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725185100000985088",
+              "start": 0,
+              "username": "LiwUFHkOfd68924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956207965645758627",
+        "in_reply_to_user_id": "1725185100000985088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956207310986207598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiwUFHkOfd68924 补药啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725185100000985088",
+        "conversation_id": "1956203967706488980",
+        "created_at": "2025-08-15T04:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956207310986207598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956207310986207598",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956203967706488980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 恋爱脑本脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 735
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T16:12:42.000Z",
+        "description": "我身体里的列车从来不会错轨",
+        "id": "1725185100000985088",
+        "name": "高调的低手",
+        "pinned_tweet_id": "1927029184708141259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835340331262562304/cIE8Ms8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 198,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1844
+        },
+        "username": "LiwUFHkOfd68924",
+        "verified": false
+      }
+    ]
+  }
+}

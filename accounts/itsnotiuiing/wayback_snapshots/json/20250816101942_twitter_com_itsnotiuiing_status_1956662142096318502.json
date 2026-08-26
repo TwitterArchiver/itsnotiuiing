@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956631958995300816",
+    "created_at": "2025-08-16T10:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T11:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956662142096318502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938475214016548867",
+          "start": 0,
+          "username": "Mlsw_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956662142096318502",
+    "in_reply_to_user_id": "1938475214016548867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956639936016495071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mlsw_official 苹果茉莉没喝过但阿华田我同意！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956631958995300816",
+        "created_at": "2025-08-16T10:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956662142096318502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938475214016548867",
+              "start": 0,
+              "username": "Mlsw_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956662142096318502",
+        "in_reply_to_user_id": "1938475214016548867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956639936016495071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mlsw_official 苹果茉莉没喝过但阿华田我同意！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938475214016548867",
+        "conversation_id": "1956631958995300816",
+        "created_at": "2025-08-16T08:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T09:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956639936016495071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956639936016495071",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956631958995300816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 阿华田和苹果茉莉真的好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 304,
+          "like_count": 1620,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 698
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T05:51:33.000Z",
+        "description": "淡淡的人生",
+        "id": "1938475214016548867",
+        "location": "命苦之人",
+        "name": "天然水",
+        "pinned_tweet_id": "1954525713194738047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956406002229866499/MyN0rM1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 614,
+          "like_count": 11449,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 995
+        },
+        "username": "Mlsw_official",
+        "verified": false
+      }
+    ]
+  }
+}

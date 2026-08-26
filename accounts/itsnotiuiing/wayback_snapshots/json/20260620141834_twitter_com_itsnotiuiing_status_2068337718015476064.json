@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068337707513004032",
+        "3_2068337707533922304",
+        "3_2068337707592597504",
+        "3_2068337707596791808"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068337718015476064",
+    "created_at": "2026-06-20T14:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068337718015476064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCOPDaqrpK",
+          "end": 35,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+          "media_key": "3_2068337707513004032",
+          "start": 12,
+          "url": "https://t.co/gCOPDaqrpK"
+        },
+        {
+          "display_url": "pic.x.com/gCOPDaqrpK",
+          "end": 35,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+          "media_key": "3_2068337707533922304",
+          "start": 12,
+          "url": "https://t.co/gCOPDaqrpK"
+        },
+        {
+          "display_url": "pic.x.com/gCOPDaqrpK",
+          "end": 35,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+          "media_key": "3_2068337707592597504",
+          "start": 12,
+          "url": "https://t.co/gCOPDaqrpK"
+        },
+        {
+          "display_url": "pic.x.com/gCOPDaqrpK",
+          "end": 35,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+          "media_key": "3_2068337707596791808",
+          "start": 12,
+          "url": "https://t.co/gCOPDaqrpK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068337718015476064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上又更新了华科副本！ https://t.co/gCOPDaqrpK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2068337707513004032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ2L7vbwAAAwiz.jpg",
+        "width": 1033
+      },
+      {
+        "height": 868,
+        "media_key": "3_2068337707533922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ2L70a8AAEIby.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1549,
+        "media_key": "3_2068337707592597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ2L8CaQAACFrf.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1958,
+        "media_key": "3_2068337707596791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ2L8DaQAA4vAy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068337707513004032",
+            "3_2068337707533922304",
+            "3_2068337707592597504",
+            "3_2068337707596791808"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068337718015476064",
+        "created_at": "2026-06-20T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068337718015476064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCOPDaqrpK",
+              "end": 35,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+              "media_key": "3_2068337707513004032",
+              "start": 12,
+              "url": "https://t.co/gCOPDaqrpK"
+            },
+            {
+              "display_url": "pic.x.com/gCOPDaqrpK",
+              "end": 35,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+              "media_key": "3_2068337707533922304",
+              "start": 12,
+              "url": "https://t.co/gCOPDaqrpK"
+            },
+            {
+              "display_url": "pic.x.com/gCOPDaqrpK",
+              "end": 35,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+              "media_key": "3_2068337707592597504",
+              "start": 12,
+              "url": "https://t.co/gCOPDaqrpK"
+            },
+            {
+              "display_url": "pic.x.com/gCOPDaqrpK",
+              "end": 35,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068337718015476064/photo/1",
+              "media_key": "3_2068337707596791808",
+              "start": 12,
+              "url": "https://t.co/gCOPDaqrpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068337718015476064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上又更新了华科副本！ https://t.co/gCOPDaqrpK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 255,
+          "like_count": 2901,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

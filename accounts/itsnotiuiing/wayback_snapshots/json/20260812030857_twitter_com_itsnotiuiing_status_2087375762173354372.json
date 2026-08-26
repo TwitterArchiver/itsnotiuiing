@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2087235497659879458",
+    "created_at": "2026-08-12T03:08:57.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T04:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087375762173354372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1579843253762895872",
+          "start": 0,
+          "username": "OWO1623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087375762173354372",
+    "in_reply_to_user_id": "1579843253762895872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087343299330007534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OWO1623 行😁别骂了我没有怪她的意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2087235497659879458",
+        "created_at": "2026-08-12T03:08:57.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087375762173354372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1579843253762895872",
+              "start": 0,
+              "username": "OWO1623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087375762173354372",
+        "in_reply_to_user_id": "1579843253762895872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087343299330007534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OWO1623 行😁别骂了我没有怪她的意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579843253762895872",
+        "conversation_id": "2087235497659879458",
+        "created_at": "2026-08-12T00:59:58.000Z",
+        "display_text_range": [
+          14,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087343299330007534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087343299330007534",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087235497659879458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 都一年不联系了，半夜三点突然找说“想我”… 站对面视角我头皮都发麻… 感觉借钱已经是最小的麻烦了´_&gt;`…真心个蛋啊 真有真心一年都不说话啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087375762173354372",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 232,
+          "like_count": 2935,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-11T14:36:16.000Z",
+        "description": "",
+        "id": "1579843253762895872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087343299330007534",
+        "name": "首席可颂品鉴师",
+        "pinned_tweet_id": "2080584129494553055",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965615528812376064/k0FjBiOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 262,
+          "like_count": 517,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "OWO1623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

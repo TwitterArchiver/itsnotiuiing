@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956289996576498059",
+    "created_at": "2025-08-15T14:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956355202342154653"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "萌萌",
+          "probability": 0.7676,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1624658671451136000",
+          "start": 0,
+          "username": "04_eiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956355202342154653",
+    "in_reply_to_user_id": "1624658671451136000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956303190787608691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04_eiiii 萌萌嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-15T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956355202342154653"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "萌萌",
+              "probability": 0.7676,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1624658671451136000",
+              "start": 0,
+              "username": "04_eiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956355202342154653",
+        "in_reply_to_user_id": "1624658671451136000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956303190787608691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04_eiiii 萌萌嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624658671451136000",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-15T10:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T11:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956303190787608691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956303190787608691",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956289996576498059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 熊这个萌呀～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 675
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T06:37:48.000Z",
+        "description": "日常 碎碎念🤯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/04ei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/04ei",
+                "start": 0,
+                "url": "https://t.co/XpB1Qd312n"
+              }
+            ]
+          }
+        },
+        "id": "1624658671451136000",
+        "location": "你心里",
+        "name": "04ei",
+        "pinned_tweet_id": "1953386378798260711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953137648857694214/m21ST0Am_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 260,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/XpB1Qd312n",
+        "username": "04_eiiii",
+        "verified": false
+      }
+    ]
+  }
+}

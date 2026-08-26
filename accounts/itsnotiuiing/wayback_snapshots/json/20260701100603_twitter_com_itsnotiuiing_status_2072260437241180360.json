@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2072260437241180360",
+    "created_at": "2026-07-01T10:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072260437241180360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《你来自哪颗星》，由 陈柏宇 演唱，收录于《Change》专辑中，《你来自哪颗星》下载，《你来自哪颗星》在线试听，更多你来自哪颗星相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/97kGwWT",
+          "end": 48,
+          "expanded_url": "https://163cn.tv/97kGwWT",
+          "images": [
+            {
+              "height": 1417,
+              "url": "https://pbs.twimg.com/news_img/2072259757168283648/FLuC7o4t?format=jpg&name=orig",
+              "width": 1417
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2072259757168283648/FLuC7o4t?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "你来自哪颗星 - 陈柏宇 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=25718016&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.37&dlt=0846",
+          "url": "https://t.co/SRJIgI8A4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072260437241180360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的天空很大，而我只是一颗你毫不在意的星星而已。 https://t.co/SRJIgI8A4R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2072260437241180360",
+        "created_at": "2026-07-01T10:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072260437241180360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《你来自哪颗星》，由 陈柏宇 演唱，收录于《Change》专辑中，《你来自哪颗星》下载，《你来自哪颗星》在线试听，更多你来自哪颗星相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/97kGwWT",
+              "end": 48,
+              "expanded_url": "https://163cn.tv/97kGwWT",
+              "images": [
+                {
+                  "height": 1417,
+                  "url": "https://pbs.twimg.com/news_img/2072259757168283648/FLuC7o4t?format=jpg&name=orig",
+                  "width": 1417
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072259757168283648/FLuC7o4t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "你来自哪颗星 - 陈柏宇 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=25718016&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=QDEaQECLbXp9KPINTxk2zw==&playerUIModeId=76001&app_version=9.5.37&dlt=0846",
+              "url": "https://t.co/SRJIgI8A4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260437241180360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的天空很大，而我只是一颗你毫不在意的星星而已。 https://t.co/SRJIgI8A4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 233,
+          "like_count": 2860,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

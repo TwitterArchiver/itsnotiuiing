@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955899664169082960",
+    "created_at": "2025-08-14T07:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955900566082871376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738574538143944704",
+          "start": 0,
+          "username": "camolla357565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955900566082871376",
+    "in_reply_to_user_id": "1738574538143944704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955899948274516063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camolla357565 同意✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955899664169082960",
+        "created_at": "2025-08-14T07:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955900566082871376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738574538143944704",
+              "start": 0,
+              "username": "camolla357565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955900566082871376",
+        "in_reply_to_user_id": "1738574538143944704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955899948274516063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camolla357565 同意✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574538143944704",
+        "conversation_id": "1955899664169082960",
+        "created_at": "2025-08-14T07:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955899948274516063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955899948274516063",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955899664169082960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing yee3美而味之🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 291,
+          "like_count": 1577,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 817
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:33.000Z",
+        "description": "全世界最讨厌洗衣服的人 错别字大王 喜欢我可以给我打点钱 不会玩任何游戏 可以叫我小c 话多谨慎关注 取关随意",
+        "id": "1738574538143944704",
+        "name": "camolla",
+        "pinned_tweet_id": "1937031991838605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932671469106151424/QL38Aw8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 208,
+          "like_count": 12957,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 6391
+        },
+        "username": "camolla357565",
+        "verified": false
+      }
+    ]
+  }
+}

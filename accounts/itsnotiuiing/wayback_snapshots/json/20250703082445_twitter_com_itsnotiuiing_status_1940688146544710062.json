@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940683381454655664",
+    "created_at": "2025-07-03T08:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940688146544710062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866057766928056320",
+          "start": 0,
+          "username": "ShiyuW25380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940688146544710062",
+    "in_reply_to_user_id": "1866057766928056320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940683381454655664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiyuW25380 双手支持🙌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940683378640277509",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6xQC1b0AUBE6L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940683381454655664",
+        "created_at": "2025-07-03T08:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940688146544710062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866057766928056320",
+              "start": 0,
+              "username": "ShiyuW25380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940688146544710062",
+        "in_reply_to_user_id": "1866057766928056320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940683381454655664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiyuW25380 双手支持🙌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940683378640277509"
+          ]
+        },
+        "author_id": "1866057766928056320",
+        "conversation_id": "1940683381454655664",
+        "created_at": "2025-07-03T08:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940683381454655664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OLkCCCrNMF",
+              "end": 47,
+              "expanded_url": "https://x.com/ShiyuW25380/status/1940683381454655664/photo/1",
+              "media_key": "3_1940683378640277509",
+              "start": 24,
+              "url": "https://t.co/OLkCCCrNMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940683381454655664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新调色了一下，我想下学期又去打虎牙钉，谁支持 https://t.co/OLkCCCrNMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 186,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 925
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:50:38.000Z",
+        "description": "喜欢我请给我打💰，欢迎给我发口令红包，不约❌，私信发牛子屏蔽，废话问答不回，都来给我发匿名😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shiyuw25380",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shiyuw25380",
+                "start": 0,
+                "url": "https://t.co/Mvc8cMbLD8"
+              }
+            ]
+          }
+        },
+        "id": "1866057766928056320",
+        "name": "Yuyu",
+        "pinned_tweet_id": "1920512874323038283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904402146856218624/nxT6F7NO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 76,
+          "like_count": 1315,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/Mvc8cMbLD8",
+        "username": "ShiyuW25380",
+        "verified": false
+      }
+    ]
+  }
+}

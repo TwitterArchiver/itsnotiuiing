@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1958921596670026198",
+    "created_at": "2025-08-22T15:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958921596670026198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1551018881921101824",
+          "start": 3,
+          "username": "danbaibingbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958921596670026198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958735622014709761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danbaibingbing: 真正的强制爱难道不应该是支付宝转账和收款码转账吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1958921596670026198",
+        "created_at": "2025-08-22T15:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958921596670026198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1551018881921101824",
+              "start": 3,
+              "username": "danbaibingbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958921596670026198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958735622014709761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danbaibingbing: 真正的强制爱难道不应该是支付宝转账和收款码转账吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551018881921101824",
+        "conversation_id": "1958735622014709761",
+        "created_at": "2025-08-22T03:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958735622014709761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958735622014709761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20211,
+          "like_count": 273,
+          "quote_count": 8,
+          "reply_count": 43,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "真正的强制爱难道不应该是支付宝转账和收款码转账吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 318,
+          "like_count": 1541,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 231
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T01:38:21.000Z",
+        "description": "女生｜INFP｜超级无敌巨玻璃心｜低能量严重拖延症｜ed｜喜欢胡言乱语｜喜欢我可以投喂我蛋白饼｜https://t.co/USyDSEYjha这里提问🙌｜盗我图的死全家｜锁评推广自辨不是本人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/danbaibing",
+                "end": 71,
+                "expanded_url": "https://ngl.link/danbaibing",
+                "start": 48,
+                "url": "https://t.co/USyDSEYjha"
+              }
+            ]
+          }
+        },
+        "id": "1551018881921101824",
+        "location": "纯绿🚪188",
+        "name": "蛋白饼大王（lii梦女）",
+        "pinned_tweet_id": "1958778224235704524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932836670417637378/K5UmaMHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4728,
+          "following_count": 389,
+          "like_count": 32530,
+          "listed_count": 9,
+          "media_count": 2253,
+          "tweet_count": 8017
+        },
+        "username": "danbaibingbing",
+        "verified": false
+      }
+    ]
+  }
+}

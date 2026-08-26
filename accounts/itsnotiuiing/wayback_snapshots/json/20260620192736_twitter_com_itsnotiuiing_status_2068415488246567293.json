@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2068415488246567293",
+    "created_at": "2026-06-20T19:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068415488246567293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/8Vn0ssR",
+          "end": 38,
+          "expanded_url": "https://163cn.tv/8Vn0ssR",
+          "start": 15,
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=1447348773&PlayerStyles_SynchronousSharing=t3&H5_DownloadVIPGift=&fx-listentest=t3&userid=8335781222&app_version=9.5.30&dlt=0846",
+          "url": "https://t.co/1mqVxtbynB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068415488246567293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享卫兰的单曲《她整晚在写信》https://t.co/1mqVxtbynB (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2068415488246567293",
+        "created_at": "2026-06-20T19:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068415488246567293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/8Vn0ssR",
+              "end": 38,
+              "expanded_url": "https://163cn.tv/8Vn0ssR",
+              "start": 15,
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=1447348773&PlayerStyles_SynchronousSharing=t3&H5_DownloadVIPGift=&fx-listentest=t3&userid=8335781222&app_version=9.5.30&dlt=0846",
+              "url": "https://t.co/1mqVxtbynB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068415488246567293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享卫兰的单曲《她整晚在写信》https://t.co/1mqVxtbynB (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 255,
+          "like_count": 2903,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

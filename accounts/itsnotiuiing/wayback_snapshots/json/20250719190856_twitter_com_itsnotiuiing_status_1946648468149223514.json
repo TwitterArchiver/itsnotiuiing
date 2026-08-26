@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1946591446145876210",
+    "created_at": "2025-07-19T19:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T20:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946648468149223514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694787067811876866",
+          "start": 0,
+          "username": "Zensura070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946648468149223514",
+    "in_reply_to_user_id": "1694787067811876866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946647153897783550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zensura070707 谢谢宝贝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1946591446145876210",
+        "created_at": "2025-07-19T19:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T20:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946648468149223514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694787067811876866",
+              "start": 0,
+              "username": "Zensura070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946648468149223514",
+        "in_reply_to_user_id": "1694787067811876866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946647153897783550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zensura070707 谢谢宝贝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694787067811876866",
+        "conversation_id": "1946591446145876210",
+        "created_at": "2025-07-19T19:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T20:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946647153897783550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "宝宝好美",
+              "probability": 0.3239,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946647153897783550",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946591446145876210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 宝宝好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 166,
+          "like_count": 992,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 557
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T19:01:54.000Z",
+        "description": "𝑰𝑵𝑻𝑱  不咋上网因为工作爱好好忙",
+        "id": "1694787067811876866",
+        "name": "𝒀𝑨𝑵𝑮",
+        "pinned_tweet_id": "1943342715707756563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941586534357929984/KCBPkoWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 76,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 226
+        },
+        "username": "Zensura070707",
+        "verified": false
+      }
+    ]
+  }
+}

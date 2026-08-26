@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1946171923508986218",
+    "created_at": "2025-07-19T03:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T04:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946410104917565511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1586107691252043777",
+          "start": 0,
+          "username": "landawang1313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946410104917565511",
+    "in_reply_to_user_id": "1586107691252043777",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946249466660675826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landawang1313 🫂😔😔😔😔🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1946171923508986218",
+        "created_at": "2025-07-19T03:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946410104917565511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1586107691252043777",
+              "start": 0,
+              "username": "landawang1313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946410104917565511",
+        "in_reply_to_user_id": "1586107691252043777",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946249466660675826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landawang1313 🫂😔😔😔😔🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586107691252043777",
+        "conversation_id": "1946171923508986218",
+        "created_at": "2025-07-18T16:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T17:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946249466660675826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946249466660675826",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946171923508986218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 抱抱你宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 163,
+          "like_count": 984,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 552
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T21:28:56.000Z",
+        "description": "INFP｜可以叫我00或者小懒｜想到什么发什么所以什么都有｜有点社恐，偶尔犯病，有时候说话会笨笨的，希望能有很多很多朋友，请别嫌弃我，互关们来加我找我聊天好吗｜匿名小信箱:https://t.co/rRq4kQQl2V，欢迎跟我玩😚",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yambop81",
+                "end": 109,
+                "expanded_url": "https://ngl.link/yambop81",
+                "start": 86,
+                "url": "https://t.co/rRq4kQQl2V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=sbd1hwyJ",
+                "start": 0,
+                "url": "https://t.co/Rz5oKllqqJ"
+              }
+            ]
+          }
+        },
+        "id": "1586107691252043777",
+        "location": "自用vpn",
+        "name": "就这样偷懒",
+        "pinned_tweet_id": "1945870981995577517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944249510772776960/QV32TAQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 555,
+          "like_count": 5597,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/Rz5oKllqqJ",
+        "username": "landawang1313",
+        "verified": false
+      }
+    ]
+  }
+}

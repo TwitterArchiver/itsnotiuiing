@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949857610909323292",
+    "created_at": "2025-07-28T15:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T16:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949857610909323292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gekikawa_dbts/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/gekikawa_dbts/status/1949618347945209862",
+          "start": 14,
+          "url": "https://t.co/cozc1WcPd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949857610909323292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949618347945209862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了这我初中QQ头像。 https://t.co/cozc1WcPd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_1949618343381770240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw5vjcTbIAALeXP.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949857610909323292",
+        "created_at": "2025-07-28T15:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949857610909323292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gekikawa_dbts/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/gekikawa_dbts/status/1949618347945209862",
+              "start": 14,
+              "url": "https://t.co/cozc1WcPd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949857610909323292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949618347945209862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了这我初中QQ头像。 https://t.co/cozc1WcPd0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949618343381770240"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "1949618347945209862",
+        "created_at": "2025-07-27T23:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T00:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949618347945209862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crKMle2GhK",
+              "end": 31,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1949618347945209862/photo/1",
+              "media_key": "3_1949618343381770240",
+              "start": 8,
+              "url": "https://t.co/crKMle2GhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949618347945209862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 615,
+          "impression_count": 659070,
+          "like_count": 23667,
+          "quote_count": 84,
+          "reply_count": 90,
+          "retweet_count": 1979
+        },
+        "reply_settings": "everyone",
+        "text": "ニャンタッキー https://t.co/crKMle2GhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 187,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 562
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588196,
+          "following_count": 4262,
+          "like_count": 90343,
+          "listed_count": 1592,
+          "media_count": 14894,
+          "tweet_count": 15043
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

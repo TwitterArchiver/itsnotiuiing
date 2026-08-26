@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941537829898924515",
+    "created_at": "2025-07-05T16:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941538508855980141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866057766928056320",
+          "start": 0,
+          "username": "ShiyuW25380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941538508855980141",
+    "in_reply_to_user_id": "1866057766928056320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941537829898924515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiyuW25380 这个yuyu像小猫🐱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941537825868087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG6XazaAAA1azy.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941537829898924515",
+        "created_at": "2025-07-05T16:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941538508855980141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866057766928056320",
+              "start": 0,
+              "username": "ShiyuW25380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941538508855980141",
+        "in_reply_to_user_id": "1866057766928056320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941537829898924515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiyuW25380 这个yuyu像小猫🐱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941537825868087296"
+          ]
+        },
+        "author_id": "1866057766928056320",
+        "conversation_id": "1941537829898924515",
+        "created_at": "2025-07-05T16:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941537829898924515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tLB6JiJg5",
+              "end": 38,
+              "expanded_url": "https://x.com/ShiyuW25380/status/1941537829898924515/photo/1",
+              "media_key": "3_1941537825868087296",
+              "start": 15,
+              "url": "https://t.co/2tLB6JiJg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941537829898924515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于p出一张新发色的照片了😫 https://t.co/2tLB6JiJg5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 196,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1041
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:50:38.000Z",
+        "description": "喜欢我请给我打💰，欢迎给我发口令红包，不约❌，私信发牛子屏蔽，废话问答不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shiyuw25380",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shiyuw25380",
+                "start": 0,
+                "url": "https://t.co/Mvc8cMbLD8"
+              }
+            ]
+          }
+        },
+        "id": "1866057766928056320",
+        "name": "Yuyu",
+        "pinned_tweet_id": "1920512874323038283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904402146856218624/nxT6F7NO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 75,
+          "like_count": 1338,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/Mvc8cMbLD8",
+        "username": "ShiyuW25380",
+        "verified": false
+      }
+    ]
+  }
+}

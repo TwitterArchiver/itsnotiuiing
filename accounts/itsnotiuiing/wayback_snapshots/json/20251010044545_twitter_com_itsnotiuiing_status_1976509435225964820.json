@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1976315487157092535",
+    "created_at": "2025-10-10T04:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976509435225964820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3029138442",
+          "start": 0,
+          "username": "nc_jamie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976509435225964820",
+    "in_reply_to_user_id": "3029138442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976480596525568281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nc_jamie 我一直在哭呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1976315487157092535",
+        "created_at": "2025-10-10T04:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976509435225964820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3029138442",
+              "start": 0,
+              "username": "nc_jamie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976509435225964820",
+        "in_reply_to_user_id": "3029138442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976480596525568281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nc_jamie 我一直在哭呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3029138442",
+        "conversation_id": "1976315487157092535",
+        "created_at": "2025-10-10T02:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T03:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976480596525568281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976480596525568281",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976315487157092535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 免疫了哥们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 301,
+          "like_count": 1943,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-19T08:35:19.000Z",
+        "description": "",
+        "id": "3029138442",
+        "location": "Hong Kong",
+        "name": "33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975437311191195648/Fr6Nx61m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "nc_jamie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941842706701164952",
+    "created_at": "2025-07-07T06:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942103353842086260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931699503054073856",
+          "start": 0,
+          "username": "Yiiir138451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942103353842086260",
+    "in_reply_to_user_id": "1931699503054073856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941893476687257913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yiiir138451 笑死我了是的🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941842706701164952",
+        "created_at": "2025-07-07T06:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942103353842086260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931699503054073856",
+              "start": 0,
+              "username": "Yiiir138451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942103353842086260",
+        "in_reply_to_user_id": "1931699503054073856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941893476687257913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiiir138451 笑死我了是的🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931699503054073856",
+        "conversation_id": "1941842706701164952",
+        "created_at": "2025-07-06T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941893476687257913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941893476687257913",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941842706701164952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这个人又来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 204,
+          "like_count": 1049,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1020
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T13:07:14.000Z",
+        "description": "rann  不聊黄不线下不约不卡泡别烦我                                            喜欢声音好听的人←请给我发私信好吗                  (没有说长得帅身材好就不喜欢的意思）",
+        "id": "1931699503054073856",
+        "name": "喘喘我听听",
+        "pinned_tweet_id": "1939662753217880320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933477121088995328/bE8mT9AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 187,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 308
+        },
+        "username": "Yiiir138451",
+        "verified": false
+      }
+    ]
+  }
+}

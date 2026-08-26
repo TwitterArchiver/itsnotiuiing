@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956711781105390026",
+    "created_at": "2025-08-16T15:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956738554698387900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936800973428752384",
+          "start": 0,
+          "username": "Miao012722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956738554698387900",
+    "in_reply_to_user_id": "1936800973428752384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956737701333360665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao012722 这两样东西可以同时在我的胃里出现 但不可以同时在我的嘴里出现😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956711781105390026",
+        "created_at": "2025-08-16T15:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956738554698387900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936800973428752384",
+              "start": 0,
+              "username": "Miao012722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956738554698387900",
+        "in_reply_to_user_id": "1936800973428752384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956737701333360665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao012722 这两样东西可以同时在我的胃里出现 但不可以同时在我的嘴里出现😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936800973428752384",
+        "conversation_id": "1956711781105390026",
+        "created_at": "2025-08-16T15:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956737701333360665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956737701333360665",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956737371711647776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 怎么会这样…！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 305,
+          "like_count": 1631,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 708
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:58:42.000Z",
+        "description": "INFP双子 爱口嗨 好奇宝宝可以向我匿名提问！女生关注我我会无条件回关的😋称呼我shea或shay都好（我特意取的英文名捏！！！）",
+        "id": "1936800973428752384",
+        "location": "田螺黑洞",
+        "name": "shea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941491667342700544/S1Q9MeRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 117,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 699
+        },
+        "username": "Miao012722",
+        "verified": false
+      }
+    ]
+  }
+}

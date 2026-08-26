@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068025445380141056",
+        "3_2068025445375963136",
+        "3_2068025445392769024",
+        "3_2068025445392801792"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068025455635235159",
+    "created_at": "2026-06-19T17:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068025455635235159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/So0hrpt82n",
+          "end": 37,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+          "media_key": "3_2068025445380141056",
+          "start": 14,
+          "url": "https://t.co/So0hrpt82n"
+        },
+        {
+          "display_url": "pic.x.com/So0hrpt82n",
+          "end": 37,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+          "media_key": "3_2068025445375963136",
+          "start": 14,
+          "url": "https://t.co/So0hrpt82n"
+        },
+        {
+          "display_url": "pic.x.com/So0hrpt82n",
+          "end": 37,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+          "media_key": "3_2068025445392769024",
+          "start": 14,
+          "url": "https://t.co/So0hrpt82n"
+        },
+        {
+          "display_url": "pic.x.com/So0hrpt82n",
+          "end": 37,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+          "media_key": "3_2068025445392801792",
+          "start": 14,
+          "url": "https://t.co/So0hrpt82n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068025455635235159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "武汉今天的天气，像两个世界 https://t.co/So0hrpt82n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068025445380141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMaL4paMAA3kH1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068025445375963136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMaL4oacAACD9I.jpg",
+        "width": 774
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068025445392769024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMaL4sa4AARQny.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068025445392801792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMaL4sbYAAzDtr.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068025445380141056",
+            "3_2068025445375963136",
+            "3_2068025445392769024",
+            "3_2068025445392801792"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068025455635235159",
+        "created_at": "2026-06-19T17:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068025455635235159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/So0hrpt82n",
+              "end": 37,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+              "media_key": "3_2068025445380141056",
+              "start": 14,
+              "url": "https://t.co/So0hrpt82n"
+            },
+            {
+              "display_url": "pic.x.com/So0hrpt82n",
+              "end": 37,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+              "media_key": "3_2068025445375963136",
+              "start": 14,
+              "url": "https://t.co/So0hrpt82n"
+            },
+            {
+              "display_url": "pic.x.com/So0hrpt82n",
+              "end": 37,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+              "media_key": "3_2068025445392769024",
+              "start": 14,
+              "url": "https://t.co/So0hrpt82n"
+            },
+            {
+              "display_url": "pic.x.com/So0hrpt82n",
+              "end": 37,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068025455635235159/photo/1",
+              "media_key": "3_2068025445392801792",
+              "start": 14,
+              "url": "https://t.co/So0hrpt82n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068025455635235159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武汉今天的天气，像两个世界 https://t.co/So0hrpt82n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 257,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955309933580390694",
+    "created_at": "2025-08-12T16:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955312105558622303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1688547519129931776",
+          "start": 0,
+          "username": "ShuiJue30432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955312105558622303",
+    "in_reply_to_user_id": "1688547519129931776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955310599627477025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiJue30432 😭😭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955309933580390694",
+        "created_at": "2025-08-12T16:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955312105558622303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688547519129931776",
+              "start": 0,
+              "username": "ShuiJue30432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955312105558622303",
+        "in_reply_to_user_id": "1688547519129931776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955310599627477025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiJue30432 😭😭🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688547519129931776",
+        "conversation_id": "1955309933580390694",
+        "created_at": "2025-08-12T16:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955310599627477025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955310599627477025",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955309933580390694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing emo～emo～emo～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 292,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 764
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T13:48:05.000Z",
+        "description": "喜欢打cs一个人类，喜欢吃瓜，接受任何猎奇事物，高强度冲浪。如果不开心，请狠狠和我吐槽吧。",
+        "id": "1688547519129931776",
+        "name": "niko666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955302295379615744/dFynzmcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 269
+        },
+        "username": "ShuiJue30432",
+        "verified": false
+      }
+    ]
+  }
+}

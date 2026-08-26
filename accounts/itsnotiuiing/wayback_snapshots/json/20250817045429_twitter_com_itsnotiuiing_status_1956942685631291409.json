@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956758064759218431",
+    "created_at": "2025-08-17T04:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T05:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956942685631291409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956942685631291409",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956758749873643582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956758064759218431",
+        "created_at": "2025-08-17T04:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T05:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956942685631291409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956942685631291409",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956758749873643582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712477803252432897",
+        "conversation_id": "1956758064759218431",
+        "created_at": "2025-08-16T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956758749873643582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956758749873643582",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1854,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956758064759218431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赶紧来我这接好运啊 好几个宝宝接完以后真的来财了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 306,
+          "like_count": 1627,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 669
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症/推广自辨 赞赏码在主页往下翻",
+        "id": "1712477803252432897",
+        "location": "有🚪",
+        "name": "iyue",
+        "pinned_tweet_id": "1956255719147364483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 482,
+          "like_count": 3037,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 972
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941122281901871107",
+    "created_at": "2025-07-04T16:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T17:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941172007628132723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860301250291712000",
+          "start": 0,
+          "username": "huiyue62077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941172007628132723",
+    "in_reply_to_user_id": "1860301250291712000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941147728018554927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huiyue62077 不客气😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941122281901871107",
+        "created_at": "2025-07-04T16:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T17:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941172007628132723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860301250291712000",
+              "start": 0,
+              "username": "huiyue62077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941172007628132723",
+        "in_reply_to_user_id": "1860301250291712000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941147728018554927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huiyue62077 不客气😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860301250291712000",
+        "conversation_id": "1941122281901871107",
+        "created_at": "2025-07-04T14:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T15:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941147728018554927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941147728018554927",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941141763403710907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 谢谢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 192,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 970
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T12:36:16.000Z",
+        "description": "大⭕微小+ enfp话痨\n想做个温柔的人\n匿名提问箱https://t.co/hQ4xanUlwT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huiyue2",
+                "end": 49,
+                "expanded_url": "https://ngl.link/huiyue2",
+                "start": 26,
+                "url": "https://t.co/hQ4xanUlwT"
+              }
+            ]
+          }
+        },
+        "id": "1860301250291712000",
+        "name": "商鞅知马力比干见人心",
+        "pinned_tweet_id": "1939798196462755900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935637335712079872/QPjaJwqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 195,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 910
+        },
+        "username": "huiyue62077",
+        "verified": false
+      }
+    ]
+  }
+}

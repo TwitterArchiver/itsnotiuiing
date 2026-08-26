@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-05T13:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941485918722121941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549594711362457600",
+          "start": 0,
+          "username": "daaas29714326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941485918722121941",
+    "in_reply_to_user_id": "1549594711362457600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941469673977262472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daaas29714326 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T13:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941485918722121941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549594711362457600",
+              "start": 0,
+              "username": "daaas29714326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941485918722121941",
+        "in_reply_to_user_id": "1549594711362457600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941469673977262472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daaas29714326 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549594711362457600",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T12:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941469673977262472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941469673977262472",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 馋了，等会去吃它家凤凰双皮奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 192,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1019
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T03:19:25.000Z",
+        "description": "我要吃火锅牛排寿喜烧猪脚饭红绕排骨小龙虾烧鹅卤鹅北京烤鸭油爆鳝烤鳗鱼叉烧热干面炒米粉筒骨粥泡菜饼爆肚涮肉齐齐哈尔烤肉肌肉男",
+        "id": "1549594711362457600",
+        "location": "🚪肌肉男",
+        "name": "kiwi",
+        "pinned_tweet_id": "1929580200817213798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932500106034753536/dhJEIzyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 37,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "username": "daaas29714326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2071581773432234169",
+    "created_at": "2026-06-29T14:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071598261929156859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944739532827660289",
+          "start": 0,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071598261929156859",
+    "in_reply_to_user_id": "1944739532827660289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071581773432234169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niuwooo 可爱宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27305,
+        "height": 1280,
+        "media_key": "13_2071581689579728896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071581689579728896/img/1ElKZU0i89hg0lnb.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071581689579728896/vid/avc1/320x634/AjIHTrK1OYPllI7Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071581689579728896/vid/avc1/480x950/Gled5Zs0RwSKyp8Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071581689579728896/vid/avc1/646x1280/8S2DK90byDUggXOl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071581689579728896/pl/z0qt143yR111QaQZ.m3u8"
+          }
+        ],
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2071581773432234169",
+        "created_at": "2026-06-29T14:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071598261929156859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944739532827660289",
+              "start": 0,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071598261929156859",
+        "in_reply_to_user_id": "1944739532827660289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071581773432234169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niuwooo 可爱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071581689579728896"
+          ]
+        },
+        "author_id": "1944739532827660289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2071581773432234169",
+        "created_at": "2026-06-29T13:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071581773432234169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USAx0H8sud",
+              "end": 34,
+              "expanded_url": "https://x.com/Niuwooo/status/2071581773432234169/video/1",
+              "media_key": "13_2071581689579728896",
+              "start": 11,
+              "url": "https://t.co/USAx0H8sud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071581773432234169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别在家不理我研究星座 https://t.co/USAx0H8sud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 232,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "我讨厌水果菠萝，凤梨，胡萝卜和猕猴桃。哦对奇异果也烦。\n养了一只缅因叫菠萝🍍\n喜欢聊天，欢迎找我玩👏",
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶🥛",
+        "pinned_tweet_id": "1967592747218731433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069389597478711296/fSlc0aJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 109,
+          "like_count": 5231,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

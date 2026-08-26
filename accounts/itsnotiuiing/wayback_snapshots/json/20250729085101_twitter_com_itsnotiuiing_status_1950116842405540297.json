@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T08:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T09:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950116842405540297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1458092126999298048",
+          "start": 0,
+          "username": "KrunalBarot9559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950116842405540297",
+    "in_reply_to_user_id": "1458092126999298048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950109723581190498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrunalBarot9559 假。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T08:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950116842405540297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1458092126999298048",
+              "start": 0,
+              "username": "KrunalBarot9559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950116842405540297",
+        "in_reply_to_user_id": "1458092126999298048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950109723581190498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrunalBarot9559 假。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458092126999298048",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T08:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950109723581190498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950109723581190498",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 真假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 215,
+          "like_count": 1056,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 593
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T15:20:59.000Z",
+        "description": "",
+        "id": "1458092126999298048",
+        "name": "Krunal Barot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458092263108718596/wZlbBFXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "KrunalBarot9559",
+        "verified": false
+      }
+    ]
+  }
+}

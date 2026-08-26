@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957007912858968395",
+    "created_at": "2025-08-17T10:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T11:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957028618716004448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938475214016548867",
+          "start": 0,
+          "username": "Mlsw_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957028618716004448",
+    "in_reply_to_user_id": "1938475214016548867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957028449320829297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mlsw_official 我不行了🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957007912858968395",
+        "created_at": "2025-08-17T10:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T11:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957028618716004448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938475214016548867",
+              "start": 0,
+              "username": "Mlsw_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957028618716004448",
+        "in_reply_to_user_id": "1938475214016548867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957028449320829297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mlsw_official 我不行了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938475214016548867",
+        "conversation_id": "1957007912858968395",
+        "created_at": "2025-08-17T10:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T11:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957028449320829297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957028449320829297",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957028336602927425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 那一天的寂寂，寞寞起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 307,
+          "like_count": 1653,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 658
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T05:51:33.000Z",
+        "description": "淡淡的人生",
+        "id": "1938475214016548867",
+        "location": "命苦之人",
+        "name": "天然水",
+        "pinned_tweet_id": "1954525713194738047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956406002229866499/MyN0rM1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 624,
+          "like_count": 11903,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1066
+        },
+        "username": "Mlsw_official",
+        "verified": false
+      }
+    ]
+  }
+}

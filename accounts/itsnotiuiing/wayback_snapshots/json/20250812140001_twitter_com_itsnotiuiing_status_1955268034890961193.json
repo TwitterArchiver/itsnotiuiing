@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954930251622134226",
+    "created_at": "2025-08-12T14:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955268034890961193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557288444786667520",
+          "start": 0,
+          "username": "paofu24779474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955268034890961193",
+    "in_reply_to_user_id": "1557288444786667520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955252014826573859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paofu24779474 哭了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954930251622134226",
+        "created_at": "2025-08-12T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955268034890961193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557288444786667520",
+              "start": 0,
+              "username": "paofu24779474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955268034890961193",
+        "in_reply_to_user_id": "1557288444786667520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955252014826573859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paofu24779474 哭了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557288444786667520",
+        "conversation_id": "1954930251622134226",
+        "created_at": "2025-08-12T12:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955252014826573859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955252014826573859",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954930251622134226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 痛死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 292,
+          "like_count": 1474,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 756
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T08:51:33.000Z",
+        "description": "“我渴望有人至死都暴烈地爱我，明白爱与死亡一样强大”",
+        "id": "1557288444786667520",
+        "name": "一份大薯ෆ",
+        "pinned_tweet_id": "1946143561889849559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953028191817482241/vfilqQIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 200,
+          "like_count": 1555,
+          "listed_count": 18,
+          "media_count": 1468,
+          "tweet_count": 6063
+        },
+        "username": "paofu24779474",
+        "verified": false
+      }
+    ]
+  }
+}

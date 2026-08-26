@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955514737099411847",
+    "created_at": "2025-08-13T09:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955558615362027822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779006683181940738",
+          "start": 0,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955558615362027822",
+    "in_reply_to_user_id": "1779006683181940738",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955514737099411847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian 1111111"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14083,
+        "height": 1280,
+        "media_key": "13_1955514559160324096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955514559160324096/img/0XSZIbXjb5IAInPL.jpg",
+        "public_metrics": {
+          "view_count": 220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559160324096/vid/avc1/320x568/9N_zOet0QIBRrNo1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559160324096/vid/avc1/480x852/8HcpssExQWCYDlCe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559160324096/vid/avc1/720x1280/cV7EuVOYZXnT8Qti.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955514559160324096/pl/Z55lPAXT9nOGzBX6.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 12783,
+        "height": 1280,
+        "media_key": "13_1955514559130898434",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955514559130898434/img/JEna_pU1deT3o8AV.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559130898434/vid/avc1/320x568/5kWSZsoZlEUUMrH5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559130898434/vid/avc1/480x852/EKFMACGFiPdPdTNs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955514559130898434/vid/avc1/720x1280/0eW7IzGqBnTYPk2m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955514559130898434/pl/QRmMT2lELWqatl7l.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955514737099411847",
+        "created_at": "2025-08-13T09:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955558615362027822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955558615362027822",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955514737099411847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 1111111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955514559160324096",
+            "13_1955514559130898434"
+          ]
+        },
+        "author_id": "1779006683181940738",
+        "conversation_id": "1955514737099411847",
+        "created_at": "2025-08-13T06:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955514737099411847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2xsVd7T14",
+              "end": 40,
+              "expanded_url": "https://x.com/Missouolsian/status/1955514737099411847/video/1",
+              "media_key": "13_1955514559160324096",
+              "start": 17,
+              "url": "https://t.co/x2xsVd7T14"
+            },
+            {
+              "display_url": "pic.x.com/x2xsVd7T14",
+              "end": 40,
+              "expanded_url": "https://x.com/Missouolsian/status/1955514737099411847/video/1",
+              "media_key": "13_1955514559130898434",
+              "start": 17,
+              "url": "https://t.co/x2xsVd7T14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955514737099411847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 725,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥姐姐们帮我选一个我去剪关键帧 https://t.co/x2xsVd7T14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1550,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 799
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "08准大一/我的废话桶 记录我所思所想/自恋号@aouoyulin_0/因为有人喜欢我所以我就想分享碎碎念😩（而且我喜欢沉浸自己世界自言自语）/不礼貌回关啦但是我也会一直互动的😙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "aouoyulin_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w5.awcmam.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://w5.awcmam.com/#/register?code=2CjvX32C",
+                "start": 0,
+                "url": "https://t.co/iNChn6ilHF"
+              }
+            ]
+          }
+        },
+        "id": "1779006683181940738",
+        "name": "白毛红瞳狗狗厨",
+        "pinned_tweet_id": "1946043320243044793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11368,
+          "following_count": 187,
+          "like_count": 25835,
+          "listed_count": 29,
+          "media_count": 593,
+          "tweet_count": 13411
+        },
+        "url": "https://t.co/iNChn6ilHF",
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

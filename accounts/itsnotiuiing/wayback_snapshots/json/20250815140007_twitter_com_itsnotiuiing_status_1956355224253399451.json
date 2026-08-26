@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956299643937042824",
+    "created_at": "2025-08-15T14:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956355224253399451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762368099985358848",
+          "start": 0,
+          "username": "leoZhang520931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956355224253399451",
+    "in_reply_to_user_id": "1762368099985358848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956310388389359778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leoZhang520931 好～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956299643937042824",
+        "created_at": "2025-08-15T14:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956355224253399451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762368099985358848",
+              "start": 0,
+              "username": "leoZhang520931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956355224253399451",
+        "in_reply_to_user_id": "1762368099985358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956310388389359778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leoZhang520931 好～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762368099985358848",
+        "conversation_id": "1956299643937042824",
+        "created_at": "2025-08-15T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956310388389359778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956310388389359778",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956299643937042824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 沾沾喜气！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 676
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T06:45:36.000Z",
+        "description": "02/193cm/86kg\n📍广州/北京 ‖  男清水推，不会传播负能量",
+        "id": "1762368099985358848",
+        "location": "Guanajuato, México",
+        "name": "羊",
+        "pinned_tweet_id": "1954961477527540123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954430875841818624/zrxPAvg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 362,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 425
+        },
+        "username": "leoZhang520931",
+        "verified": false
+      }
+    ]
+  }
+}

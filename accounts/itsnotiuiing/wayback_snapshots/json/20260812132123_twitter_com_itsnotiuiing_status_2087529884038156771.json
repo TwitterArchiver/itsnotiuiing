@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087529870431838208"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "community_id": "1734825786899935316",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2087529884038156771",
+    "created_at": "2026-08-12T13:21:23.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087529884038156771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfxVLXzdRk",
+          "end": 30,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2087529884038156771/photo/1",
+          "media_key": "3_2087529870431838208",
+          "start": 7,
+          "url": "https://t.co/mfxVLXzdRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087529884038156771",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087529870431838208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊不能吃甜品 https://t.co/mfxVLXzdRk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087529870431838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhlW2EbYAAYtkp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087529870431838208"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "community_id": "1734825786899935316",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087529884038156771",
+        "created_at": "2026-08-12T13:21:23.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087529884038156771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfxVLXzdRk",
+              "end": 30,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2087529884038156771/photo/1",
+              "media_key": "3_2087529870431838208",
+              "start": 7,
+              "url": "https://t.co/mfxVLXzdRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087529884038156771",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087529870431838208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊不能吃甜品 https://t.co/mfxVLXzdRk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087529884038156771",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 230,
+          "like_count": 2937,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

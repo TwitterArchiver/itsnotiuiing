@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2064035819367854388",
+    "created_at": "2026-06-10T13:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064702769999860106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974479531290591232",
+          "start": 0,
+          "username": "justaywithz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064702769999860106",
+    "in_reply_to_user_id": "1974479531290591232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064035819367854388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justaywithz 痛苦塑造了你，但痛苦不是你的全部🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2064035819367854388",
+        "created_at": "2026-06-10T13:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064702769999860106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974479531290591232",
+              "start": 0,
+              "username": "justaywithz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064702769999860106",
+        "in_reply_to_user_id": "1974479531290591232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064035819367854388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justaywithz 痛苦塑造了你，但痛苦不是你的全部🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974479531290591232",
+        "conversation_id": "2064035819367854388",
+        "created_at": "2026-06-08T17:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064035819367854388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064035819367854388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真的想去做mect忘掉那些痛苦 但又会觉得 如果我没有这些痛苦 我也就不是我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "觉今是而昨非",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 254,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 62
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T14:19:46.000Z",
+        "description": "les｜05 brat p0 当朋友圈小号发",
+        "id": "1974479531290591232",
+        "name": "清纯忧郁猫咪一只",
+        "pinned_tweet_id": "2063344356954898590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974480316426489856/H2YHuDBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 158,
+          "like_count": 3509,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1915
+        },
+        "username": "justaywithz",
+        "verified": false
+      }
+    ]
+  }
+}

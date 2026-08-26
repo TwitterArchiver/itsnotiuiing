@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2083441890821841104",
+    "created_at": "2026-08-01T12:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083526095882928370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944739532827660289",
+          "start": 0,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083526095882928370",
+    "in_reply_to_user_id": "1944739532827660289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083441890821841104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niuwooo 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083441872232755200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnfWCCbsAAfxZN.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2083441890821841104",
+        "created_at": "2026-08-01T12:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083526095882928370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944739532827660289",
+              "start": 0,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083526095882928370",
+        "in_reply_to_user_id": "1944739532827660289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083441890821841104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niuwooo 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083441872232755200"
+          ]
+        },
+        "author_id": "1944739532827660289",
+        "conversation_id": "2083441890821841104",
+        "created_at": "2026-08-01T06:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083441890821841104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d4MJsrjew",
+              "end": 28,
+              "expanded_url": "https://x.com/Niuwooo/status/2083441890821841104/photo/1",
+              "media_key": "3_2083441872232755200",
+              "start": 5,
+              "url": "https://t.co/0d4MJsrjew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083441890821841104",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "halo https://t.co/0d4MJsrjew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 232,
+          "like_count": 2961,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "entp大王👑\n养了一只缅因叫菠萝🍍\n无聊的生活找点有趣的事情干(^^)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niuwoo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niuwoo",
+                "start": 0,
+                "url": "https://t.co/WrAmWWWTiV"
+              }
+            ]
+          }
+        },
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶🥛",
+        "pinned_tweet_id": "1967592747218731433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082741205373497344/BJ0i1K2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 143,
+          "like_count": 7996,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/WrAmWWWTiV",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

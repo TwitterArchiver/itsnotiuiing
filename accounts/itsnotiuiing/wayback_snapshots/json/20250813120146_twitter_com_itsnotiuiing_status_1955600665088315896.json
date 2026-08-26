@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955600652698365952"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955600665088315896",
+    "created_at": "2025-08-13T12:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955600665088315896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J47miqIhik",
+          "end": 41,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1955600665088315896/photo/1",
+          "media_key": "3_1955600652698365952",
+          "start": 18,
+          "url": "https://t.co/J47miqIhik"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1954715520504307987",
+          "start": 42,
+          "url": "https://t.co/OYS5JSFxvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955600665088315896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954715520504307987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好奇特的味道。酸奶混合着茉莉绿茶。 https://t.co/J47miqIhik https://t.co/OYS5JSFxvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955600652698365952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOwbrKbsAAjtoQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955600652698365952"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955600665088315896",
+        "created_at": "2025-08-13T12:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955600665088315896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J47miqIhik",
+              "end": 41,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1955600665088315896/photo/1",
+              "media_key": "3_1955600652698365952",
+              "start": 18,
+              "url": "https://t.co/J47miqIhik"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1954715520504307987",
+              "start": 42,
+              "url": "https://t.co/OYS5JSFxvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955600665088315896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954715520504307987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇特的味道。酸奶混合着茉莉绿茶。 https://t.co/J47miqIhik https://t.co/OYS5JSFxvl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954715520504307987",
+        "created_at": "2025-08-11T01:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T02:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954715520504307987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954715520504307987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想喝一点点的007酸奶草莓绿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 286,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 806
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

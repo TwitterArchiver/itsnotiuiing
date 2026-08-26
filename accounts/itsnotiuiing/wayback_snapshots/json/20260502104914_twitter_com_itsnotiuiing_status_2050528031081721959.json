@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050528020277178368"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2050528031081721959",
+    "created_at": "2026-05-02T10:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050528031081721959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBxb5R5LRo",
+          "end": 36,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2050528031081721959/photo/1",
+          "media_key": "3_2050528020277178368",
+          "start": 13,
+          "url": "https://t.co/hBxb5R5LRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050528031081721959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个人的舍不得根本没有用 https://t.co/hBxb5R5LRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050528020277178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTwXsqbMAAazNA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050528020277178368"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2050528031081721959",
+        "created_at": "2026-05-02T10:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050528031081721959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBxb5R5LRo",
+              "end": 36,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2050528031081721959/photo/1",
+              "media_key": "3_2050528020277178368",
+              "start": 13,
+              "url": "https://t.co/hBxb5R5LRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050528031081721959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人的舍不得根本没有用 https://t.co/hBxb5R5LRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 253,
+          "like_count": 2568,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 40
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

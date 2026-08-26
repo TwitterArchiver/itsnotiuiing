@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956339528853344542",
+    "created_at": "2025-08-15T14:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T15:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956356063378518339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1586107691252043777",
+          "start": 0,
+          "username": "landawang1313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956356063378518339",
+    "in_reply_to_user_id": "1586107691252043777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956339528853344542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landawang1313 爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1956339524533157888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZQbrPbAAAh6QK.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956339528853344542",
+        "created_at": "2025-08-15T14:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956356063378518339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1586107691252043777",
+              "start": 0,
+              "username": "landawang1313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956356063378518339",
+        "in_reply_to_user_id": "1586107691252043777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956339528853344542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landawang1313 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956339524533157888"
+          ]
+        },
+        "author_id": "1586107691252043777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1956339528853344542",
+        "created_at": "2025-08-15T12:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956339528853344542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/cpRgjAjAkm"
+            },
+            {
+              "display_url": "pic.x.com/KBjwCdXhED",
+              "end": 64,
+              "expanded_url": "https://x.com/landawang1313/status/1956339528853344542/photo/1",
+              "media_key": "3_1956339524533157888",
+              "start": 41,
+              "url": "https://t.co/KBjwCdXhED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956339528853344542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/cpRgjAjAkm https://t.co/KBjwCdXhED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 297,
+          "like_count": 1598,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 684
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T21:28:56.000Z",
+        "description": "不知名仓鼠/小懒/懒懒｜帖子都是仓鼠发的和本人无关｜看谁发现: @yuandyu0303 ｜自用蜂鸟vpn⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "yuandyu0303"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=sbd1hwyJ",
+                "start": 0,
+                "url": "https://t.co/4osJCiXiRj"
+              }
+            ]
+          }
+        },
+        "id": "1586107691252043777",
+        "location": "🚪52",
+        "name": "就这样偷懒",
+        "pinned_tweet_id": "1955614655025668536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948019042004189184/PLoMc6jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 345,
+          "like_count": 12161,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 4518
+        },
+        "url": "https://t.co/4osJCiXiRj",
+        "username": "landawang1313",
+        "verified": false
+      }
+    ]
+  }
+}

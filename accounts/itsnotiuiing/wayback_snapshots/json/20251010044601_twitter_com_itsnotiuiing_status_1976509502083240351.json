@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1976315487157092535",
+    "created_at": "2025-10-10T04:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976509502083240351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552448295074639872",
+          "start": 0,
+          "username": "otto147258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976509502083240351",
+    "in_reply_to_user_id": "1552448295074639872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976320246572318942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otto147258 哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1976315487157092535",
+        "created_at": "2025-10-10T04:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976509502083240351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552448295074639872",
+              "start": 0,
+              "username": "otto147258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976509502083240351",
+        "in_reply_to_user_id": "1552448295074639872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976320246572318942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otto147258 哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552448295074639872",
+        "conversation_id": "1976315487157092535",
+        "created_at": "2025-10-09T16:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976320246572318942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976320246572318942",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976315487157092535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 过敏了大概是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 301,
+          "like_count": 1945,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T00:18:19.000Z",
+        "description": "接语音模型视频等定制\n电报号   https://t.co/Ll0q1Dc6yR\n支付宝口令红包支付\n会员群暂定149/年内容，电报或者私信口令入群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yangmiyuyin",
+                "end": 40,
+                "expanded_url": "http://t.me/yangmiyuyin",
+                "start": 17,
+                "url": "https://t.co/Ll0q1Dc6yR"
+              }
+            ]
+          }
+        },
+        "id": "1552448295074639872",
+        "name": "明星ai语音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822771215456702464/RpK9V40K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21001,
+          "following_count": 909,
+          "like_count": 962,
+          "listed_count": 61,
+          "media_count": 110,
+          "tweet_count": 3200
+        },
+        "username": "otto147258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069069373785194496"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2069069448619897023",
+    "created_at": "2026-06-22T14:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069069448619897023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYrW8jyGRR",
+          "end": 39,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2069069448619897023/video/1",
+          "media_key": "13_2069069373785194496",
+          "start": 16,
+          "url": "https://t.co/BYrW8jyGRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069069448619897023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论发生什么 一定是我不够坚强 https://t.co/BYrW8jyGRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 946,
+        "media_key": "13_2069069373785194496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069069373785194496/img/nAQFmCzSDQpibvlt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069069373785194496/vid/avc1/320x420/b-mc5WQdUZ4hY6_N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069069373785194496/vid/avc1/480x630/J7LlEbhkhW3KQciH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069069373785194496/vid/avc1/720x946/BqY7AW0igVVF2BhX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069069373785194496/pl/mjZ9-pJR69cUI7iZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069069373785194496"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2069069448619897023",
+        "created_at": "2026-06-22T14:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069069448619897023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYrW8jyGRR",
+              "end": 39,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2069069448619897023/video/1",
+              "media_key": "13_2069069373785194496",
+              "start": 16,
+              "url": "https://t.co/BYrW8jyGRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069069448619897023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论发生什么 一定是我不够坚强 https://t.co/BYrW8jyGRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 255,
+          "like_count": 2902,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

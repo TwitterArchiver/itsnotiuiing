@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944381398124535952",
+    "created_at": "2025-07-14T05:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944629850196558321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1639649575484153857",
+          "start": 0,
+          "username": "nhxjovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944629850196558321",
+    "in_reply_to_user_id": "1639649575484153857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944617246757978507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhxjovo 蛋堡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944381398124535952",
+        "created_at": "2025-07-14T05:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944629850196558321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1639649575484153857",
+              "start": 0,
+              "username": "nhxjovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944629850196558321",
+        "in_reply_to_user_id": "1639649575484153857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944617246757978507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhxjovo 蛋堡！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639649575484153857",
+        "conversation_id": "1944381398124535952",
+        "created_at": "2025-07-14T04:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T05:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944617246757978507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944617246757978507",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944381398124535952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我要亲亲你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 207,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 680
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T15:25:11.000Z",
+        "description": "喜欢小狗（不约，打钱了可以找我闲聊，不下海）☆\n\n距离产生美，打字快错字多，骂我你对，不喜欢我速速屏蔽我 ☆ 话多☆钱性恋，来财！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cooooo30452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cooooo30452",
+                "start": 0,
+                "url": "https://t.co/Rd2mC2lkie"
+              }
+            ]
+          }
+        },
+        "id": "1639649575484153857",
+        "location": "骂我的厄运缠身，替我挡灾，一辈子不能幸福",
+        "name": "冒险家蛋堡ᐝ（求好运🍀版）",
+        "pinned_tweet_id": "1930285198278832562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763955440449413120/oqiCq-tz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 92,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/Rd2mC2lkie",
+        "username": "nhxjovo",
+        "verified": false
+      }
+    ]
+  }
+}

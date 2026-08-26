@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941384546978861095",
+    "created_at": "2025-07-05T07:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T08:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941396987791933886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941396987791933886",
+    "in_reply_to_user_id": "1905985028057911296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941384546978861095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？换头像发朋友圈就是不回我？。。😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1941384536144932864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvEu8yFa8AALwnS.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941384546978861095",
+        "created_at": "2025-07-05T07:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T08:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941396987791933886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941396987791933886",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941384546978861095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？换头像发朋友圈就是不回我？。。😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941384536144932864"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941384546978861095",
+        "created_at": "2025-07-05T06:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941384546978861095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erop8BzMZb",
+              "end": 32,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1941384546978861095/photo/1",
+              "media_key": "3_1941384536144932864",
+              "start": 9,
+              "url": "https://t.co/erop8BzMZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941384546978861095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被放鸽子了无语 https://t.co/erop8BzMZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 193,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 991
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

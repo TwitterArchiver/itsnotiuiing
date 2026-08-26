@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955937719332282529",
+    "created_at": "2025-08-14T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956014858841022742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935171926109872128",
+          "start": 0,
+          "username": "dudu_YJSoob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956014858841022742",
+    "in_reply_to_user_id": "1935171926109872128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955937719332282529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu_YJSoob ？我不行了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955937719332282529",
+        "created_at": "2025-08-14T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956014858841022742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935171926109872128",
+              "start": 0,
+              "username": "dudu_YJSoob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956014858841022742",
+        "in_reply_to_user_id": "1935171926109872128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955937719332282529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu_YJSoob ？我不行了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935171926109872128",
+        "conversation_id": "1955937719332282529",
+        "created_at": "2025-08-14T10:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955937719332282529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955937719332282529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16552,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 57,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "听了个男喘 本来觉得还行结果他爽上头了的dirtytalk除了那些常见的竟然还有“草你妈”“傻逼”啥的 直接给我听萎了。。srds不知道是不是我接受度低还是怎样 真有人这么说dt吗。听的人真的不会想还嘴吗🌚🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 290,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 832
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:05:28.000Z",
+        "description": "喜欢萌萌的软绵绵的一切事物 我是一个脆弱的小女孩    肌肉男可以给我发私信倾诉痛苦^ ^",
+        "id": "1935171926109872128",
+        "name": "嘟嘟大王",
+        "pinned_tweet_id": "1953397591284334948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952801709048107008/mFzqN4Jo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 38,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 206
+        },
+        "username": "dudu_YJSoob",
+        "verified": false
+      }
+    ]
+  }
+}

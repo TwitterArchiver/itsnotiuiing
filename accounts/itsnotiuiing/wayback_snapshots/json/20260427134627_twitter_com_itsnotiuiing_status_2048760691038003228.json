@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048760683807059968"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2048760691038003228",
+    "created_at": "2026-04-27T13:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048760691038003228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zV6vgcH2Vk",
+          "end": 56,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2048760691038003228/photo/1",
+          "media_key": "3_2048760683807059968",
+          "start": 33,
+          "url": "https://t.co/zV6vgcH2Vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048760691038003228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多人进入我的世界都没有待很久，留下一句要照顾好自己就匆匆离开了 https://t.co/zV6vgcH2Vk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048760683807059968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6o_LQbMAArWHV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048760683807059968"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2048760691038003228",
+        "created_at": "2026-04-27T13:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048760691038003228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zV6vgcH2Vk",
+              "end": 56,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2048760691038003228/photo/1",
+              "media_key": "3_2048760683807059968",
+              "start": 33,
+              "url": "https://t.co/zV6vgcH2Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760691038003228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人进入我的世界都没有待很久，留下一句要照顾好自己就匆匆离开了 https://t.co/zV6vgcH2Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 255,
+          "like_count": 2551,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 38
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

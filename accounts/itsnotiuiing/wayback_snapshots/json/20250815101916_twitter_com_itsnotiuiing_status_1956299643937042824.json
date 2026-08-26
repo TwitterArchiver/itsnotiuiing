@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956299632210059264"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956299643937042824",
+    "created_at": "2025-08-15T10:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T11:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956299643937042824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aqWyVwv4lQ",
+          "end": 38,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1956299643937042824/photo/1",
+          "media_key": "3_1956299632210059264",
+          "start": 15,
+          "url": "https://t.co/aqWyVwv4lQ"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1956042023087300684",
+          "start": 39,
+          "url": "https://t.co/YM8acrakSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956299643937042824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956042023087300684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又接到了🌚 兄弟们我被砸了🫰 https://t.co/aqWyVwv4lQ https://t.co/YM8acrakSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956299632210059264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYsJowboAA213x.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956299632210059264"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956299643937042824",
+        "created_at": "2025-08-15T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956299643937042824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqWyVwv4lQ",
+              "end": 38,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1956299643937042824/photo/1",
+              "media_key": "3_1956299632210059264",
+              "start": 15,
+              "url": "https://t.co/aqWyVwv4lQ"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1956042023087300684",
+              "start": 39,
+              "url": "https://t.co/YM8acrakSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956299643937042824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956042023087300684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又接到了🌚 兄弟们我被砸了🫰 https://t.co/aqWyVwv4lQ https://t.co/YM8acrakSI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956042023087300684",
+        "created_at": "2025-08-14T17:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T18:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956042023087300684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956042023087300684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能用神秘数字砸s我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 297,
+          "like_count": 1592,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 670
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

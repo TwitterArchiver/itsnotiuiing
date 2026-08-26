@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1944803461964685386",
+    "created_at": "2025-07-15T05:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T06:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944988687357632681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603626926043967488",
+          "start": 0,
+          "username": "Calton027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944988687357632681",
+    "in_reply_to_user_id": "1603626926043967488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944813024130556265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Calton027 买了安眠药🫰🏾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1944803461964685386",
+        "created_at": "2025-07-15T05:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944988687357632681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603626926043967488",
+              "start": 0,
+              "username": "Calton027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944988687357632681",
+        "in_reply_to_user_id": "1603626926043967488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944813024130556265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Calton027 买了安眠药🫰🏾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603626926043967488",
+        "conversation_id": "1944803461964685386",
+        "created_at": "2025-07-14T17:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T18:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944813024130556265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944813024130556265",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944803461964685386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 褪黑素启动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 165,
+          "like_count": 1072,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 676
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T05:43:53.000Z",
+        "description": "",
+        "id": "1603626926043967488",
+        "location": "United States",
+        "name": "-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944521063158648832/0CYkTSHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 152,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 100
+        },
+        "username": "Calton027",
+        "verified": false
+      }
+    ]
+  }
+}

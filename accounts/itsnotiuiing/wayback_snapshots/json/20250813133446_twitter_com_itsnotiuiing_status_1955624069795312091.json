@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955605245725495676",
+    "created_at": "2025-08-13T13:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955624069795312091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944739532827660289",
+          "start": 0,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955624069795312091",
+    "in_reply_to_user_id": "1944739532827660289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955605245725495676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niuwooo 我要 我要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955605245725495676",
+        "created_at": "2025-08-13T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955624069795312091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944739532827660289",
+              "start": 0,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955624069795312091",
+        "in_reply_to_user_id": "1944739532827660289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955605245725495676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niuwooo 我要 我要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944739532827660289",
+        "conversation_id": "1955605245725495676",
+        "created_at": "2025-08-13T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955605245725495676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955605245725495676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯..我想了想和我平时互动多的宝宝可以找我要微信。但是我可能回消息慢而且不咋闲聊（休息时间还是会骚扰你们，因为开学了我肯定专注于现世的生活、我先说好🥺：）因为平时可能比较忙，可能过多闲聊对我来说会造成负担嗯。朋友圈我还是可以和你们互动的嘎嘎，所以想加我的朋友可以管我要，我酌情给👐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 290,
+          "like_count": 1568,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 809
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "纯💚喜欢当朋友圈发｜enfp｜交朋友随缘 喜欢看碎碎念｜如果你够抽象的话那我们就是好朋友啦💍 ｜ADHD患者 🥺 路过的每一个人都要提醒我学习！｜一个绝望的工科女生🫠｜我要忙考研了上推时间很少，朋友们无法和你们有很多互动了，取关我也无所谓，可能直到12月份再回归吧！｜最后希望牛奶上岸，我的互关们一切都好❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niu%E2%80%86wo…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niu%E2%80%86wo%E2%80%86o%E2%80%86o",
+                "start": 0,
+                "url": "https://t.co/J49uUSqeHU"
+              }
+            ]
+          }
+        },
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶味十足（实习➕考研版）",
+        "pinned_tweet_id": "1953689852030992484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524558179770368/37D4MYIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 120,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1639
+        },
+        "url": "https://t.co/J49uUSqeHU",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

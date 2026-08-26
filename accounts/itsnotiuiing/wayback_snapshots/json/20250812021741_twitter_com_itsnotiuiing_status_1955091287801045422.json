@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954710921303196126",
+    "created_at": "2025-08-12T02:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T03:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955091287801045422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644694688723779584",
+          "start": 0,
+          "username": "yunyuan0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955091287801045422",
+    "in_reply_to_user_id": "1644694688723779584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955061116557725825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyuan0122 是的💕💕💭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954710921303196126",
+        "created_at": "2025-08-12T02:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955091287801045422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644694688723779584",
+              "start": 0,
+              "username": "yunyuan0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955091287801045422",
+        "in_reply_to_user_id": "1644694688723779584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955061116557725825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyuan0122 是的💕💕💭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644694688723779584",
+        "conversation_id": "1954710921303196126",
+        "created_at": "2025-08-12T00:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955061116557725825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955061116557725825",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954710921303196126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好可爱呀！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 286,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 732
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T13:32:41.000Z",
+        "description": "赛博无条件发疯大王 抽象女\nINTJ水瓶座♒                                                             \n匿名提问戳这里👉🏻https://t.co/gSeHb5tKqC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yunyuan0122",
+                "end": 116,
+                "expanded_url": "https://ngl.link/yunyuan0122",
+                "start": 93,
+                "url": "https://t.co/gSeHb5tKqC"
+              }
+            ]
+          }
+        },
+        "id": "1644694688723779584",
+        "name": "予安🥐",
+        "pinned_tweet_id": "1952829006421868792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933521838635876352/lNFo5W6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 165,
+          "like_count": 12160,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2526
+        },
+        "username": "yunyuan0122",
+        "verified": false
+      }
+    ]
+  }
+}

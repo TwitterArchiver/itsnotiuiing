@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956289996576498059",
+    "created_at": "2025-08-18T15:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957466816944738472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1850783095185911808",
+          "start": 0,
+          "username": "Uh5Aq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957466816944738472",
+    "in_reply_to_user_id": "1850783095185911808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957465265601470759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uh5Aq 吃呗吃呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-18T15:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957466816944738472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1850783095185911808",
+              "start": 0,
+              "username": "Uh5Aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957466816944738472",
+        "in_reply_to_user_id": "1850783095185911808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957465265601470759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uh5Aq 吃呗吃呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850783095185911808",
+        "conversation_id": "1956289996576498059",
+        "created_at": "2025-08-18T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957465265601470759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957465265601470759",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956289996576498059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这我是真想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 321,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 677
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T06:14:20.000Z",
+        "description": "来个人聊聊天吧球球了。（会打游戏懂得很多）",
+        "id": "1850783095185911808",
+        "name": "克脊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850783212425117696/B7fEIY0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 210,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 155
+        },
+        "username": "Uh5Aq",
+        "verified": false
+      }
+    ]
+  }
+}

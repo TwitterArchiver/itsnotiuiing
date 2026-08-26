@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2057119126804631853",
+    "created_at": "2026-05-21T05:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057326173198360875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1094819275850674176",
+          "start": 0,
+          "username": "hXPOilBIVIYO75B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057326173198360875",
+    "in_reply_to_user_id": "1094819275850674176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057323857904906319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hXPOilBIVIYO75B 太痛了！！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2057119126804631853",
+        "created_at": "2026-05-21T05:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057326173198360875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1094819275850674176",
+              "start": 0,
+              "username": "hXPOilBIVIYO75B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057326173198360875",
+        "in_reply_to_user_id": "1094819275850674176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057323857904906319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hXPOilBIVIYO75B 太痛了！！😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094819275850674176",
+        "conversation_id": "2057119126804631853",
+        "created_at": "2026-05-21T04:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057323857904906319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057323857904906319",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057119126804631853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我也是，但是我真的是受不了了才会拉黑删除的，一开始我舍不得删好友，只会拉黑，后来删好友但是保存了聊天记录，最后一次下定决心分手我把聊天记录都删干净了，我之前总是在他没回复我的时候反复看从开始到现在的聊天记录，现在全都没有了，他只活在我的记忆里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "你要离开 我知道很简单",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 261,
+          "like_count": 2710,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 55
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-11T04:43:50.000Z",
+        "description": "🐱",
+        "id": "1094819275850674176",
+        "name": "mob kiyo",
+        "pinned_tweet_id": "2041221618236830135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809294555956862976/M4OcCNdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 498,
+          "like_count": 5740,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 525
+        },
+        "username": "hXPOilBIVIYO75B",
+        "verified": false
+      }
+    ]
+  }
+}

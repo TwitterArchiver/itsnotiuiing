@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954043205684793440",
+    "created_at": "2025-08-09T10:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T11:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954127060189814821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "ln2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954127060189814821",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954050511625499023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical 我不行了😭🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T10:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954127060189814821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "ln2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954127060189814821",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954050511625499023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical 我不行了😭🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T05:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954050511625499023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954050511625499023",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954043205684793440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 可能是弥补别的地方吧😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 291,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 649
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "04/养胃男/想到啥发啥/ 🚪52 互关请来加我😽 /恩师lii @Lillcuainil  /\n\n年卡12r自用VPN\nhttps://t.co/kZHn0UTG3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Lillcuainil"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 84,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 61,
+                "url": "https://t.co/kZHn0UTG3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北（恩师lii）",
+        "pinned_tweet_id": "1953743928919765229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734598546262003712/kRkc1y0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6388,
+          "following_count": 294,
+          "like_count": 30011,
+          "listed_count": 11,
+          "media_count": 491,
+          "tweet_count": 18317
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "ln2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

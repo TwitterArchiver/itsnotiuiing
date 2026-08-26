@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955968131278758221",
+    "created_at": "2025-08-14T13:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955981570726363397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945347768643674112",
+          "start": 0,
+          "username": "obtjjjjjjjjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955981570726363397",
+    "in_reply_to_user_id": "1945347768643674112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955980672616817132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obtjjjjjjjjj 我是穷b 没看到我这两次都只敢喝中杯吗🧍🏾‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955968131278758221",
+        "created_at": "2025-08-14T13:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955981570726363397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945347768643674112",
+              "start": 0,
+              "username": "obtjjjjjjjjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955981570726363397",
+        "in_reply_to_user_id": "1945347768643674112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955980672616817132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obtjjjjjjjjj 我是穷b 没看到我这两次都只敢喝中杯吗🧍🏾‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945347768643674112",
+        "conversation_id": "1955968131278758221",
+        "created_at": "2025-08-14T13:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955980672616817132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955980672616817132",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955968131278758221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 富婆抽一杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 289,
+          "like_count": 1590,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 828
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T05:00:31.000Z",
+        "description": "我的简介.",
+        "id": "1945347768643674112",
+        "location": "男版雨姐😆😆😆",
+        "name": "恬美的Chr",
+        "pinned_tweet_id": "1954367401782583514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950223625447235584/PWfQ9blw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 41,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 735
+        },
+        "username": "obtjjjjjjjjj",
+        "verified": false
+      }
+    ]
+  }
+}

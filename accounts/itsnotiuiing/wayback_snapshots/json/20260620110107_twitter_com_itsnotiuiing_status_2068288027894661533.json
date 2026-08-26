@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068288016813379584",
+        "3_2068288016809082881",
+        "3_2068288016809103360",
+        "3_2068288016809082880"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068288027894661533",
+    "created_at": "2026-06-20T11:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068288027894661533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PaPNl11E0c",
+          "end": 30,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+          "media_key": "3_2068288016813379584",
+          "start": 7,
+          "url": "https://t.co/PaPNl11E0c"
+        },
+        {
+          "display_url": "pic.x.com/PaPNl11E0c",
+          "end": 30,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+          "media_key": "3_2068288016809082881",
+          "start": 7,
+          "url": "https://t.co/PaPNl11E0c"
+        },
+        {
+          "display_url": "pic.x.com/PaPNl11E0c",
+          "end": 30,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+          "media_key": "3_2068288016809103360",
+          "start": 7,
+          "url": "https://t.co/PaPNl11E0c"
+        },
+        {
+          "display_url": "pic.x.com/PaPNl11E0c",
+          "end": 30,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+          "media_key": "3_2068288016809082880",
+          "start": 7,
+          "url": "https://t.co/PaPNl11E0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068288027894661533",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🎓 HUST https://t.co/PaPNl11E0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068288016813379584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQI_jdb0AA7hAt.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068288016809082881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQI_jcaQAE2v4-.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068288016809103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQI_jcakAAF8ey.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068288016809082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQI_jcaQAAav25.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068288016813379584",
+            "3_2068288016809082881",
+            "3_2068288016809103360",
+            "3_2068288016809082880"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068288027894661533",
+        "created_at": "2026-06-20T11:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068288027894661533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaPNl11E0c",
+              "end": 30,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+              "media_key": "3_2068288016813379584",
+              "start": 7,
+              "url": "https://t.co/PaPNl11E0c"
+            },
+            {
+              "display_url": "pic.x.com/PaPNl11E0c",
+              "end": 30,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+              "media_key": "3_2068288016809082881",
+              "start": 7,
+              "url": "https://t.co/PaPNl11E0c"
+            },
+            {
+              "display_url": "pic.x.com/PaPNl11E0c",
+              "end": 30,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+              "media_key": "3_2068288016809103360",
+              "start": 7,
+              "url": "https://t.co/PaPNl11E0c"
+            },
+            {
+              "display_url": "pic.x.com/PaPNl11E0c",
+              "end": 30,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068288027894661533/photo/1",
+              "media_key": "3_2068288016809082880",
+              "start": 7,
+              "url": "https://t.co/PaPNl11E0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068288027894661533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎓 HUST https://t.co/PaPNl11E0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 257,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

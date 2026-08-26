@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1957374864089547006",
+    "created_at": "2025-08-18T15:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957461277233565831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882072930823331840",
+          "start": 0,
+          "username": "Armegeddon103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957461277233565831",
+    "in_reply_to_user_id": "1882072930823331840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957461037273260521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Armegeddon103 wc学到了！下次就这样喝👅😍😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-18T15:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957461277233565831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882072930823331840",
+              "start": 0,
+              "username": "Armegeddon103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957461277233565831",
+        "in_reply_to_user_id": "1882072930823331840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957461037273260521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Armegeddon103 wc学到了！下次就这样喝👅😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882072930823331840",
+        "conversation_id": "1957374864089547006",
+        "created_at": "2025-08-18T15:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957461037273260521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957461037273260521",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957460558946730276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 抹茶加冰淇淋不另外加糖 我觉得非常好喝而且热量不是很高！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 318,
+          "like_count": 1702,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 672
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T14:29:07.000Z",
+        "description": "手控",
+        "id": "1882072930823331840",
+        "name": "酒异",
+        "pinned_tweet_id": "1955304307273703797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945130292177440768/O-9tnyzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 250,
+          "like_count": 1350,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 2173
+        },
+        "username": "Armegeddon103",
+        "verified": false
+      }
+    ]
+  }
+}

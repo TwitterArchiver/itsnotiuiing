@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952880882987220993"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952880890809598370",
+    "created_at": "2025-08-05T23:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952880890809598370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6o6vuWyuGm",
+          "end": 41,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1952880890809598370/photo/1",
+          "media_key": "3_1952880882987220993",
+          "start": 18,
+          "url": "https://t.co/6o6vuWyuGm"
+        },
+        {
+          "display_url": "x.com/itsnotiuiing/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/itsnotiuiing/status/1952788854966001805",
+          "start": 42,
+          "url": "https://t.co/VAlmNJpqbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952880890809598370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952788854966001805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢兄弟我将all in😽❤️‍🔥 https://t.co/6o6vuWyuGm https://t.co/VAlmNJpqbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952880882987220993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxoG0PcawAEt6da.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952880882987220993"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952880890809598370",
+        "created_at": "2025-08-05T23:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952880890809598370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6o6vuWyuGm",
+              "end": 41,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1952880890809598370/photo/1",
+              "media_key": "3_1952880882987220993",
+              "start": 18,
+              "url": "https://t.co/6o6vuWyuGm"
+            },
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1952788854966001805",
+              "start": 42,
+              "url": "https://t.co/VAlmNJpqbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952880890809598370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952788854966001805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢兄弟我将all in😽❤️‍🔥 https://t.co/6o6vuWyuGm https://t.co/VAlmNJpqbx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952788854966001805",
+        "created_at": "2025-08-05T17:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952788854966001805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsnotiuiing/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/itsnotiuiing/status/1952650702766952696",
+              "start": 49,
+              "url": "https://t.co/79N2SEqrbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952788854966001805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952650702766952696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了最终还是决定买吉伊和校霸 如果我抢的到的话。喝不完就喝不完了不管了（537对不起🧎‍♀️ https://t.co/79N2SEqrbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 258,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 587
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

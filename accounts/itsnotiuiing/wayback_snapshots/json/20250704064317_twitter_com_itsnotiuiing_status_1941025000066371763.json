@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1940880116378443923",
+    "created_at": "2025-07-04T06:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T07:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941025000066371763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1917927232905052160",
+          "start": 0,
+          "username": "Xy000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941025000066371763",
+    "in_reply_to_user_id": "1917927232905052160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940880116378443923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xy000812 我服了刚来生理期就更新💔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2550791,
+        "height": 480,
+        "media_key": "13_1940878924051046400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940878924051046400/img/2xYPDvycYiRcNgOz.jpg",
+        "public_metrics": {
+          "view_count": 8215
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940878924051046400/vid/avc1/270x270/6wDD3rkH1rb_K0VB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940878924051046400/vid/avc1/360x360/m9CMHtPGUMqmOlqc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940878924051046400/vid/avc1/482x480/e0pbdZNFtowp1E3f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940878924051046400/pl/kUxbyRVOU9LFv_xo.m3u8?v=2da"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1940880116378443923",
+        "created_at": "2025-07-04T06:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T07:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941025000066371763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1917927232905052160",
+              "start": 0,
+              "username": "Xy000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941025000066371763",
+        "in_reply_to_user_id": "1917927232905052160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940880116378443923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xy000812 我服了刚来生理期就更新💔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940878924051046400"
+          ]
+        },
+        "author_id": "1917927232905052160",
+        "conversation_id": "1940880116378443923",
+        "created_at": "2025-07-03T21:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T22:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940880116378443923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "男喘"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "青年音"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuekfqrXiZ",
+              "end": 115,
+              "expanded_url": "https://x.com/Xy000812/status/1940880116378443923/video/1",
+              "media_key": "13_1940878924051046400",
+              "start": 92,
+              "url": "https://t.co/VuekfqrXiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940880116378443923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 19863,
+          "like_count": 964,
+          "quote_count": 22,
+          "reply_count": 170,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "《许愿的幻想时刻》赖床不起的女朋友\n\n   好久没录了 录一个纯爱找找状态哈哈 \n   一边想一边冲很费脑细胞 要是听到不喜欢的词汇还请原谅 🥲\n   \n#男喘 #青年音 #手冲实录 https://t.co/VuekfqrXiZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 188,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 955
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "日常@Shadow000812/没有🚪 饭盒https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Shadow000812"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 45,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1920857425625616848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63777,
+          "following_count": 26,
+          "like_count": 9,
+          "listed_count": 67,
+          "media_count": 100,
+          "tweet_count": 155
+        },
+        "username": "Xy000812",
+        "verified": false
+      }
+    ]
+  }
+}

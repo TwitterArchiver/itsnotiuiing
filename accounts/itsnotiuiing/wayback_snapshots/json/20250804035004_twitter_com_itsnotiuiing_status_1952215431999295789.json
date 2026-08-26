@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952210451716342261",
+    "created_at": "2025-08-04T03:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T04:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952215431999295789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692544038057164801",
+          "start": 0,
+          "username": "ShanaeShan90778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952215431999295789",
+    "in_reply_to_user_id": "1692544038057164801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952212719068963114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShanaeShan90778 笑的我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952210451716342261",
+        "created_at": "2025-08-04T03:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952215431999295789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692544038057164801",
+              "start": 0,
+              "username": "ShanaeShan90778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952215431999295789",
+        "in_reply_to_user_id": "1692544038057164801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952212719068963114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShanaeShan90778 笑的我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692544038057164801",
+        "conversation_id": "1952210451716342261",
+        "created_at": "2025-08-04T03:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952212719068963114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952212719068963114",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952210451716342261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 金钱不会说话，但财富会低语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 248,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 549
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T14:28:49.000Z",
+        "description": "碎碎念，抽象玩家",
+        "id": "1692544038057164801",
+        "name": "随薪配（比格多栋版）",
+        "pinned_tweet_id": "1893141455834587169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903966670823337984/T9NlwSjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 448,
+          "like_count": 72547,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2723
+        },
+        "username": "ShanaeShan90778",
+        "verified": false
+      }
+    ]
+  }
+}

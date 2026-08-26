@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953089737214115966",
+    "created_at": "2025-08-06T14:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T15:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953099750141538462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937151758079512576",
+          "start": 0,
+          "username": "ll8023ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953099750141538462",
+    "in_reply_to_user_id": "1937151758079512576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953096815051718709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll8023ll 你也是😘😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-06T14:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953099750141538462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937151758079512576",
+              "start": 0,
+              "username": "ll8023ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953099750141538462",
+        "in_reply_to_user_id": "1937151758079512576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953096815051718709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll8023ll 你也是😘😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937151758079512576",
+        "conversation_id": "1953089737214115966",
+        "created_at": "2025-08-06T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953096815051718709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953096815051718709",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953089737214115966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 美女宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 268,
+          "like_count": 1198,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 574
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T14:12:33.000Z",
+        "description": "ESTJ | 小八の秘密花园｜",
+        "id": "1937151758079512576",
+        "location": "无🚪只回喜欢的人私信别来烦^-^",
+        "name": "8023",
+        "pinned_tweet_id": "1948359017996419432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947634199755952131/e9OOdTOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 180,
+          "like_count": 11893,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2708
+        },
+        "username": "ll8023ll",
+        "verified": false
+      }
+    ]
+  }
+}

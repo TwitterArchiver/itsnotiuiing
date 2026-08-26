@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954043205684793440",
+    "created_at": "2025-08-09T23:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T00:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954331469159301334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936800973428752384",
+          "start": 0,
+          "username": "Miao012722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954331469159301334",
+    "in_reply_to_user_id": "1936800973428752384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954250859480535436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao012722 跟我一样！💔💔💔💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T23:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T00:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954331469159301334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936800973428752384",
+              "start": 0,
+              "username": "Miao012722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954331469159301334",
+        "in_reply_to_user_id": "1936800973428752384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954250859480535436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao012722 跟我一样！💔💔💔💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936800973428752384",
+        "conversation_id": "1954043205684793440",
+        "created_at": "2025-08-09T18:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T19:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954250859480535436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954250859480535436",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954043205684793440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 最多的一次也只是20-8😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 294,
+          "like_count": 1337,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 679
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:58:42.000Z",
+        "description": "",
+        "id": "1936800973428752384",
+        "name": "shea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941491667342700544/S1Q9MeRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 56,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "Miao012722",
+        "verified": false
+      }
+    ]
+  }
+}

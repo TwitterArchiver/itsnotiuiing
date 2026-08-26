@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2068416393562018222",
+    "created_at": "2026-06-20T19:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068416393562018222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《她整晚在写信》，由 卫兰 演唱，收录于《她整晚在写信》专辑中，《她整晚在写信》下载，《她整晚在写信》在线试听，更多她整晚在写信相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/9qFzRlu",
+          "end": 38,
+          "expanded_url": "https://163cn.tv/9qFzRlu",
+          "images": [
+            {
+              "height": 4000,
+              "url": "https://pbs.twimg.com/news_img/2068416395227074560/_sU_3qCb?format=jpg&name=orig",
+              "width": 4000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2068416395227074560/_sU_3qCb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "她整晚在写信 - 卫兰 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?app_version=9.5.30&id=1447348773&playerUIModeId=76001&userid=1754391165&dlt=0846",
+          "url": "https://t.co/48lbtFbEW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068416393562018222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享卫兰的单曲《她整晚在写信》https://t.co/48lbtFbEW7 (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2068416393562018222",
+        "created_at": "2026-06-20T19:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068416393562018222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《她整晚在写信》，由 卫兰 演唱，收录于《她整晚在写信》专辑中，《她整晚在写信》下载，《她整晚在写信》在线试听，更多她整晚在写信相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9qFzRlu",
+              "end": 38,
+              "expanded_url": "https://163cn.tv/9qFzRlu",
+              "images": [
+                {
+                  "height": 4000,
+                  "url": "https://pbs.twimg.com/news_img/2068416395227074560/_sU_3qCb?format=jpg&name=orig",
+                  "width": 4000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068416395227074560/_sU_3qCb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "她整晚在写信 - 卫兰 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?app_version=9.5.30&id=1447348773&playerUIModeId=76001&userid=1754391165&dlt=0846",
+              "url": "https://t.co/48lbtFbEW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068416393562018222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享卫兰的单曲《她整晚在写信》https://t.co/48lbtFbEW7 (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 255,
+          "like_count": 2903,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

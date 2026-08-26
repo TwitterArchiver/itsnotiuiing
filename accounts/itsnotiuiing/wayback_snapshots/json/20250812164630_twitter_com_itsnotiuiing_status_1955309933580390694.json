@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955309868711284739"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955309933580390694",
+    "created_at": "2025-08-12T16:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955309933580390694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p36Td7MUV9",
+          "end": 52,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1955309933580390694/video/1",
+          "media_key": "13_1955309868711284739",
+          "start": 29,
+          "url": "https://t.co/p36Td7MUV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955309933580390694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人和人之间淡淡的就挺好 失去一个人最快的方式就是靠得太近 https://t.co/p36Td7MUV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14125,
+        "height": 1280,
+        "media_key": "13_1955309868711284739",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955309868711284739/img/6LzkIYH_hk8dzkn4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955309868711284739/vid/avc1/320x568/V_vknUIEkL-lGfA4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955309868711284739/vid/avc1/480x852/SkN-B0vVp6XD_Q6B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955309868711284739/vid/avc1/720x1280/7wXmLu7HgRpFPKE3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955309868711284739/pl/HrQ1MxlFDXoI7Qxr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955309868711284739"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955309933580390694",
+        "created_at": "2025-08-12T16:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955309933580390694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p36Td7MUV9",
+              "end": 52,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1955309933580390694/video/1",
+              "media_key": "13_1955309868711284739",
+              "start": 29,
+              "url": "https://t.co/p36Td7MUV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955309933580390694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人和人之间淡淡的就挺好 失去一个人最快的方式就是靠得太近 https://t.co/p36Td7MUV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 292,
+          "like_count": 1487,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 761
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

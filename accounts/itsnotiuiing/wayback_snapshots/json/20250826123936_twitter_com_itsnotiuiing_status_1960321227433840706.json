@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1960280699845697726",
+    "created_at": "2025-08-26T12:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960321227433840706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918169659964309504",
+          "start": 0,
+          "username": "Bunnyy7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960321227433840706",
+    "in_reply_to_user_id": "1918169659964309504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960283385055924328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyy7777777 是的 🥹 最近不常玩推了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1960280699845697726",
+        "created_at": "2025-08-26T12:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960321227433840706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918169659964309504",
+              "start": 0,
+              "username": "Bunnyy7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960321227433840706",
+        "in_reply_to_user_id": "1918169659964309504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960283385055924328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnyy7777777 是的 🥹 最近不常玩推了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918169659964309504",
+        "conversation_id": "1960280699845697726",
+        "created_at": "2025-08-26T10:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960283385055924328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960283385055924328",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960280699845697726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 感覺好久沒有看見你的頭像了寶寶🥹🥹🤲🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 286,
+          "like_count": 1404,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T05:04:34.000Z",
+        "description": "📓當日記本用 || 不看私信",
+        "id": "1918169659964309504",
+        "name": "兔7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928026095812759555/jAL5Iau6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 63,
+          "like_count": 160,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 3453
+        },
+        "username": "Bunnyy7777777",
+        "verified": false
+      }
+    ]
+  }
+}

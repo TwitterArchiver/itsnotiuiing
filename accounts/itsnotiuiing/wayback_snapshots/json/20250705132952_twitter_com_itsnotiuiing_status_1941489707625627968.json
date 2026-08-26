@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941487247926362332",
+    "created_at": "2025-07-05T13:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941489707625627968"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1941489707625627968",
+    "in_reply_to_user_id": "1905985028057911296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941487247926362332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇塞那个男店员真的很帅 每次给我上甜品的说话声音也很好听 最主要的是他的眼睛和我认识的一个人很像🤤要不是知道他不在我这里 我真的会认为他来打工了 而且声音也超级像😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941487247926362332",
+        "created_at": "2025-07-05T13:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941489707625627968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941489707625627968",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941487247926362332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞那个男店员真的很帅 每次给我上甜品的说话声音也很好听 最主要的是他的眼睛和我认识的一个人很像🤤要不是知道他不在我这里 我真的会认为他来打工了 而且声音也超级像😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941487247926362332",
+        "created_at": "2025-07-05T13:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941487247926362332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941487247926362332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉赵记传承的店员都认识我了😳🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 194,
+          "like_count": 1041,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1030
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

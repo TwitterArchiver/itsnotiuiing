@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073380444108918784",
+        "3_2073380444092207104"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2073380453483208744",
+    "created_at": "2026-07-04T12:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073380453483208744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VzsrZ2yMhc",
+          "end": 66,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2073380453483208744/photo/1",
+          "media_key": "3_2073380444108918784",
+          "start": 43,
+          "url": "https://t.co/VzsrZ2yMhc"
+        },
+        {
+          "display_url": "pic.x.com/VzsrZ2yMhc",
+          "end": 66,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2073380453483208744/photo/1",
+          "media_key": "3_2073380444092207104",
+          "start": 43,
+          "url": "https://t.co/VzsrZ2yMhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073380453483208744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想念你的方式，只是偷偷打开你的社交软件，逛一圈又无奈的退出，其实我好想和你说说话。 https://t.co/VzsrZ2yMhc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073380444108918784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYgh1dakAA3FDZ.jpg",
+        "width": 1548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073380444092207104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYgh1ZbkAAvvxk.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073380444108918784",
+            "3_2073380444092207104"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2073380453483208744",
+        "created_at": "2026-07-04T12:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073380453483208744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzsrZ2yMhc",
+              "end": 66,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2073380453483208744/photo/1",
+              "media_key": "3_2073380444108918784",
+              "start": 43,
+              "url": "https://t.co/VzsrZ2yMhc"
+            },
+            {
+              "display_url": "pic.x.com/VzsrZ2yMhc",
+              "end": 66,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2073380453483208744/photo/1",
+              "media_key": "3_2073380444092207104",
+              "start": 43,
+              "url": "https://t.co/VzsrZ2yMhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073380453483208744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想念你的方式，只是偷偷打开你的社交软件，逛一圈又无奈的退出，其实我好想和你说说话。 https://t.co/VzsrZ2yMhc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 234,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

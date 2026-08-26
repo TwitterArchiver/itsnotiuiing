@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956063911293411691",
+    "created_at": "2025-08-14T19:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T20:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956078737986101547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956078737986101547",
+    "in_reply_to_user_id": "1905985028057911296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956063911293411691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我们聊天时你刻意制造了唯独对你这样的细节 记住我提过的小事 用专属称呼 这种区别对待的体验让我感到非常开心 当你消失后 我不仅失去了一个聊天对象 更失去了在你世界里存在的证明 原来我支付的只是服务时间 而不是真正的关系羁绊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-14T19:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T20:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956078737986101547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956078737986101547",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956063911293411691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我们聊天时你刻意制造了唯独对你这样的细节 记住我提过的小事 用专属称呼 这种区别对待的体验让我感到非常开心 当你消失后 我不仅失去了一个聊天对象 更失去了在你世界里存在的证明 原来我支付的只是服务时间 而不是真正的关系羁绊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956063911293411691",
+        "created_at": "2025-08-14T18:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956063911293411691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956063911293411691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到被之前入了🚪的男喘单删了到现在还是很难过 哭了好久❤️‍🩹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 296,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 720
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

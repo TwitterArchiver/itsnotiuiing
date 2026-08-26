@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1953522324902388158",
+    "created_at": "2025-08-07T18:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T19:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953522324902388158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/binmpreg/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/binmpreg/status/1953264208608674068",
+          "start": 17,
+          "url": "https://t.co/46nmqpqCf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953522324902388158",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953264208608674068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "링크가 있으면 구매하겠습니다👍 https://t.co/46nmqpqCf1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953264196248059905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxtjcAnawAELuor.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1953522324902388158",
+        "created_at": "2025-08-07T18:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T19:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953522324902388158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/binmpreg/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/binmpreg/status/1953264208608674068",
+              "start": 17,
+              "url": "https://t.co/46nmqpqCf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953522324902388158",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953264208608674068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "링크가 있으면 구매하겠습니다👍 https://t.co/46nmqpqCf1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953264196248059905"
+          ]
+        },
+        "author_id": "1875118328701915136",
+        "conversation_id": "1953264208608674068",
+        "created_at": "2025-08-07T01:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T02:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953264208608674068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pN4fKvU9yc",
+              "end": 47,
+              "expanded_url": "https://x.com/binmpreg/status/1953264208608674068/photo/1",
+              "media_key": "3_1953264196248059905",
+              "start": 24,
+              "url": "https://t.co/pN4fKvU9yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953264208608674068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 25979,
+          "like_count": 1970,
+          "quote_count": 25,
+          "reply_count": 8,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "IM CRYINGG WHAT IS THIS https://t.co/pN4fKvU9yc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 286,
+          "like_count": 1240,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 605
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:53:50.000Z",
+        "description": "for 昊冰/빈늘빈 ao3: neulslick",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/pawbaseone",
+                "end": 23,
+                "expanded_url": "https://rentry.co/pawbaseone",
+                "start": 0,
+                "url": "https://t.co/qwPUGq4dko"
+              }
+            ]
+          }
+        },
+        "id": "1875118328701915136",
+        "location": "san ♡ ot9 🔞 19 🇰🇷🇨🇳 rps ",
+        "name": "hanbin ceo",
+        "pinned_tweet_id": "1952847400680432127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953050658745270274/zzqFeBiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 594,
+          "like_count": 24984,
+          "listed_count": 17,
+          "media_count": 3055,
+          "tweet_count": 17421
+        },
+        "url": "https://t.co/qwPUGq4dko",
+        "username": "binmpreg",
+        "verified": true
+      }
+    ]
+  }
+}

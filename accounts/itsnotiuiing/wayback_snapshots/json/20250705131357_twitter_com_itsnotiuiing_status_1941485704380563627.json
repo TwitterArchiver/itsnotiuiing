@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-05T13:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T14:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941485704380563627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600516230850703360",
+          "start": 0,
+          "username": "yuanyshngdeyuel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941485704380563627",
+    "in_reply_to_user_id": "1600516230850703360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941431982313148452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyshngdeyuel 笑死我了行！必须行🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T13:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941485704380563627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600516230850703360",
+              "start": 0,
+              "username": "yuanyshngdeyuel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941485704380563627",
+        "in_reply_to_user_id": "1600516230850703360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941431982313148452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyshngdeyuel 笑死我了行！必须行🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600516230850703360",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T09:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941431982313148452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941431982313148452",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 受不了了 整碗倒我嘴里行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 192,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1016
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T15:43:18.000Z",
+        "description": "喜欢小狗",
+        "id": "1600516230850703360",
+        "location": "北京",
+        "name": "西红柿炒蛋吃咸的！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938932814700843008/nXkQP5i2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 60,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "username": "yuanyshngdeyuel",
+        "verified": false
+      }
+    ]
+  }
+}

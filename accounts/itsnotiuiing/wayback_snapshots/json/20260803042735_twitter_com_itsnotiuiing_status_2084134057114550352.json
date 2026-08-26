@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2084134057114550352",
+    "created_at": "2026-08-03T04:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084134057114550352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663893237793169411",
+          "start": 3,
+          "username": "0715z520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084134057114550352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083922952618496471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0715z520: 想象一下，我是你的高需求焦虑型女友，每天晚上非要跟你打电话，等你睡着了还要发一堆骚扰你的话，熬到2点，睡醒了就立马找你，要你陪我，所有软件必须跟你换情侣头像，换着看你在不在线，找不到你就哭着喊着说你不爱我了，无时无刻都要跟你在一起，有分离焦虑，5分钟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2084134057114550352",
+        "created_at": "2026-08-03T04:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084134057114550352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663893237793169411",
+              "start": 3,
+              "username": "0715z520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084134057114550352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083922952618496471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0715z520: 想象一下，我是你的高需求焦虑型女友，每天晚上非要跟你打电话，等你睡着了还要发一堆骚扰你的话，熬到2点，睡醒了就立马找你，要你陪我，所有软件必须跟你换情侣头像，换着看你在不在线，找不到你就哭着喊着说你不爱我了，无时无刻都要跟你在一起，有分离焦虑，5分钟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663893237793169411",
+        "conversation_id": "2083922952618496471",
+        "created_at": "2026-08-02T14:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083922952618496471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083922952618496471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4393,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下，我是你的高需求焦虑型女友，每天晚上非要跟你打电话，等你睡着了还要发一堆骚扰你的话，熬到2点，睡醒了就立马找你，要你陪我，所有软件必须跟你换情侣头像，换着看你在不在线，找不到你就哭着喊着说你不爱我了，无时无刻都要跟你在一起，有分离焦虑，5分钟不回我就打电话轰炸你说你出轨。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 231,
+          "like_count": 2989,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T13:00:50.000Z",
+        "description": "盗图挡灾 不和有对象的聊",
+        "id": "1663893237793169411",
+        "location": "你的心里",
+        "name": "眼泪一直掉",
+        "pinned_tweet_id": "2082128691040342153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082128368074629120/YDnQxD0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8519,
+          "following_count": 35,
+          "like_count": 2616,
+          "listed_count": 16,
+          "media_count": 30,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "0715z520",
+        "verified": false
+      }
+    ]
+  }
+}

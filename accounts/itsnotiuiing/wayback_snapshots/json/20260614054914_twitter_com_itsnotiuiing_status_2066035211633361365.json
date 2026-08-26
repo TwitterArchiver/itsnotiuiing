@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2066032339340460294",
+    "created_at": "2026-06-14T05:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066035211633361365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1532422030020464640",
+          "start": 0,
+          "username": "zi20000749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066035211633361365",
+    "in_reply_to_user_id": "1532422030020464640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066033332627128433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zi20000749 为什么呀🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2066032339340460294",
+        "created_at": "2026-06-14T05:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066035211633361365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1532422030020464640",
+              "start": 0,
+              "username": "zi20000749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066035211633361365",
+        "in_reply_to_user_id": "1532422030020464640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066033332627128433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zi20000749 为什么呀🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532422030020464640",
+        "conversation_id": "2066032339340460294",
+        "created_at": "2026-06-14T05:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066033332627128433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033332627128433",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066032339340460294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 不要去江汉路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "觉今是而昨非",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 260,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-02T18:01:07.000Z",
+        "description": "人是不是总要从身体里流出什么才能冲淡痛苦?眼泪，汗水，血液，呕吐物，恶毒的辱骂和诅咒，不知所云的誓言和承诺",
+        "id": "1532422030020464640",
+        "location": "0.1km（我写的 这是假的）",
+        "name": "Meow文",
+        "pinned_tweet_id": "2009241241649889745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065291948810981376/eyxGSRvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 39,
+          "like_count": 469,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 190
+        },
+        "username": "zi20000749",
+        "verified": false
+      }
+    ]
+  }
+}

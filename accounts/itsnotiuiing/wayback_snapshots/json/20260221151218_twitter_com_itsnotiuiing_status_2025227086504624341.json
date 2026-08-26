@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2025223779681796314",
+    "created_at": "2026-02-21T15:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025227086504624341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873776667422015488",
+          "start": 0,
+          "username": "mngzh24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025227086504624341",
+    "in_reply_to_user_id": "1873776667422015488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025226635461755388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngzh24795 可否开启"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2025223779681796314",
+        "created_at": "2026-02-21T15:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025227086504624341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873776667422015488",
+              "start": 0,
+              "username": "mngzh24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025227086504624341",
+        "in_reply_to_user_id": "1873776667422015488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025226635461755388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngzh24795 可否开启"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873776667422015488",
+        "conversation_id": "2025223779681796314",
+        "created_at": "2026-02-21T15:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025226635461755388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025226635461755388",
+        "in_reply_to_user_id": "1873776667422015488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025223779681796314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道为啥收不到了 因为我关掉了妈呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "不善于社交",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 251,
+          "like_count": 2452,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 34
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T17:02:57.000Z",
+        "description": "不知名小男🚢，被大家喜欢非常荣幸！非常开心！希望我的作品有让你们开心！！\n大学牲 05后 switch i 喜欢说唱 健身 羽球 \n欢迎找我打游戏，LOL 大师！瓦神话！ 劫小白！希望可以遇到到很多善良的人！\nngl：https://t.co/WELoXAobhu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loofla86499",
+                "end": 132,
+                "expanded_url": "https://ngl.link/loofla86499",
+                "start": 109,
+                "url": "https://t.co/WELoXAobhu"
+              }
+            ]
+          }
+        },
+        "id": "1873776667422015488",
+        "location": "Burbank, CA",
+        "name": "loofla",
+        "pinned_tweet_id": "2024656909329191300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983398965380059136/lVDKCIcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 44,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 66
+        },
+        "username": "mngzh24795",
+        "verified": false
+      }
+    ]
+  }
+}

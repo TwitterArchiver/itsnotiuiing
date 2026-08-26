@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1950880972733554826",
+    "created_at": "2025-07-31T11:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T12:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950880972733554826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lbx1314/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lbx1314/status/1950758170516918704",
+          "start": 8,
+          "url": "https://t.co/gGSRmsuwiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950880972733554826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950758170516918704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 接🫂 https://t.co/gGSRmsuwiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950758161918705664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxJ8NnPbwAAVNax.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1950880972733554826",
+        "created_at": "2025-07-31T11:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950880972733554826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lbx1314/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lbx1314/status/1950758170516918704",
+              "start": 8,
+              "url": "https://t.co/gGSRmsuwiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950880972733554826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950758170516918704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 接🫂 https://t.co/gGSRmsuwiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950758161918705664"
+          ]
+        },
+        "author_id": "1778038278912139264",
+        "conversation_id": "1950758170516918704",
+        "created_at": "2025-07-31T03:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950758170516918704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF4Iqg5ZXi",
+              "end": 41,
+              "expanded_url": "https://x.com/lbx1314/status/1950758170516918704/photo/1",
+              "media_key": "3_1950758161918705664",
+              "start": 18,
+              "url": "https://t.co/bF4Iqg5ZXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950758170516918704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 59610,
+          "like_count": 302,
+          "quote_count": 23,
+          "reply_count": 217,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这才是疯狂星期四的正确打开方式🌚🌚 https://t.co/bF4Iqg5ZXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 249,
+          "like_count": 1088,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 558
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T12:32:21.000Z",
+        "description": "我来X就为了三件事，抽象，抽象，还是他妈的抽象",
+        "id": "1778038278912139264",
+        "location": "020",
+        "name": "刘北席",
+        "pinned_tweet_id": "1907984742634659984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786255291119804416/SV8R_du6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 967,
+          "like_count": 3894,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 2801
+        },
+        "username": "lbx1314",
+        "verified": false
+      }
+    ]
+  }
+}

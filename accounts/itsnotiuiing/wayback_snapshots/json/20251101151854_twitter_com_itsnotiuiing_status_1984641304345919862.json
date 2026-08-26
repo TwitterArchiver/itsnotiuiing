@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984641032190115843"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "1984641304345919862",
+    "created_at": "2025-11-01T15:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984641304345919862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Am8g43g3oz",
+          "end": 36,
+          "expanded_url": "https://x.com/itsnotiuiing/status/1984641304345919862/video/1",
+          "media_key": "13_1984641032190115843",
+          "start": 13,
+          "url": "https://t.co/Am8g43g3oz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984641304345919862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的付出不是你想要的礼物 https://t.co/Am8g43g3oz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 1280,
+        "media_key": "13_1984641032190115843",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984641032190115843/img/ofIX9nAFiM97_6XP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984641032190115843/vid/avc1/320x568/4RgreyjFb04lMY3m.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984641032190115843/vid/avc1/480x852/wMHrCaqZ2bv-ncVS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984641032190115843/vid/avc1/720x1280/9Smt9n1hBiLwQPQp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984641032190115843/pl/td2O-VSth3t7TCPD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984641032190115843"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "1984641304345919862",
+        "created_at": "2025-11-01T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984641304345919862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Am8g43g3oz",
+              "end": 36,
+              "expanded_url": "https://x.com/itsnotiuiing/status/1984641304345919862/video/1",
+              "media_key": "13_1984641032190115843",
+              "start": 13,
+              "url": "https://t.co/Am8g43g3oz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984641304345919862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的付出不是你想要的礼物 https://t.co/Am8g43g3oz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 302,
+          "like_count": 1981,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      }
+    ]
+  }
+}

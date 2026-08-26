@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941426016783872292",
+    "created_at": "2025-07-05T16:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T17:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941529211308753139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863975825693138944",
+          "start": 0,
+          "username": "HeWei72191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941529211308753139",
+    "in_reply_to_user_id": "1863975825693138944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941523430005932355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeWei72191 🫰🫰🫰🫰🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T16:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941529211308753139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863975825693138944",
+              "start": 0,
+              "username": "HeWei72191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941529211308753139",
+        "in_reply_to_user_id": "1863975825693138944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941523430005932355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeWei72191 🫰🫰🫰🫰🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863975825693138944",
+        "conversation_id": "1941426016783872292",
+        "created_at": "2025-07-05T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941523430005932355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941523430005932355",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941426016783872292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 妈的好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 196,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1039
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:57:29.000Z",
+        "description": "你想要的一切我都笑眯眯的双手奉上原来你最不想要的就是我🚪288\n@Xxx113575X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "Xxx113575X"
+              }
+            ]
+          }
+        },
+        "id": "1863975825693138944",
+        "location": "一枚brat",
+        "name": "想要一点好运气",
+        "pinned_tweet_id": "1896187242424742290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929485818340753408/CaF3k7x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 41,
+          "like_count": 1251,
+          "listed_count": 22,
+          "media_count": 185,
+          "tweet_count": 783
+        },
+        "username": "HeWei72191",
+        "verified": false
+      }
+    ]
+  }
+}

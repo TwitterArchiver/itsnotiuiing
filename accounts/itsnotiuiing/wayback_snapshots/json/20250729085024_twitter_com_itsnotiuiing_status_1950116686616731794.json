@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1949837307055317357",
+    "created_at": "2025-07-29T08:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T09:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950116686616731794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1383405704233381894",
+          "start": 0,
+          "username": "syhsyh15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950116686616731794",
+    "in_reply_to_user_id": "1383405704233381894",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950094550493483406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syhsyh15 ！！！！😳😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T08:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T09:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950116686616731794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1383405704233381894",
+              "start": 0,
+              "username": "syhsyh15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950116686616731794",
+        "in_reply_to_user_id": "1383405704233381894",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950094550493483406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhsyh15 ！！！！😳😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383405704233381894",
+        "conversation_id": "1949837307055317357",
+        "created_at": "2025-07-29T07:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950094550493483406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950094550493483406",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949837307055317357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我爱上了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 215,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 591
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T13:03:26.000Z",
+        "description": "/ https://t.co/zbseUV3ysm 自用梯子🪜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bbb.av8d002.top/#/register?cod…",
+                "end": 25,
+                "expanded_url": "https://bbb.av8d002.top/#/register?code=7fRLcUW6",
+                "start": 2,
+                "url": "https://t.co/zbseUV3ysm"
+              }
+            ]
+          }
+        },
+        "id": "1383405704233381894",
+        "location": "门槛 188",
+        "name": "一只笨鱼（考盐版 恩师 lii",
+        "pinned_tweet_id": "1935939208985952285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941467864650686464/dv9EYsJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 215,
+          "like_count": 9259,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 2911
+        },
+        "username": "syhsyh15",
+        "verified": false
+      }
+    ]
+  }
+}

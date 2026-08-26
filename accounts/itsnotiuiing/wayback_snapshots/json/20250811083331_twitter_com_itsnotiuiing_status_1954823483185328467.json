@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1954793754562334894",
+    "created_at": "2025-08-11T08:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954823483185328467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944739532827660289",
+          "start": 0,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954823483185328467",
+    "in_reply_to_user_id": "1944739532827660289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954818856725143639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niuwooo 接🤲🤲🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1954793754562334894",
+        "created_at": "2025-08-11T08:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954823483185328467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944739532827660289",
+              "start": 0,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954823483185328467",
+        "in_reply_to_user_id": "1944739532827660289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954818856725143639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niuwooo 接🤲🤲🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944739532827660289",
+        "conversation_id": "1954793754562334894",
+        "created_at": "2025-08-11T08:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954818856725143639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954818856725143639",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954817413175726554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 我必须谈一个微分碎盖薄肌眼镜男🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "@ZB1_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ZB1_official"
+              }
+            ]
+          }
+        },
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 283,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 727
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "纯💚喜欢当朋友圈发｜enfp｜交朋友随缘 喜欢看碎碎念｜如果你够抽象的话那我们就是好朋友啦💍 ｜ADHD患者 🥺 路过的每一个人都要提醒我学习！｜一个绝望的工科女生🫠｜打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁✋打屁屁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niu%E2%80%86wo…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niu%E2%80%86wo%E2%80%86o%E2%80%86o",
+                "start": 0,
+                "url": "https://t.co/J49uUSqeHU"
+              }
+            ]
+          }
+        },
+        "id": "1944739532827660289",
+        "location": "Taipei City, Taiwan",
+        "name": "牛奶味十足（实习倒计时day7）（考研想死版）",
+        "pinned_tweet_id": "1953689852030992484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944739701300002816/zYVdD459_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 116,
+          "like_count": 3578,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/J49uUSqeHU",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

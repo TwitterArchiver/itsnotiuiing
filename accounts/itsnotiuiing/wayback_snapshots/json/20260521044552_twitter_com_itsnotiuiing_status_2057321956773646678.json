@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2057119126804631853",
+    "created_at": "2026-05-21T04:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057321956773646678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1584314588446658560",
+          "start": 0,
+          "username": "runrunrun_iy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057321956773646678",
+    "in_reply_to_user_id": "1584314588446658560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057247456166105335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runrunrun_iy 但是还是会情绪反扑😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2057119126804631853",
+        "created_at": "2026-05-21T04:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057321956773646678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1584314588446658560",
+              "start": 0,
+              "username": "runrunrun_iy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057321956773646678",
+        "in_reply_to_user_id": "1584314588446658560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057247456166105335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runrunrun_iy 但是还是会情绪反扑😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584314588446658560",
+        "conversation_id": "2057119126804631853",
+        "created_at": "2026-05-20T23:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057247456166105335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057247456166105335",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057119126804631853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 该忘记的人就要忘记 不必怀念 断的干净一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "你要离开 我知道很简单",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 261,
+          "like_count": 2697,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 54
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T22:43:34.000Z",
+        "description": "死之前希望找到一个灵魂伴侣",
+        "id": "1584314588446658560",
+        "name": "胡丽静",
+        "pinned_tweet_id": "2054070144301985819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055007123172671488/a6xwSmVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 325,
+          "like_count": 6581,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 485
+        },
+        "username": "runrunrun_iy",
+        "verified": false
+      }
+    ]
+  }
+}

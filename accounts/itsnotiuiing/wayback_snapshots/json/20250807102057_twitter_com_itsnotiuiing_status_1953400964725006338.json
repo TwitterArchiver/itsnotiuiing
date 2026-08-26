@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1952939065550242181",
+    "created_at": "2025-08-07T10:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953400964725006338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933665474317070338",
+          "start": 0,
+          "username": "xihushui08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953400964725006338",
+    "in_reply_to_user_id": "1933665474317070338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953396374654833149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihushui08 是呀嘿嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T10:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953400964725006338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933665474317070338",
+              "start": 0,
+              "username": "xihushui08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953400964725006338",
+        "in_reply_to_user_id": "1933665474317070338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953396374654833149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihushui08 是呀嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933665474317070338",
+        "conversation_id": "1952939065550242181",
+        "created_at": "2025-08-07T10:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953396374654833149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953396374654833149",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952939065550242181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 好萌啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 281,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 603
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T23:19:37.000Z",
+        "description": "抽刀断水流",
+        "id": "1933665474317070338",
+        "name": "贴着玻璃触摸雨",
+        "pinned_tweet_id": "1935323239770656984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951966140072075264/I5i8NeOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 68,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 294
+        },
+        "username": "xihushui08",
+        "verified": false
+      }
+    ]
+  }
+}

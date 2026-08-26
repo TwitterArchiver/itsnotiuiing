@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956097689663496553",
+    "created_at": "2025-08-14T20:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T21:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956097689663496553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806236878599041024",
+          "start": 3,
+          "username": "ljny2140072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956097689663496553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955488569151361097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljny2140072: 祝你身边突然蹦出一个很喜欢很喜欢你的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956097689663496553",
+        "created_at": "2025-08-14T20:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T21:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956097689663496553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806236878599041024",
+              "start": 3,
+              "username": "ljny2140072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956097689663496553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955488569151361097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljny2140072: 祝你身边突然蹦出一个很喜欢很喜欢你的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806236878599041024",
+        "conversation_id": "1955488569151361097",
+        "created_at": "2025-08-13T04:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955488569151361097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955488569151361097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 211474,
+          "like_count": 3337,
+          "quote_count": 72,
+          "reply_count": 157,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "祝你身边突然蹦出一个很喜欢很喜欢你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 297,
+          "like_count": 1613,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 729
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T08:03:45.000Z",
+        "description": "海压竹枝低复举，风吹山角晦还明\nZUEL'29🧑‍🎓｜BBA（Hons）in Accounting & Finance｜Secondary in AI &Data Analytics｜Cambridge sp'25| IE Exchange'25🌎｜FRM level 1 ｜BA in Philosophy",
+        "id": "1806236878599041024",
+        "location": "江南",
+        "name": "oioi",
+        "pinned_tweet_id": "1952393119233986615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951725581328154624/wIxBpwAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 333,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 218
+        },
+        "username": "ljny2140072",
+        "verified": false
+      }
+    ]
+  }
+}

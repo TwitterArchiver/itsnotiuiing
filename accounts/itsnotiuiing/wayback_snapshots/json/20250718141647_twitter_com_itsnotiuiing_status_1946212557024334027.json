@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1946196310433894760",
+    "created_at": "2025-07-18T14:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T15:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946212557024334027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1933134495773052928",
+          "start": 0,
+          "username": "1122334455hj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946212557024334027",
+    "in_reply_to_user_id": "1933134495773052928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946196310433894760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1122334455hj 聊这么绿色的话题吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1946196310433894760",
+        "created_at": "2025-07-18T14:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946212557024334027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933134495773052928",
+              "start": 0,
+              "username": "1122334455hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946212557024334027",
+        "in_reply_to_user_id": "1933134495773052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946196310433894760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1122334455hj 聊这么绿色的话题吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933134495773052928",
+        "conversation_id": "1946196310433894760",
+        "created_at": "2025-07-18T13:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T14:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946196310433894760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "知秋’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkKz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ZkKzYXyaMXxv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1946196312191356928/OxlQtcgF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946196312191356928/OxlQtcgF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 周末快乐啊",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkKzYXyaMXxv/peek",
+              "url": "https://t.co/ELWqo60g2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946196310433894760",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5739,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 825,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ELWqo60g2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 163,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 550
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T12:09:29.000Z",
+        "description": "是个人机      饭盒https://t.co/M0QXv1BTR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "h11223344.fanbox.cc",
+                "end": 35,
+                "expanded_url": "https://h11223344.fanbox.cc/",
+                "start": 12,
+                "url": "https://t.co/M0QXv1BTR2"
+              }
+            ]
+          }
+        },
+        "id": "1933134495773052928",
+        "name": "知秋",
+        "pinned_tweet_id": "1942613380109590642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937453169480802304/edM_8Sh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9184,
+          "following_count": 24,
+          "like_count": 19,
+          "listed_count": 13,
+          "media_count": 23,
+          "tweet_count": 100
+        },
+        "username": "1122334455hj",
+        "verified": false
+      }
+    ]
+  }
+}

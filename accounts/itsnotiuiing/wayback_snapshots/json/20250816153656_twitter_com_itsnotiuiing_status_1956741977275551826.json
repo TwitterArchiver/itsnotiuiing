@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1956403124060713136",
+    "created_at": "2025-08-16T15:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956741977275551826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545841595517652992",
+          "start": 0,
+          "username": "Jwb9Om"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956741977275551826",
+    "in_reply_to_user_id": "1545841595517652992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956738750597181720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jwb9Om 可以配咖啡🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1956403124060713136",
+        "created_at": "2025-08-16T15:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956741977275551826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545841595517652992",
+              "start": 0,
+              "username": "Jwb9Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956741977275551826",
+        "in_reply_to_user_id": "1545841595517652992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956738750597181720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jwb9Om 可以配咖啡🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545841595517652992",
+        "conversation_id": "1956403124060713136",
+        "created_at": "2025-08-16T15:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956738750597181720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956738750597181720",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956403124060713136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 宝宝你是一块好吃的小蛋糕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "^_^",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 305,
+          "like_count": 1612,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 661
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T18:45:39.000Z",
+        "description": "ENFP｜我爱辣条｜我是声控｜我爱喝小饮料｜我爱小猫｜平安喜樂，萬事順遂",
+        "id": "1545841595517652992",
+        "location": "虚拟游戏的喜马拉雅山",
+        "name": "暴暴猫",
+        "pinned_tweet_id": "1948591345494261789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945929253435953152/bJpdKMZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 703
+        },
+        "username": "Jwb9Om",
+        "verified": false
+      }
+    ]
+  }
+}

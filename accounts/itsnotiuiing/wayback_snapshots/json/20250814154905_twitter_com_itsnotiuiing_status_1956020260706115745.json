@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1955599474845442463",
+    "created_at": "2025-08-14T15:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956020260706115745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1577510555551956993",
+          "start": 0,
+          "username": "LuvSic02274433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956020260706115745",
+    "in_reply_to_user_id": "1577510555551956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955599474845442463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSic02274433 如听仙乐耳暂明👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85891,
+        "height": 396,
+        "media_key": "13_1955598894253150208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955598894253150208/img/Gn37im5Luke0QEfu.jpg",
+        "public_metrics": {
+          "view_count": 829
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955598894253150208/vid/avc1/602x270/WuMBeRycfudbrAtu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955598894253150208/vid/avc1/884x396/OmuaDC2L-K446XeM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955598894253150208/pl/WWU7bWcpYnCWjo10.m3u8?v=f7a"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1955599474845442463",
+        "created_at": "2025-08-14T15:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956020260706115745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1577510555551956993",
+              "start": 0,
+              "username": "LuvSic02274433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956020260706115745",
+        "in_reply_to_user_id": "1577510555551956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955599474845442463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSic02274433 如听仙乐耳暂明👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955598894253150208"
+          ]
+        },
+        "author_id": "1577510555551956993",
+        "conversation_id": "1955599474845442463",
+        "created_at": "2025-08-13T11:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955599474845442463"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "翻唱"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "必杀技"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "古巨基"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXXV5CMzlU",
+              "end": 87,
+              "expanded_url": "https://x.com/LuvSic02274433/status/1955599474845442463/video/1",
+              "media_key": "13_1955598894253150208",
+              "start": 64,
+              "url": "https://t.co/JXXV5CMzlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955599474845442463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2928,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“一句为什么不找找你\n\n                   我练到再倔强再绝也 也永没法比 ”\n\n#翻唱 #必杀技 #古巨基 https://t.co/JXXV5CMzlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1955309933580390694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 291,
+          "like_count": 1613,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 833
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T04:06:47.000Z",
+        "description": "至少还在上坡路上｜推荐自用蜂鸟vpn：https://t.co/8ARScuzJZ2｜小小的老子@iiiamwhatusee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "iiiamwhatusee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=hWet1hiQ",
+                "start": 19,
+                "url": "https://t.co/8ARScuzJZ2"
+              }
+            ]
+          }
+        },
+        "id": "1577510555551956993",
+        "location": "我们不会相见",
+        "name": "黑色剑士",
+        "pinned_tweet_id": "1936638601917559271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921493259827957760/0dtxwwrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13324,
+          "following_count": 321,
+          "like_count": 2246,
+          "listed_count": 24,
+          "media_count": 137,
+          "tweet_count": 3851
+        },
+        "username": "LuvSic02274433",
+        "verified": false
+      }
+    ]
+  }
+}

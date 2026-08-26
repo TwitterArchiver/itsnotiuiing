@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1941842438685086182",
+    "created_at": "2025-07-06T13:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T14:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941848663548178719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779006683181940738",
+          "start": 0,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941848663548178719",
+    "in_reply_to_user_id": "1779006683181940738",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941845454255472848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1941842438685086182",
+        "created_at": "2025-07-06T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941848663548178719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941848663548178719",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941845454255472848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779006683181940738",
+        "conversation_id": "1941842438685086182",
+        "created_at": "2025-07-06T13:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941845454255472848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941845454255472848",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941842861554819436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "Good luck is always here",
+        "id": "1905985028057911296",
+        "location": "南极洲",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 205,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1004
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "08准大一/我活在自己的世界",
+        "id": "1779006683181940738",
+        "location": "🚪100纯绿好友位 ",
+        "name": "白毛红瞳狗狗厨",
+        "pinned_tweet_id": "1941411646922162610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9290,
+          "following_count": 193,
+          "like_count": 18532,
+          "listed_count": 22,
+          "media_count": 333,
+          "tweet_count": 8717
+        },
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

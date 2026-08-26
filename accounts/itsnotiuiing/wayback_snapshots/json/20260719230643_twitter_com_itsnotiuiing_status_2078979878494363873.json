@@ -1,0 +1,954 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078964091817738240"
+      ],
+      "media_source_tweet_id": [
+        "2078964130808000850"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "2059337575270174720",
+          "name": "Spain vs Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226180259446784",
+          "name": "Spain"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1275806388367720450",
+          "name": "2022 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2059337575270174720",
+          "name": "Spain vs Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+          "id": "40",
+          "name": "Sports Series"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "2059337575270174720",
+          "name": "Spain vs Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226180259446784",
+          "name": "Spain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2078979878494363873",
+    "created_at": "2026-07-19T23:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078979878494363873"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 52,
+          "tag": "VamosEspaña"
+        },
+        {
+          "end": 83,
+          "start": 67,
+          "tag": "CopaMundialFIFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1139001474",
+          "start": 3,
+          "username": "SEFutbol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFOrFpIUoy",
+          "end": 107,
+          "expanded_url": "https://x.com/SEFutbol/status/2078964130808000850/photo/1",
+          "media_key": "3_2078964091817738240",
+          "start": 84,
+          "url": "https://t.co/NFOrFpIUoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078979878494363873",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078964130808000850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SEFutbol: ⭐️⭐️ ¡¡𝗦𝗢𝗠𝗢𝗦 𝗕𝗜𝗖𝗔𝗠𝗣𝗘𝗢𝗡𝗘𝗦 𝗗𝗘𝗟 𝗠𝗨𝗡𝗗𝗢!!\n\n#VamosEspaña | #CopaMundialFIFA https://t.co/NFOrFpIUoy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2078964091817738240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNn206GWwAAWYzN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078964091817738240"
+          ]
+        },
+        "author_id": "1139001474",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "El entrenador de la Selección de España presentó este lunes su lista para la fase de grupos de la Nations League. La Roja se enfrentará a Portugal, Suiza y la República Checa en cuatro fechas en junio. Entre las novedades han destacado los regresos de Marco Asensio, Ansu Fati y Sergio Busquets. \n\nAquí puedes seguir todas las reacciones a  los 25 jugadores convocados al torneo a través de Tweets de medios y periodistas ⬇️",
+              "id": "1528712862566187008",
+              "name": "Luis Enrique cita los jugadores que disputarán la Nations League"
+            }
+          }
+        ],
+        "conversation_id": "2078964130808000850",
+        "created_at": "2026-07-19T22:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078964130808000850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "VamosEspaña"
+            },
+            {
+              "end": 69,
+              "start": 53,
+              "tag": "CopaMundialFIFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFOrFpIUoy",
+              "end": 93,
+              "expanded_url": "https://x.com/SEFutbol/status/2078964130808000850/photo/1",
+              "media_key": "3_2078964091817738240",
+              "start": 70,
+              "url": "https://t.co/NFOrFpIUoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078964130808000850",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2625,
+          "impression_count": 2921117,
+          "like_count": 126836,
+          "quote_count": 3731,
+          "reply_count": 3580,
+          "retweet_count": 52162
+        },
+        "reply_settings": "everyone",
+        "text": "⭐️⭐️ ¡¡𝗦𝗢𝗠𝗢𝗦 𝗕𝗜𝗖𝗔𝗠𝗣𝗘𝗢𝗡𝗘𝗦 𝗗𝗘𝗟 𝗠𝗨𝗡𝗗𝗢!!\n\n#VamosEspaña | #CopaMundialFIFA https://t.co/NFOrFpIUoy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078964091817738240"
+          ],
+          "media_source_tweet_id": [
+            "2078964130808000850"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2078979878494363873",
+        "created_at": "2026-07-19T23:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078979878494363873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "VamosEspaña"
+            },
+            {
+              "end": 83,
+              "start": 67,
+              "tag": "CopaMundialFIFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1139001474",
+              "start": 3,
+              "username": "SEFutbol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFOrFpIUoy",
+              "end": 107,
+              "expanded_url": "https://x.com/SEFutbol/status/2078964130808000850/photo/1",
+              "media_key": "3_2078964091817738240",
+              "start": 84,
+              "url": "https://t.co/NFOrFpIUoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078979878494363873",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078964130808000850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SEFutbol: ⭐️⭐️ ¡¡𝗦𝗢𝗠𝗢𝗦 𝗕𝗜𝗖𝗔𝗠𝗣𝗘𝗢𝗡𝗘𝗦 𝗗𝗘𝗟 𝗠𝗨𝗡𝗗𝗢!!\n\n#VamosEspaña | #CopaMundialFIFA https://t.co/NFOrFpIUoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 238,
+          "like_count": 2962,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-01T07:47:49.000Z",
+        "description": "#VamosEspaña | X oficial de la Selección Española Masculina de Fútbol ⚽ RFEF en X | @rfef 🇬🇧 English version | @SpainIsFootball",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 0,
+                "tag": "VamosEspaña"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 84,
+                "username": "rfef"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "SpainIsFootball"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sefutbol",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sefutbol",
+                "start": 0,
+                "url": "https://t.co/duPa8yly9k"
+              }
+            ]
+          }
+        },
+        "id": "1139001474",
+        "location": "España",
+        "name": "Selección Española Masculina de Fútbol",
+        "pinned_tweet_id": "2078964130808000850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078966839896399873/E6668WYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674767,
+          "following_count": 330,
+          "like_count": 4635,
+          "listed_count": 5823,
+          "media_count": 41031,
+          "tweet_count": 60728
+        },
+        "url": "https://t.co/duPa8yly9k",
+        "username": "SEFutbol",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2060012877147505107",
+    "created_at": "2026-05-28T16:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060031836836028432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047966424648298496",
+          "start": 0,
+          "username": "wei951027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060031836836028432",
+    "in_reply_to_user_id": "2047966424648298496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060031523349573948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei951027 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2060012877147505107",
+        "created_at": "2026-05-28T16:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060031836836028432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047966424648298496",
+              "start": 0,
+              "username": "wei951027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060031836836028432",
+        "in_reply_to_user_id": "2047966424648298496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060031523349573948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei951027 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047966424648298496",
+        "conversation_id": "2060012877147505107",
+        "created_at": "2026-05-28T16:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060031523349573948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060031523349573948",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060012877147505107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 收到，马上让马化腾和马斯克谈业务合作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "幸运( ＞ω＜)ฅ🍀",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2037573470587076841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 260,
+          "like_count": 2767,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T09:10:39.000Z",
+        "description": "问https://t.co/L0O5Uwwvm3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wei951027",
+                "end": 24,
+                "expanded_url": "https://ngl.link/wei951027",
+                "start": 1,
+                "url": "https://t.co/L0O5Uwwvm3"
+              }
+            ]
+          }
+        },
+        "id": "2047966424648298496",
+        "location": "太原",
+        "name": "Tony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048625708470272000/RIHRFQZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "wei951027",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "1950917550063165832",
+    "created_at": "2025-07-31T16:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950959992154272248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852026533403152384",
+          "start": 0,
+          "username": "yinzhuanqing111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950959992154272248",
+    "in_reply_to_user_id": "1852026533403152384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950958820978536792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinzhuanqing111 ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "1950917550063165832",
+        "created_at": "2025-07-31T16:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950959992154272248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852026533403152384",
+              "start": 0,
+              "username": "yinzhuanqing111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950959992154272248",
+        "in_reply_to_user_id": "1852026533403152384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950958820978536792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinzhuanqing111 ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852026533403152384",
+        "conversation_id": "1950917550063165832",
+        "created_at": "2025-07-31T16:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950958820978536792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905985028057911296",
+              "start": 0,
+              "username": "itsnotiuiing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950958820978536792",
+        "in_reply_to_user_id": "1905985028057911296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950917550063165832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsnotiuiing 这个视频能发我一下不❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "♐️",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "1924695121997791258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 241,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 557
+        },
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T16:35:26.000Z",
+        "description": "",
+        "id": "1852026533403152384",
+        "name": "一只小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949145557525528576/ScMPO0gC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 28,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 37
+        },
+        "username": "yinzhuanqing111",
+        "verified": false
+      }
+    ]
+  }
+}

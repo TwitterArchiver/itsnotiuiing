@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068297584914079744"
+      ]
+    },
+    "author_id": "1905985028057911296",
+    "conversation_id": "2068238212615848156",
+    "created_at": "2026-06-20T11:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068297593025949750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597161610799636483",
+          "start": 0,
+          "username": "TiAmosuisui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xxsp6FHm3X",
+          "end": 40,
+          "expanded_url": "https://x.com/itsnotiuiing/status/2068297593025949750/photo/1",
+          "media_key": "3_2068297584914079744",
+          "start": 17,
+          "url": "https://t.co/Xxsp6FHm3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068297593025949750",
+    "in_reply_to_user_id": "1597161610799636483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068238212615848156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiAmosuisui 福州！ https://t.co/Xxsp6FHm3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068297584914079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQRsfaaIAAu6va.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1831,
+        "media_key": "3_2068238175181717504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPbqY6bwAApvOH.jpg",
+        "width": 1032
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068238175181660160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPbqY6a4AA7wgC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1790,
+        "media_key": "3_2068238175169130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPbqY3bsAArqw2.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068297584914079744"
+          ]
+        },
+        "author_id": "1905985028057911296",
+        "conversation_id": "2068238212615848156",
+        "created_at": "2026-06-20T11:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068297593025949750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597161610799636483",
+              "start": 0,
+              "username": "TiAmosuisui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xxsp6FHm3X",
+              "end": 40,
+              "expanded_url": "https://x.com/itsnotiuiing/status/2068297593025949750/photo/1",
+              "media_key": "3_2068297584914079744",
+              "start": 17,
+              "url": "https://t.co/Xxsp6FHm3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068297593025949750",
+        "in_reply_to_user_id": "1597161610799636483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068238212615848156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiAmosuisui 福州！ https://t.co/Xxsp6FHm3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068238175181717504",
+            "3_2068238175181660160",
+            "3_2068238175169130496"
+          ]
+        },
+        "author_id": "1597161610799636483",
+        "conversation_id": "2068238212615848156",
+        "created_at": "2026-06-20T07:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068238212615848156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mS0ztbEpD5",
+              "end": 25,
+              "expanded_url": "https://x.com/TiAmosuisui/status/2068238212615848156/photo/1",
+              "media_key": "3_2068238175181717504",
+              "start": 2,
+              "url": "https://t.co/mS0ztbEpD5"
+            },
+            {
+              "display_url": "pic.x.com/mS0ztbEpD5",
+              "end": 25,
+              "expanded_url": "https://x.com/TiAmosuisui/status/2068238212615848156/photo/1",
+              "media_key": "3_2068238175181660160",
+              "start": 2,
+              "url": "https://t.co/mS0ztbEpD5"
+            },
+            {
+              "display_url": "pic.x.com/mS0ztbEpD5",
+              "end": 25,
+              "expanded_url": "https://x.com/TiAmosuisui/status/2068238212615848156/photo/1",
+              "media_key": "3_2068238175169130496",
+              "start": 2,
+              "url": "https://t.co/mS0ztbEpD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068238212615848156",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤨 https://t.co/mS0ztbEpD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "我可以什么都不在乎",
+        "id": "1905985028057911296",
+        "name": "iuiing",
+        "pinned_tweet_id": "2064701428481012224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928452472080875520/7kdpmcXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 255,
+          "like_count": 2897,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:33:07.000Z",
+        "description": "小则宝💕聊天🚪888888",
+        "id": "1597161610799636483",
+        "location": "TiAmo",
+        "name": "小则身体健康天天开心",
+        "pinned_tweet_id": "1911057071270752764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741099621320138752/VVf9gK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 56,
+          "like_count": 7003,
+          "listed_count": 6,
+          "media_count": 1146,
+          "tweet_count": 13877
+        },
+        "url": "",
+        "username": "TiAmosuisui",
+        "verified": false
+      }
+    ]
+  }
+}
