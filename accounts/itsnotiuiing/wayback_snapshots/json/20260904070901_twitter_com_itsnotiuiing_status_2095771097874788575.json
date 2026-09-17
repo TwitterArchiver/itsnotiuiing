@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2095714775716315359",
+    "created_at": "2026-09-04T07:09:01.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095771097874788575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454096315558744065",
+          "start": 0,
+          "username": "tjy080119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095771097874788575",
+    "in_reply_to_user_id": "1454096315558744065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095714775716315359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tjy080119 问号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2095714775716315359",
+        "created_at": "2026-09-04T07:09:01.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095771097874788575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454096315558744065",
+              "start": 0,
+              "username": "tjy080119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095771097874788575",
+        "in_reply_to_user_id": "1454096315558744065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095714775716315359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tjy080119 问号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454096315558744065",
+        "conversation_id": "2095714775716315359",
+        "created_at": "2026-09-04T03:25:13.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095714775716315359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095714775716315359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 35957,
+          "like_count": 399,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我发现如果把三天的量一次性撸出来，并且用一张洁柔的面巾纸抱住，就可以制造一个浓精炸弹你知道吗，往地上砸一下能爆的到处都是浓精你知道吗，味道一周都散不掉你知道吗，我真得拖地了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "no one but you",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095771097874788575",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 230,
+          "like_count": 2966,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-29T14:43:17.000Z",
+        "description": "4nim0sity|99-999999999%|\n\n恋人/主人@mukuro_majo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "mukuro_majo"
+              }
+            ]
+          }
+        },
+        "id": "1454096315558744065",
+        "is_identity_verified": false,
+        "location": "Speranza",
+        "most_recent_tweet_id": "2095766016274080086",
+        "name": "獄_00019",
+        "pinned_tweet_id": "2025260792598434279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1454096315558744065/1721809197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956335564464250880/hxptL5cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5320,
+          "following_count": 3957,
+          "like_count": 59791,
+          "listed_count": 20,
+          "media_count": 853,
+          "tweet_count": 4874
+        },
+        "url": "",
+        "username": "tjy080119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
