@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2102651398798332349",
+    "created_at": "2026-09-23T06:48:53.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102651398798332349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016164479038586887",
+          "start": 3,
+          "username": "imnotTTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102651398798332349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102423548564586549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imnotTTing: 哥哥你的评论和回复里面怎么那么多萌萌的小女孩啊我好嫉妒我好吃醋我好崩溃啊你只许和我一个人说话聊天暧昧分享日常好吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2102651398798332349",
+        "created_at": "2026-09-23T06:48:53.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102651398798332349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016164479038586887",
+              "start": 3,
+              "username": "imnotTTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102651398798332349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102423548564586549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imnotTTing: 哥哥你的评论和回复里面怎么那么多萌萌的小女孩啊我好嫉妒我好吃醋我好崩溃啊你只许和我一个人说话聊天暧昧分享日常好吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016164479038586887",
+        "conversation_id": "2102423548564586549",
+        "created_at": "2026-09-22T15:43:29.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102423548564586549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102423548564586549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12934,
+          "like_count": 284,
+          "quote_count": 11,
+          "reply_count": 29,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥你的评论和回复里面怎么那么多萌萌的小女孩啊我好嫉妒我好吃醋我好崩溃啊你只许和我一个人说话聊天暧昧分享日常好吗..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "上善若水(｡ì _ í｡)",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102651398798332349",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 225,
+          "like_count": 2997,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:00:59.000Z",
+        "description": "你一定爱我不完美的心\ninfj 05 不看不约 一切推文禁止搬运T _ T\n匿名：https://t.co/RaFzW1JSdg\n防走丢：@JENingT_Tsoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "JENingT_Tsoo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/imnottting",
+                "end": 64,
+                "expanded_url": "https://ngl.link/imnottting",
+                "start": 41,
+                "url": "https://t.co/RaFzW1JSdg"
+              }
+            ]
+          }
+        },
+        "id": "2016164479038586887",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102645223440760867",
+        "name": "TING×2",
+        "pinned_tweet_id": "2097965813127070206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016164479038586887/1789267932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096819237868404736/rDA0oE54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 33,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "imnotTTing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

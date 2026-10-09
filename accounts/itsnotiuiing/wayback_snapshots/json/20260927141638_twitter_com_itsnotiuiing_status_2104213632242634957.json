@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2103837795752231124",
+    "created_at": "2026-09-27T14:16:38.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104213632242634957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "409332530",
+          "start": 0,
+          "username": "aditsonP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104213632242634957",
+    "in_reply_to_user_id": "409332530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103837795752231124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aditsonP 根本没有这种男生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2103837786684166144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJVUgRakAAdP-6.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2103837795752231124",
+        "created_at": "2026-09-27T14:16:38.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104213632242634957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "409332530",
+              "start": 0,
+              "username": "aditsonP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104213632242634957",
+        "in_reply_to_user_id": "409332530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103837795752231124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aditsonP 根本没有这种男生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103837786684166144"
+          ]
+        },
+        "author_id": "409332530",
+        "conversation_id": "2103837795752231124",
+        "created_at": "2026-09-26T13:23:12.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103837795752231124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqSHsWlrLi",
+              "end": 25,
+              "expanded_url": "https://x.com/aditsonP/status/2103837795752231124/photo/1",
+              "media_key": "3_2103837786684166144",
+              "start": 2,
+              "url": "https://t.co/sqSHsWlrLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103837795752231124",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103837786684166144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 115281,
+          "like_count": 945,
+          "quote_count": 12,
+          "reply_count": 87,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/sqSHsWlrLi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "上善若水(｡ì _ í｡)",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104213632242634957",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 222,
+          "like_count": 2988,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-10T15:57:11.000Z",
+        "description": "当朋友圈发啦 小号 @ckyoa7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "ckyoa7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ckyoa3",
+                "end": 23,
+                "expanded_url": "http://t.me/ckyoa3",
+                "start": 0,
+                "url": "https://t.co/rbTBkA2bks"
+              }
+            ]
+          }
+        },
+        "id": "409332530",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104211260585980190",
+        "name": "oi",
+        "pinned_tweet_id": "2095910643396431975",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095526672137433088/rLLT0uNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7605,
+          "following_count": 2,
+          "like_count": 285,
+          "listed_count": 15,
+          "media_count": 45,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/rbTBkA2bks",
+        "username": "aditsonP",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

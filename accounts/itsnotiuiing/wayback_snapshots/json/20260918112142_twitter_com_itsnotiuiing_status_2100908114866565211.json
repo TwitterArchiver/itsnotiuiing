@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2100908114866565211",
+    "created_at": "2026-09-18T11:21:42.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100908114866565211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605295403556958208",
+          "start": 3,
+          "username": "niviskaelis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100908114866565211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100394950143668730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niviskaelis: 如果有男人和我说 乖宝宝 给我 好不好 \n连哄带骗的这种sweet talk\n其实下一秒我就自己坐下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2100908114866565211",
+        "created_at": "2026-09-18T11:21:42.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100908114866565211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605295403556958208",
+              "start": 3,
+              "username": "niviskaelis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100908114866565211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100394950143668730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niviskaelis: 如果有男人和我说 乖宝宝 给我 好不好 \n连哄带骗的这种sweet talk\n其实下一秒我就自己坐下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605295403556958208",
+        "conversation_id": "2100394950143668730",
+        "created_at": "2026-09-17T01:22:34.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100394950143668730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100394950143668730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 130188,
+          "like_count": 2347,
+          "quote_count": 17,
+          "reply_count": 225,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "如果有男人和我说 乖宝宝 给我 好不好 \n连哄带骗的这种sweet talk\n其实下一秒我就自己坐下去了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "no one but you",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100908114866565211",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 226,
+          "like_count": 2988,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T20:13:59.000Z",
+        "description": "在这里做最真实的自己\n理想是跟爱的人大做特做\n提问箱欢迎来💌～\nhttps://t.co/sKJALDk0NY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nivis54701",
+                "end": 55,
+                "expanded_url": "https://ngl.link/nivis54701",
+                "start": 32,
+                "url": "https://t.co/sKJALDk0NY"
+              }
+            ]
+          }
+        },
+        "id": "1605295403556958208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100881014432391449",
+        "name": "Nivis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605295403556958208/1788796326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097452784283164672/ntU5F-AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 4,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "niviskaelis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1905985028057911296",
+    "conversation_id": "2101694666488061963",
+    "created_at": "2026-09-20T15:27:10.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101694666488061963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796908063750078466",
+          "start": 3,
+          "username": "sjjsk13146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101694666488061963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101243167769321878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjjsk13146: 如果有一个人，会去每天翻看我的朋友圈和空间，会去不停视奸我的任何账号，一上线就会看我的主页，会去看我的推荐视频，会揣摩我发的每一条文案，会想我安慰护着我陪我玩，会主动找我聊天，还惯着我的幼稚说我忧郁可爱，那无论怎样我都心甘情愿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905985028057911296",
+        "conversation_id": "2101694666488061963",
+        "created_at": "2026-09-20T15:27:10.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101694666488061963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796908063750078466",
+              "start": 3,
+              "username": "sjjsk13146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101694666488061963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101243167769321878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjjsk13146: 如果有一个人，会去每天翻看我的朋友圈和空间，会去不停视奸我的任何账号，一上线就会看我的主页，会去看我的推荐视频，会揣摩我发的每一条文案，会想我安慰护着我陪我玩，会主动找我聊天，还惯着我的幼稚说我忧郁可爱，那无论怎样我都心甘情愿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796908063750078466",
+        "conversation_id": "2101243167769321878",
+        "created_at": "2026-09-19T09:33:05.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101243167769321878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101243167769321878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 14006,
+          "like_count": 490,
+          "quote_count": 21,
+          "reply_count": 66,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一个人，会去每天翻看我的朋友圈和空间，会去不停视奸我的任何账号，一上线就会看我的主页，会去看我的推荐视频，会揣摩我发的每一条文案，会想我安慰护着我陪我玩，会主动找我聊天，还惯着我的幼稚说我忧郁可爱，那无论怎样我都心甘情愿了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T14:07:12.000Z",
+        "description": "上善若水(｡ì _ í｡)",
+        "id": "1905985028057911296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101694666488061963",
+        "name": "iuiing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905985028057911296/1781701928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463639606886400/FE9Db0QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 225,
+          "like_count": 2994,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "itsnotiuiing",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T14:14:11.000Z",
+        "description": "可以喜欢我吗",
+        "id": "1796908063750078466",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101674597687157083",
+        "name": "花少，帝者戰神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796908063750078466/1729138458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041136556254343168/5f7QW-RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 331,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "sjjsk13146",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
